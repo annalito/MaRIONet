@@ -75,7 +75,7 @@ if ($db->connect_errno) {
 
 
 echo "Dear ", $_POST['name'], "<br>";
-echo "Thank you for registering for the MaRIONet launch event on Wednesday 11 JJanuary in Imperial College London. We look forward to meeting you! Please let other researchers know about this event and encourage them to sign up too.<br>";
+echo "Thank you for registering for the MaRIONet launch event on Wednesday 11 January in Imperial College London. We look forward to meeting you! Please let other researchers know about this event and encourage them to sign up too.<br>";
 
 $users_name = $_POST['name'];
 $users_email = $_POST['email'];
@@ -86,7 +86,7 @@ $users_request = $_POST['reqs'];
 $checkbox = 0;
 
 if($_POST['dinner'] == 'attend') {
-  echo "and for joining us for dinner<br>";
+  echo "We are glad you can join us for dinner after the workshop.<br>";
   $checkbox = 1;
 }
 
