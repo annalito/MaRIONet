@@ -38,7 +38,26 @@
                   <a href="index.html" class="pure-menu-link">Home</a>
                 </li>
                 <li class="pure-menu-item">
-                  <a href="mailto:jeremy.singer@glasgow.ac.uk" class="pure-menu-link">Contact</a>
+                  <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/P006434/1" class="pure-menu-link">About</a>
+                </li>
+                <li class="pure-menu-item" class="menu-item-divided pure-menu-selected">
+                  <a href="form.html" class="pure-menu-link">Register</a>
+                </li>
+				
+				<li class="pure-menu-item" class="menu-item-divided pure-menu-selected">
+                  <a href="members.html" class="pure-menu-link">Members</a>
+                </li>
+				
+				<li class="pure-menu-item" class="menu-item-divided pure-menu-selected">
+                  <a href="events.html" class="pure-menu-link">Events</a>
+                </li>
+				
+				<li class="pure-menu-item" class="menu-item-divided pure-menu-selected">
+                  <a href="joining.html" class="pure-menu-link">Joining</a>
+                </li>
+
+                <li class="pure-menu-item">
+                  <a href="contact.html" class="pure-menu-link">Contact</a>
                 </li>
             </ul>
         </div>
@@ -75,14 +94,14 @@ if ($db->connect_errno) {
 
 
 echo "Dear ", $_POST['name'], "<br>";
-echo "Thank you for registering for the MaRIONet launch event on Wednesday 11 January in Imperial College London. We look forward to meeting you! Please let other researchers know about this event and encourage them to sign up too.<br>";
+echo "Thank you for registering for the UKMAC 2017 event on Tuesday 11 July at the University of Warwick. We look forward to meeting you! Please let other researchers know about this event and encourage them to sign up too.<br>";
 
 $users_name = $_POST['name'];
 $users_email = $_POST['email'];
 $users_affiliation = $_POST['affiliation'];
 $users_quest = $_POST['panelquestion'];
 $users_request = $_POST['reqs'];
-
+/* DINNER
 $checkbox = 0;
 
 if($_POST['dinner'] == 'attend') {
@@ -90,7 +109,8 @@ if($_POST['dinner'] == 'attend') {
   $checkbox = 1;
 }
 
-$db->query('INSERT INTO event20160111 (id, name, email, affiliation, question, requirements, dinner)
+
+$db->query('INSERT INTO event20170711 (id, name, email, affiliation, question, requirements, dinner)
             VALUES (NULL,
                     \''.$db->escape_string($users_name).'\',
                     \''.$db->escape_string($users_email).'\', 
@@ -98,6 +118,16 @@ $db->query('INSERT INTO event20160111 (id, name, email, affiliation, question, r
                     \''.$db->escape_string($users_quest).'\',
                     \''.$db->escape_string($users_request).'\',
                     \''.boolval($checkbox).'\')
+            ');
+*/
+
+$db->query('INSERT INTO event20170711 (id, name, email, affiliation, question, requirements)
+            VALUES (NULL,
+                    \''.$db->escape_string($users_name).'\',
+                    \''.$db->escape_string($users_email).'\', 
+                    \''.$db->escape_string($users_affiliation).'\', 
+                    \''.$db->escape_string($users_quest).'\',
+                    \''.$db->escape_string($users_request).'\')
             ');
 ?>
 
