@@ -4,8 +4,11 @@
  <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1">
  <title>MaRIONet : the UK Manycore Network</title>
-
+ 
+<link href="bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="https://unpkg.com/purecss@0.6.1/build/pure-min.css">
+
     
         <!--[if lte IE 8]>
             <link rel="stylesheet" href="http://purecss.io/combo/1.18.13?/css/layouts/side-menu-old-ie.css">
@@ -91,7 +94,7 @@ The goal of the event is to develop and bring together the UK community of manyc
 
   <p>
     The 2017 event will be held on <strong>Tuesday 11th July 2017</strong> at the <a href="http://www.warwick.ac.uk">University of Warwick</a>.
-This is the 8th event in the series.
+This is the eigth event in the series.
     Previous meetings have taken place at:
     <ul>
 		<li>University of Edinburgh (<a href="http://conferences.inf.ed.ac.uk/UKMAC2016/">2016</a>)</li>
@@ -107,17 +110,184 @@ This is the 8th event in the series.
   <p>Registration will be <strong>free</strong> for this event, due to sponsorship from the <a href="http://manycore.org.uk">UK Manycore Network</a>. 
   </p>
   <p>
-    <a href="form.html">The online registration form</a> is now available
-    for UKMAC'17.
+	<a href="form.html"> Registration is now available through the UK Manycore Network Webpage </a>.
   </p>
 
-  <h2>Presentations</h2>
+  <!--<h2>Presentations</h2>
   We would be grateful to receive offers of 30 minute presentations on all topics of many-core computing including software, hardware and applications from high-performance computing, embedded and mobile systems, computational science, finance, computer vision, formal verification, and beyond.
 </p>
 <p>
   To offer a presentation please send a 200 word abstract describing the presentation to: <a href="mailto:natascha.harth@glasgow.ac.uk">natascha.harth@glasgow.ac.uk</a>.
 The deadline for submitting abstracts is <strong>Friday 2nd June</strong>.
 </p>
+-->
+  <h2>Programme</h2>
+  <table class="mq-table pure-table-bordered pure-table">
+<tbody>
+<tr class="pure-table-odd">
+<td class="time" style="width:100px">09.00-09.15</td> <td>Coffee and Registration</td>
+</tr>
+<tr>
+<td class="time" style="width:100px">09.15-09.45</td>  
+<td> Talk 1: Marco Cianfriglia - Dividiti Ldt
+<br/>Adaptive libraries for emerging applications
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseMarcoCianfriglia" aria-expanded="false" aria-controls="collapseMarcoCianfriglia">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseMarcoCianfriglia">
+High-performance libraries expose multiple tunable parameters that influence the performance.
+Traditionally, such parameters are tuned and hardcoded for a given target architecture to perform well for
+typical inputs (e.g. large operand sizes). Emerging AI and Big Data applications, however, are often
+data-driven, rendering the conventional approach ineffective.
+<br/>
+In this talk, we describe our work-in-progress on designing adaptive GPU libraries for data-driven
+applications. We proceed in three stages. First, starting with some tractable subsets of the parameter
+space, we evaluate various search strategies to discover highly performant parameter combinations for a
+range of inputs in reasonable time. Second, we use the discovered combinations to train models that most
+accurately predict the best performing combination for a given input. Third, we explore trade-offs
+between prediction accuracy and runtime overhead to make this approach feasible in practice.
+<br/>
+We introduce runtime adaptation to the CLBlast library which we use with the Caffe framework, and
+study its effects across several convolutional neural networks, and GPU architectures for mobile and
+desktop platforms. Our workflows are implemented using the Collective Knowledge framework for
+collaborative and reproducible R&D (cknowledge.org), and will be extended to crowdsource
+experimentation across diverse platforms provided by volunteers. </div>
+</td>
+</tr>
+<tr>
+<td class="time" style="width:100px">09.45-10.15</td> <td> Talk 2: Tim Law - University of Warwick
+<br/>Optimisation of a molecular dynamics simulation of chromosome condensation
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseTimLaw" aria-expanded="false" aria-controls="collapseTimLaw">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseTimLaw">
+We present optimisations applied to a bespoke biophysical
+molecular dynamics simulation designed to investigate
+chromosome condensation. Our primary focus is on domainspecific
+algorithmic improvements to determining short-range
+interaction forces between particles, as certain qualities of the
+simulation render traditional methods less effective. We implement
+tuned versions of the code for both traditional CPU
+architectures and the modern many-core architecture found in
+the Intel Xeon Phi coprocessor and compare their effectiveness.
+We achieve speed-ups starting at a factor of 10 over the original
+code, facilitating more detailed and larger-scale experiments.
+</div>
+</td>
+</tr>
+<tr>
+<td class="time">10.15-10.45</td> <td>Talk 3: Christopher Brown – University of St.Andrews
+<br/>ParaFormance: Democratizing Parallel Software Development
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseChristopherBrown" aria-expanded="false" aria-controls="collapseChristopherBrown">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseChristopherBrown">
+Emerging multicore and manycore architectures offer major advantages in terms of performance and low energy usage. We are already seeing designs for 100+ cores CPUs and 1000+ cores GPUs, offering significant potential for parallelism. However, programming models are lagging behind. Exploiting the potential of new parallel systems, even using higher-level programming models, is highly challenging.
+<br/>
+Fundamentally:<br/>
+"Parallelism is too hard for programmers today"<br/>
+Bjarne Stroustrup, Inventor of C++<br/>
+ParaFormance is a novel software toolset for C and C++ that allows software developers to optimise systems for performance and energy consumption by exploiting parallelism quickly and easy. Our ParaFormance tool discovers the potential areas in the application for parallelism, refactors it to introduce the parallel business logic automatically and checks it for thread-safety and runtime bugs. Our case studies have shown 2.5 million lines of code analysed and refactored using ParaFormance, that’s 1 month of manual effort reduced to around 5 minutes. In this talk I will introduce the ParaFormance toolset and give a demonstration of it on a realistic use-case. 
+</div></td>
+</tr>
+<tr class="pure-table-odd">
+<td class="time">10.45-11.00</td> <td class="break">Coffee</td>
+</tr>
+<tr>
+<td class="time">11.00-11.45<td>Keynote Speaker - TBC </td>
+</tr>
+<tr>
+<td class="time">11.45-12.15</td> <td>Talk 4: Hans Vandierendonck - Queen's University Belfast
+<br/>GraphGrind: Taming Irregular Memory Accesses in Graph Analytics Workloads
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseHansVan" aria-expanded="false" aria-controls="collapseHansVan">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseHansVan">
+The analysis of graph-structured data is gaining importance due to its relevance to social media and big data. Due to the interconnection patterns in social network graphs, the performance of graph analytics is impeded by irregular memory accesses patterns which expose memory latency.
+<br/>
+This talk presents our recent work on high-performance graph analytics. We will demonstrate how graph partitioning is crucial to tame memory locality and how it can be used to map graph analytics to non-uniform memory architectures (NUMA). Key to the graph partitioning algorithm is that it achieves memory locality, avoids overlap in write-sets between threads and is efficient to apply. We will discuss the difficulties of making graph partitioning scalable as a result of a strongly biased degree distribution in the partitions. We will demonstrate solutions to these problems. We will moreover identify new opportunities to switch between different representations of the graph during graph traversal in order to maximise processing speed.
+<br/>
+These ideas are implemented in GraphGrind, an open source framework for graph analytics on shared memory systems.
+
+</div></td>
+</tr>
+<tr class="pure-table-odd">
+<td class="time">12.15-13.45</td> <td class="break">Lunch</td>
+</tr>
+<tr>
+<td class="time">13.45-14.15<td>Talk 5: Tim Harris – Oracle
+<br/>Big Graphs on Big Machines
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseOracle" aria-expanded="false" aria-controls="collapseOracle">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseOracle">
+Oracle's largest SPARC M7 system provides 4096 hardware threads spread over 16 sockets in one cache-coherent address space. I will talk about our experience tuning graph analytics workloads to run well on this system, and how we went from an implementation that stopped scaling at around 200 threads to a version that provides super-linear speed-ups on PageRank and SSSP running on 1TB+ inputs over the full machine.  I will focus on the interactions between the threads and the memory system, and the lessons we learned in terms of how to allocate memory and distribute work on these large NUMA systems.
+</div></</td>
+</tr>
+<tr>
+<td class="time">14.15-14.45</td> <td>Talk 6: Pablo Gonzales – Imperial College London
+<br/>An optimization approach for the computational modeling of biological development
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapsePabloGonzales" aria-expanded="false" aria-controls="collapsePabloGonzales">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapsePabloGonzales">
+Current research in the field of computational biology often involves
+simulations on high-performance computer clusters. It is crucial that the code
+of such simulations is efficient and correctly reflects the model
+specifications. 
+In this paper, we present an optimization strategy for simulations of
+biological dynamics using Intel Xeon Phi coprocessors, demonstrated by a
+winning entry of the ``Intel Modern Code Developer Challenge'' competition.
+These optimizations allow simulating various biological mechanisms, in
+particular, the simulation of millions of cell agents, their proliferation,
+movements and interactions in 3D space. Overall, our results demonstrate a
+powerful approach to implement and conduct very detailed and large-scale
+computational simulations for biological research. We also highlight the main
+difficulties faced when developing such optimizations, in particular, the
+changing simulation load over time, the dependencies between different
+optimization techniques and counter-intuitive effects in the speed of the
+optimized solution. The overall speedup of 320x shows a good parallel
+scalability.
+</div></</td>
+</tr>
+<tr>
+<td class="time">14.45-15.15</td> <td>Talk 7: Jose Nunez/Dr Mohammad Hosseinabady  - University of Bristol
+<br/>Simultaneous multiprocessing in a software defined heterogeneous chip
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseJoseNunez" aria-expanded="false" aria-controls="collapseJoseNunez">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseJoseNunez">
+Recent advances in hardware compilers and synthesis tools have resulted in significant increases in hardware design productivity while heterogeneous chips that combine CPUs and FPGAs can be used to distribute processing so that the tasks present in an algorithm map to the most suitable processing element. This software defined high-level design environments use general purpose languages such as C++ and OpenCL without requiring hardware description language expertise. In this paper, we investigate how to enhance an existing software defined framework to reduce overheads and enable the utilisation of all the programmable processing resources present in the system in parallel to optional hardware accelerators. Instead of selecting the best processing resource for a task and simply offloading we create a dynamic scheduler that distributes the task between all processing resources in an optimal way. A new hardware platform is created based on interrupts that removes spin-locks and allows the processing resources to sleep when no performing useful work. Performance and functional portability between 32-bit and 64-bit chips using the same source code with different CPU and FPGA hardware is investigated. The performance and energy evaluation shows up to 40% reduction in execution time when the CPU cores assist FPGA execution at the same level of energy requirements depending on hardware speed-ups.
+</div></</td>
+</tr>
+<tr class="pure-table-odd">
+<td class="time">15.15-15.30</td> <td class="break">Coffee</td>
+</tr>
+<td class="time">15.30-16.00</td> <td>Talk 8: Kevin Hammond – University of St. Andrews
+<br/>Automatically Deriving Cost Models for Structured Parallel Processes Using Hylomorphisms
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseKevinHammond" aria-expanded="false" aria-controls="collapseKevinHammond">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseKevinHammond">
+Structured parallelism using nested algorithmic skeletons can greatly ease the task of writing parallel software, since common, but hard-to-debug problems such as race conditions are eliminated by design. However, choosing the right combination of algorithmic skeletons to yield good parallel speedups for a specific program on a specific parallel architecture is still a difficult problem. This talk introduces the unifying notion of hylomorphisms, a general recursion pattern, to make it possible to reason about both functional correctness properties and about extra-functional timing properties of structured parallel programs. Using our approach, we can now automatically and statically choose the provably optimal parallel structure for a given program with respect to a parallel architecture or a class of architectures.
+</div></</td>
+</tr>
+<tr>
+<td class="time">16.00-17.00</td> <td>Discussion Panel - TBC </td>
+</tr>
+<tr>
+<td class="time">17.00</td> <td>Closing</td>
+</tr>
+</tbody>
+</table>
 
  <h2>Organizing Committee</h2>
  <hr class="small">
@@ -143,6 +313,42 @@ The deadline for submitting abstracts is <strong>Friday 2nd June</strong>.
 </div>
 
 
+ <!-- jQuery -->
+<script src="js/jquery.js"></script>
+ <!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script>
+    // Closes the sidebar menu
+    $("#menu-close").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+
+    // Opens the sidebar menu
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+
+    // Scrolls to the selected menu item on the page
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    </script>
 
 <script src="http://purecss.io/combo/1.18.13?/js/ui.js"></script>
 

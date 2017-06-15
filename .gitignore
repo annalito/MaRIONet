@@ -1,1 +1,5 @@
 config.php
+expenses/
+*.xcf
+name_badge_template.png
+badges/
