@@ -3,9 +3,12 @@
 <head>
  <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1">
- <title>MaRIONet : the UK Manycore Network</title>
-
+ <title>MaRIONet : FHPC </title>
+ 
+<link href="bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="https://unpkg.com/purecss@0.6.1/build/pure-min.css">
+
     
         <!--[if lte IE 8]>
             <link rel="stylesheet" href="http://purecss.io/combo/1.18.13?/css/layouts/side-menu-old-ie.css">
@@ -74,50 +77,59 @@
 
 <div class="content">
 
-  <h2 class="content-subhead">Upcoming Events</h2>
 
 
   
+  <h2 class="content-subhead">Functional High-Performance Computing</h2>
 
+  <h4>Thursday 7th September 2017</h4>
+  <h4>University of Oxford</h4>
   
-
-    <h4>HiPEAC Conference 2018</h4>
   <p>
-    The annual <a href="https://www.hipeac.net/2018/manchester/">HiPEAC conference</a> will be located in Manchester, 22-24 January 2018. Check out the <a href="https://www.hipeac.net/2018/manchester/call-for-papers/">call for papers</a>.
-  </p>
+The 2017 Workshop on  <a href="https://icfp17.sigplan.org/track/FHPC-2017-papers">Functional High-Performance Computing (FHPC’17)</a> was a great success with 6 research presentations, 3 demos, and a panel session. It attracted between 40 and 60 attendees through the day. Simon Marlow gave a great invited talk on the use of Haskell for abuse detecting at Facebook: a ltency-critical operation. We gratefully acknowledge the support of  <a href="http://manycore.org.uk/">MaRIONet</a> and the <a href="http://www.hiperfit.dk/ ">Hiperfit research centre</a> 
 
-  <h4>MarioNet PhD Summer School 2018</h4>
-  <p>
-    MaRIONet is going to run a PhD Summer School from the 15th to the 20th of July 2018 at the University of Glasgow. Details and registration will be coming soon.
-  </p>
-  
-	<!-- <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/P006434/1">EPSRC</a> -->
-  
-
-	<h2 class="content-subhead">Past Events</h2>
-	<ul>
-	<li>September 2017: <a href="fhpc.html">Functional High-Performance Computing</a> (Oxford)
-	<li>September 2017: <a href="60th.html">Reliable, Secure and Scalable Software Systems (RS4)</a> (Glasgow)
-	  <li>July 2017: <a href="ukmac2017.html">UKMAC 2017 Workshop</a> (Warwick)
-          <li>Jan 2017:  <a href="London_jan17.html">Network Launch Event</a>  (Imperial)
-	</ul>
-
-
-<h2 class="content-subhead">Host a Manycore Event</h2>
-
-  <p>
-    If you want to organise a manycore event in the UK, we can help with funding and publicity. Please get in touch with us by visiting our <a href="contact.html">contact</a> page.
-  </p>
-  <p>
-    Please provide some information about your event plans.
-    The network can provide limited funding for venue hire, catering costs and speaker travel expenses.
-  </p>
-</div>
+</div> <!-- content -->
 
 </div> <!-- main -->
 </div>
 
 
+ <!-- jQuery -->
+<script src="js/jquery.js"></script>
+ <!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script>
+    // Closes the sidebar menu
+    $("#menu-close").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+
+    // Opens the sidebar menu
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+
+    // Scrolls to the selected menu item on the page
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    </script>
 
 <script src="http://purecss.io/combo/1.18.13?/js/ui.js"></script>
 

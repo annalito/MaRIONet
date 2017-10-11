@@ -1,0 +1,374 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>MaRIONet : RS4</title>
+ 
+<link href="bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://unpkg.com/purecss@0.6.1/build/pure-min.css">
+
+    
+        <!--[if lte IE 8]>
+            <link rel="stylesheet" href="http://purecss.io/combo/1.18.13?/css/layouts/side-menu-old-ie.css">
+        <![endif]-->
+        <!--[if gt IE 8]><!-->
+            <link rel="stylesheet" href="http://purecss.io/combo/1.18.13?/css/layouts/side-menu.css">
+        <!--<![endif]-->
+    <!--[if lt IE 9]>
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+<div id="layout">
+
+   <!-- Menu toggle -->
+    <a href="#menu" id="menuLink" class="menu-link">
+        <!-- random icon -->
+        <span></span>
+    </a>
+
+    <div id="menu">
+        <div class="pure-menu">
+            <a class="pure-menu-heading" href="#">Menu</a>
+
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item">
+                  <a href="index.html" class="pure-menu-link">Home</a>
+                </li>
+                <li class="pure-menu-item">
+                  <a href="http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/P006434/1" class="pure-menu-link">About</a>
+                </li>
+                <li class="pure-menu-item" class="menu-item-divided pure-menu-selected">
+                  <a href="form.html" class="pure-menu-link">Register</a>
+                </li>
+				
+				<li class="pure-menu-item" class="menu-item-divided pure-menu-selected">
+                  <a href="members.html" class="pure-menu-link">Members</a>
+                </li>
+				
+				<li class="pure-menu-item" class="menu-item-divided pure-menu-selected">
+                  <a href="events.html" class="pure-menu-link">Events</a>
+                </li>
+				
+				<li class="pure-menu-item" class="menu-item-divided pure-menu-selected">
+                  <a href="joining.html" class="pure-menu-link">Joining</a>
+                </li>
+
+                <li class="pure-menu-item">
+                  <a href="contact.html" class="pure-menu-link">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+
+<div id="main">
+
+<div class="header">
+    <img class="pure-img" src="marionet_logo.png" alt="marionet logo">
+  </div>
+
+
+<div class="content">
+
+
+
+  
+  <h2 class="content-subhead">RS4</h2>
+
+  <h4>Reliable, Secure and Scalable Software Systems (RS4)</h4>
+  <h4>Friday 1th September 2017</h4>
+  <h4>University of Glasgow</h4>
+  
+  <p>
+We had a very productive workshop with 7 talks and some plenary discussion. The workshop was
+attended by some 50 people with a good mix of industrial and academic speakers and participants.
+There were presentations from high profile industrialists: Alastair Reid (ARM), Alastair Murray
+(Codeplay Software), Michele Weiland (EPCC), David Irvine (Maidsafe) and Tony Printezis (Twitter),
+and participation from leading universities: including Bristol, Cambridge, Edinburgh, Glasgow, and
+Heriot-Watt.
+<p>
+We discussed the challenges of engineering reliable scalable and secure software (RS4), and some
+possible approaches to solving them. Some key outcomes and ongoing activities include:
+<p>
+(1) Identification of good research ideas and strategies that address modern software and systems
+engineering problems;
+<p>
+(2) Using RS4 as a platform to capture some software and systems engineering success stories and
+challenges from industry and academic viewpoints;
+<p>
+(3) The identification of complementarities and synergies, as well as possibilities for
+collaboration/results adoptions between industry and academic participants;
+<p>
+(4) More broadly, RS4 was aimed at identifying new challenges and trends to influence the UK and
+European research agenda, e.g. via the EPSRC MaRIONet and EU HiPEAC Networks. We note that the
+topic is closely aligned with the EPSRC’s newly launched “Safe and Secure ICT” priority.
+<p>
+
+  <h2>Talks</h2>
+  <table class="mq-table pure-table-bordered pure-table">
+<tbody>
+<tr class="pure-table-odd">
+<td> Talk 1 </td>
+<td> Alastair Reid - ARM
+<br/>Can you trust formally verified software?
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseMarcoCianfriglia" aria-expanded="false" aria-controls="collapseMarcoCianfriglia">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseMarcoCianfriglia">
+A recent, important advance in improving security is that formal verification of system software has
+finally started to become viable: we have examples of formally verified microkernels, realistic
+compilers, hypervisors etc. These are huge achievements and we can expect to see even more
+impressive results in the future but the correctness proofs depend on a number of assumptions
+about the Trusted Computing Base that the software depends on. Two key questions to ask are: Are
+the specifications of the Trusted Computing Base correct? And do the implementations match the
+specifications? I will explore the philosophical challenges and practical steps you can take in
+answering that question for one of the major dependencies: the hardware your software runs on. I
+will describe the combination of formal verification and testing that ARM uses to verify theprocessor specification and I will talk about our current challenge: getting the specification down to
+zero bugs while the architecture continues to evolve. </div>
+</td>
+</tr>
+<tr>
+<td class="time" style="width:100px">Talk 2</td> 
+<td> Jonathan Woodruff - Cambridge Computer Laboratory
+<br/>The Security and Scalability of Capability Memory Protection
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseTimLaw" aria-expanded="false" aria-controls="collapseTimLaw">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseTimLaw">
+New, stronger security mechanisms must also scale with system size in order to be useful in today's
+ecosystems. Leading security proposals for fine-grained isolation add TLB-like mechanisms that
+require system-wide shoot-downs, and others recommend parallel memory hierarchies for tags.
+CHERI capability protection enables both fine-grained memory safety and strong intra-program
+isolation without adding any scaling challenges to our existing consistency mechanisms. Today's
+large systems must devote significant resources to preserve consistency in memory, and CHERI
+capabilities exploit the existing memory-consistency mechanisms by placing all protection primitives
+into physical memory, with capabilities and their tags atomically joined as 257-bit words. As a result
+we have found there to be no significant barrier to adoption to the CHERI model, not only in
+software infrastructure including LLVM and FreeBSD, but also for large-scale hardware design.
+</div>
+</td>
+</tr>
+<tr class="pure-table-odd">
+<td >Talk 3</td> 
+<td>Tony Printezis - Twitter
+<br/>Life of a Twitter JVM engineer
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseChristopherBrown" aria-expanded="false" aria-controls="collapseChristopherBrown">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseChristopherBrown">
+Twitter runs a swarm of services executing on several different managed runtimes. The services have
+migrated from mainly Ruby in the past to mostly Scala today. Targeting the JVM allows developers to
+quickly write and deploy scalable and reliable code. Automated memory management, in particular,
+improves productivity of teams in a fast paced environment. But with these benefits also come
+challenges. The way code is executed on the JVM makes trouble-shooting quite tricky, especially in
+production, as it is often difficult for developers to understand what has gone wrong and how to fix
+it. To make matters even more challenging, the sheer volume of data that flows through these
+services, and their stringent latency requirements, stress the JVM in different and novel ways.
+The talk will cover:
+<br/>
+- how services are deployed and monitored at Twitter,<br/>
+- why Twitter has a #TwitterVMTeam, and<br/>
+- what are the benefits of using a custom JVM and JDK with in-house features.
+</div></td>
+</tr>
+<tr>
+<td class="time">Talk 4</td><td>Dimitrios Pezaros - University of Glasgow
+<br/>Infrastructure support for future resilient networked systems
+<br/><button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseKeynote" aria-expanded="false" aria-controls="collapseKeynote">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseKeynote">
+Recent major cyber-security incidents (e.g., the NHS ransomware incident in 2017) and high-profile
+Distributed Denial of Service attacks (e.g., the Mirai botnet attack in 2016) have demonstrated that
+the current, context-agnostic (inter-)network architecture is not sufficient to provide for resilient
+communications at the onset of adversarial events. The model of the un-intelligent, data-forwarding
+network where (security) services are solely provided by isolated end-systems is deemed to always
+be one-step behind the most recently-exploited software vulnerabilities. In this talk, we will discuss
+work conducted within a recent EPSRC-funded project that tries to introduce the concept of
+situational awareness for future, mission-critical networked systems. In particular, we will look athow recent advances in networking technology can be exploited to provide infrastructural support
+for the flexible deployment of proactive services such as, e.g., always-on traffic monitoring and
+infrastructure protection against attacks. This work constitutes a first step towards future, intelligent
+(and resilient) information infrastructures.
+</div>
+</td>
+</tr>
+<tr>
+<tr class="pure-table-odd">
+<td >Talk 5</td> <td>David Irvine- Maidsafe
+<br/>Scalability of data networking
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseHansVan" aria-expanded="false" aria-controls="collapseHansVan">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseHansVan">
+There are many advances in software distribution security, such as secure multi layer signing by
+disparate non local parties. This talk will not cover that area, but instead focus on secure data
+networking.<br/>
+Secure data networking has at it's core a major problem to overcome, should we be successful as a
+society. That is secured ownership of the data silo's or some mechanism to achieve trust of the
+owning party. In MaidSafe we have taken the approach that the answer to this question is nobody
+owns the data silo (network), but everyone owns their own data on it. This sounds confusing and
+complex, but in fact it is the most natural mechanism we know from our own history.
+Just as we shared written papers between parties in the past and sent these in encrypted form, or
+secured behind a seal, MaidSafe has designed a network that follows this natural paradigm. This
+means turning the Internet into a connected network of many nodes all provide resource, instead of
+the current mechanism of several "trusted" or "capable" entities holding our data within political
+borders behind pseudo regulated contracts.<br/>
+The MaidSafe solution is an autonomous network of connected computers where the network, and
+access to it, belongs to nobody. The Secure Access For Everyone (SAFE) Network is without owners,
+requiring no trust between peers, and no intermediary to enable access, just as the free flow of data
+is supposed to be.<br/>
+I hope this talk will be enlightening and at least leave the group with questions that will challenge
+the status quo.
+</div></td>
+</tr>
+<tr>
+<td class="time">Talk 6<td>Grzegorz Pawelczak, Simon McIntosh-Smith - University of Bristol
+<br/>Application-Based Fault Tolerance Techniques for Sparse Matrix Solvers
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseOracle" aria-expanded="false" aria-controls="collapseOracle">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseOracle">
+The Mean Time Between Failures is expected to decrease as the size and complexity highperformance computing systems continues to increase. With this increase in the number of
+components, Fault Tolerance (FT) has been identified as one of the major challenges for exascale
+computing. One source of faults in a system are soft errors caused by cosmic rays, which can cause
+single or multi bit corruptions to the data held in memory.<br/>
+Current solutions for protection against soft errors include hardware Error Correcting Codes (ECC).
+These have some disadvantages, including that they consume more power, require extra memory
+bandwidth and storage, and they also introduce more complexity to the hardware. ApplicationBased Fault Tolerance (ABFT) allows us to adapt an Error Detection and Correction technique to the
+application and its data structure.In this presentation we demonstrate ABFT techniques for Sparse Matrix Solvers using TeaLeaf, a heat
+conducting miniapp from the Mantevo Project.<br/>
+This software-based approach fully protects the sparse matrix stored in the compressed sparse row
+format and the dense floating point vectors from soft errors. To protect the data we compare
+different error detection and/or correction methods such as Hamming Codes and CRC, and identify
+the trade-offs between them. Our solution requires no extra memory storage as the redundant data
+for the error detection and correction is stored in the least significant bits of the mantissa or in the
+unused bits from the integer vectors.<br/>
+We also investigate tradeoff between the error detection/correction interval and the accuracy of the
+linear solve - performing the test and correction only once per `n’ timesteps can significantly reduce
+the performance overhead of the approach, at the cost of potentially performing more redundant
+work after an error has occurred but before it is detected.<br/>
+In this presentation we will explain the details of these Application-Based Fault Tolerance techniques
+and how they combat soft errors, as well as presenting performance results on different
+architectures including x86, ARM, Intel Xeon Phi (Knights Landing) and GPUs.
+</div></</td>
+</tr>
+<tr class="pure-table-odd">
+<td class="time">Talk 7</td> <td>Alastair Murray - Codeplay Software
+<br/>Implementing Heterogeneous Languages for Safety Critical Use-Cases
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapsePabloGonzales" aria-expanded="false" aria-controls="collapsePabloGonzales">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapsePabloGonzales">
+Until recently safety critical programmers have largely avoided parallel hardware. However, great
+advances in machine vision and deep learning have been made by exploiting the computational
+power of parallel devices such as GPUs or DSPs. These new technologies are now being used in
+safety critical contexts, for example self-driving cars, meaning that the heterogeneous language
+runtimes must be both reliable and predictable. This talk will discuss changes required to current
+parallel programming languages such as OpenCL so that they are both usable and implementable in
+a safety critical context, and some initial thoughts on actually implementing a safe heterogeneous
+language runtime.
+</div></</td>
+</tr>
+<tr>
+<td class="time">Talk 8</td> <td>Anna Lito Michala, Jeremy Singer -University of Glasgow
+<br/>Scaling for the Future: AnyScale Apps
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseJoseNunez" aria-expanded="false" aria-controls="collapseJoseNunez">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseJoseNunez">
+The Anyscale Apps project involves the development of tools that will enable the creation of
+software capable of running on any scale of device, from IoT wireless systems to large data centres.
+The project is funded by EPSRC and aims to cater for a heterogeneous future of versatile
+infrastructure. Automatic adapation of software to different underlying hardware will enable faster
+development cycles and support the next generation of computing systems. Two demonstrators
+were identified as case studies to test our tools.<br/>
+The smart building demonstrator incorporates a network of commodity low cost hardware including
+sensors to monitor occupancy of meeting rooms in the University of Glasgow School of Computing
+Science. In this case, edge computing is utilised to exploit the computational capabilities of the
+underlying hardware while being low cost and easy to scale based on a modular software design.The second case is a robot demonstrator. The distribution of load is performed through a pack of
+robots in order to identify a specific person in a busy room. The robots are required to perform
+compute-intensive tasks on low capability hardware and thus rely on offloading to perform the
+required task within acceptable time frames.<br/>
+Both these demonstrators identify the limitations of the developed tools as well as their advantages
+and usability.
+</div></</td>
+</tr>
+<tr class="pure-table-odd">
+<td class="time">Talk 9</td> <td>Michele Weiland - EPCC 
+<br/>Automatically Deriving Cost Models for Structured Parallel Processes Using Hylomorphisms
+<br/>
+<button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseKevinHammond" aria-expanded="false" aria-controls="collapseKevinHammond">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseKevinHammond">
+This talk will give an overview of the different aspects of the Exascale challenge and assess the
+progress towards reaching this goal. EPCC, the supercomputing centre at the University of
+Edinburgh, is involved (and leading) a variety of efforts in the Exascale research programme, some of
+which will be presented here.
+</div></</td>
+</tr>
+</tbody>
+</table>
+
+
+</div> <!-- content -->
+
+</div> <!-- main -->
+</div>
+
+
+ <!-- jQuery -->
+<script src="js/jquery.js"></script>
+ <!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script>
+    // Closes the sidebar menu
+    $("#menu-close").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+
+    // Opens the sidebar menu
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+
+    // Scrolls to the selected menu item on the page
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    </script>
+
+<script src="http://purecss.io/combo/1.18.13?/js/ui.js"></script>
+
+</body>
+</html>
