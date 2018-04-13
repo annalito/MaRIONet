@@ -8,7 +8,10 @@
 <link href="bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="https://unpkg.com/purecss@0.6.1/build/pure-min.css">
+<link rel="stylesheet" type="text/css" href="js/slick-1.8.0/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="js/slick-1.8.0/slick/slick-theme.css"/>
 
+ 
     
         <!--[if lte IE 8]>
             <link rel="stylesheet" href="https://purecss.io/combo/1.18.13?/css/layouts/side-menu-old-ie.css">
@@ -56,7 +59,8 @@
                 </li>
 				
 					<li class="pure-menu-item" class="menu-item-divided pure-menu-selected">
-                  <a href="summerschool.html" class="pure-menu-link">Summerschool</a>
+                  <a href="summerschool.html"
+                  class="pure-menu-link">Summer School</a>
                 </li>
 				
 				
@@ -86,8 +90,7 @@
   
   <h2 class="content-subhead">Manycore Summer School 2018</h2>
 
-  <h3>16-20 July 2018</h3>
-  <h3>University of Glasgow</h3>
+  <h3>16-20 July 2018, University of Glasgow</h3>
   <p>
   The transition to manycore systems is arguably the greatest challenge facing the ICT industry, Computational Science, and Computing Science research. The manycore revolution is fundamentally changing multiple levels of the computation execution stack: from processor architecture, through systems software, to applications.
 <br>
@@ -95,7 +98,8 @@ The Manycore Summer School gives researchers an opportunity to learn theory and 
   <br> <br>
   
     The Manycore Summer School will be held from <strong>Monday 16th</strong> to <strong>Friday 20th July 2018</strong> at the <a href="http://www.gla.ac.uk">University of Glasgow</a>. Participants should arrive on Sunday 15th July.
-</p>
+  </p>
+  
   <h2>Registration</h2>
   <p>Registration and accommodation are <strong>free</strong> for UK-based PhD students and early career researchers (postdocs), thanks to generous sponsorship from <a href="http://manycore.org.uk">MaRIONet</a> and <a href="http://www.sicsa.ac.uk/"> SICSA </a>. 
   </p>
@@ -373,7 +377,9 @@ We reserved rooms from Sunday 15th (checkin) until Friday 20th (checkout) July 2
 
 <h2>Social</h2>
 
-Scotland is a beautiful country to explore, and Glasgow is a buzzing city with a huge range of leisure, culture and sporting opportunities. As part of the Summerschool there will be an excursion to Loch Lomond, a banquet, and a Ceilidh (Scottish country dancing)
+Scotland is a beautiful country to explore, and Glasgow is a buzzing
+city with a huge range of leisure, culture and sporting
+opportunities. As part of the Summer School there will be an excursion to Loch Lomond, a banquet, and a Ceilidh (Scottish country dancing)
 
  <h2>Organizing Committee</h2>
  <hr class="small">
@@ -386,6 +392,14 @@ Scotland is a beautiful country to explore, and Glasgow is a buzzing city with a
      <li><a href="http://www.eeecs.qub.ac.uk/~H.Vandierendonck/">Hans Vandierendonck</a>, School of EEECS, Queen's University Belfast</li>
   </ul>
 
+  <h2>Sponsors</h2>
+
+<div class="sponsors-class">
+  <div><a href="http://www.sicsa.ac.uk"><img src="images/sicsa.jpg" width="300"alt="[SICSA]"/></a></div>
+  <div><a href="https://epsrc.ukri.org"><img src = "images/epsrc.jpg" width="300" alt="[EPSRC]"/></a></div>
+  <div><a href="https://manycore.org.uk"><img src = "images/marionet.jpg" width="300" alt="[MaRIONet]"/></a></div>
+</div>
+  
 </div> <!-- content -->
 
 </div> <!-- main -->
@@ -393,8 +407,16 @@ Scotland is a beautiful country to explore, and Glasgow is a buzzing city with a
 
 
  <!-- jQuery -->
+<!-- 
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+ <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="slick/slick.min.js"></script>
+-->
+
 <script src="js/jquery.js"></script>
- <!-- Bootstrap Core JavaScript -->
+<!-- slick -->
+<script type="text/javascript" src="js/slick-1.8.0/slick/slick.min.js"></script>
+<!-- Bootstrap Core JavaScript -->
 <script src="js/bootstrap.min.js"></script>
 
     <!-- Custom Theme JavaScript -->
@@ -428,6 +450,19 @@ Scotland is a beautiful country to explore, and Glasgow is a buzzing city with a
         });
     });
     </script>
+
+  <script type="text/javascript">
+$(document).ready(function(){
+  $('.sponsors-class').slick({
+   slidesToShow: 2,
+   slidesToScroll: 1,
+   autoplay: true,
+   autoplaySpeed: 3000,
+   dots:true,
+   arrows:true
+});
+});
+</script>
 
 <script src="https://purecss.io/combo/1.18.13?/js/ui.js"></script>
 
