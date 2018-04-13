@@ -99,6 +99,60 @@ The Manycore Summer School gives researchers an opportunity to learn theory and 
   
     The Manycore Summer School will be held from <strong>Monday 16th</strong> to <strong>Friday 20th July 2018</strong> at the <a href="http://www.gla.ac.uk">University of Glasgow</a>. Participants should arrive on Sunday 15th July.
   </p>
+
+    <h2>Speakers</h2>
+
+  <div class="speakers-class">
+  <div>
+    <img src="ss_pics/jbalkind.jpg" width="200" alt="Jon Balkind"/>
+    Mr Jon Balkind<br/>
+    Princeton University<br/>
+    <b>OpenPiton Open Source Research Processor</b>
+  </div>
+
+  <div>
+    <img src="ss_pics/abrown.jpg" width="200" alt="Andrew Brown"/>
+    Prof Andrew Brown<br/>
+    University of Southampton<br/>
+    <b>Event-Driven Computing</b>
+  </div>
+
+    <div>
+    <img src="ss_pics/tcollis.jpg" width="200" alt="Toni Collis"/>
+      Dr Toni Collis<br/>
+    Women in High-Performance Computing<br/>
+    <b>Careers in HPC</b>
+  </div>
+
+  <div>
+    <img src="ss_pics/keder.jpg" width="200" alt="Kerstin Eder"/>
+    Prof Kerstin Eder<br/>
+    University of Bristol<br/>
+    <b>Whole Systems Energy Transparency</b>
+  </div>
+
+    <div>
+      <img src="ss_pics/mhorsnell.jpg" width="200" alt="Matt Horsnell"/>
+      Dr Matt Horsnell<br/>
+      arm<br/>
+      <b>Weak Memory and Heterogeneous Computing</b>
+    </div>
+
+    <div>
+      <img src="ss_pics/hans17.jpg" width="200" alt="Hans Vandierendonck"/>
+      Dr Hans Vandierendonck<br/>
+      Queen's University Belfast<br/>
+      <b>High-Performance Graph Analytics in Shared Memory</b>
+    </div>
+
+    <div>
+      <img src="ss_pics/mwolckzo.png" width="200" alt="Mario Wolckzo"/>
+      Dr Mario Wolckzo<br/>
+      Oracle Labs<br/>
+      <b>A Concise and Opinionated History of Virtual Machines</b>
+  </div>
+    
+  </div>
   
   <h2>Registration</h2>
   <p>Registration and accommodation are <strong>free</strong> for UK-based PhD students and early career researchers (postdocs), thanks to generous sponsorship from <a href="http://manycore.org.uk">MaRIONet</a> and <a href="http://www.sicsa.ac.uk/"> SICSA </a>. 
@@ -162,7 +216,7 @@ The Manycore Summer School gives researchers an opportunity to learn theory and 
 
 <tr>
 <td class="time" style="width:100px">13.30-15.00</td>  
-<td> Speaker 2 <br><strong>Mario Wolsckzo</strong> <br><i> Lecture</i></td>
+<td> Speaker 2 <br><strong>Mario Wolckzo</strong> <br><i> Lecture</i></td>
 <td> Speaker 3 <br><strong>Toni Collis</strong> <br><i> Lecture</i></td>
 <td> Speaker 5 <br><strong>Kerstin Eder</strong> <br><i> Lecture</i></td>
 <td> Speaker 6 <br><strong>Jon Balkind</strong> <br><i> Lecture</i></td>
@@ -180,7 +234,7 @@ The Manycore Summer School gives researchers an opportunity to learn theory and 
 
 <tr>
 <td class="time" style="width:100px">15.30-17.00</td>  
-<td> Speaker 2 <br><strong>Mario Wolsckzo</strong> <br><i> Lab</i></td>
+<td> Speaker 2 <br><strong>Mario Wolckzo</strong> <br><i> Lab</i></td>
 <td> Excursion</td>
 <td> Speaker 5 <br><strong>Kerstin Eder</strong> <br><i> Lecture</i></td>
 <td> Speaker 6 <br><strong>Jon Balkind</strong> <br><i> Lab</i></td>
@@ -231,7 +285,7 @@ In these seminars, we present a little bit of history, and then suggest an alter
 
 <tr>
 <td class="time" style="width:100px">Speaker 2</td>
-<td>Mario Wolsckzo - Oracle
+<td>Mario Wolckzo - Oracle
 <br/>A Concise and Opinionated History of Virtual Machines
 <br/>
 <button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseOracle" aria-expanded="false" aria-controls="collapseOracle">
@@ -464,6 +518,19 @@ $(document).ready(function(){
    dots:true,
    arrows:true
 });
+
+  $('.speakers-class').slick({
+   slidesToShow: 3,
+   slidesToScroll: 1,
+   centerMode: true,
+   centerPadding: '0px',
+   autoplay: true,
+   autoplaySpeed: 3000,
+   dots:true,
+   arrows:true
+});
+
+
 });
 </script>
 
