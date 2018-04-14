@@ -3,7 +3,7 @@
 <head>
  <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1">
- <title>MaRIONet : Register for UKMAC 2017</title>
+ <title>MaRIONet : Register for Manycore Summer School</title>
 
 <link rel="stylesheet" href="https://unpkg.com/purecss@0.6.1/build/pure-min.css">
     
@@ -74,30 +74,70 @@
 
 <div class="content">
 
-<form class="pure-form pure-form-stacked" action="register.php"
+<form class="pure-form pure-form-aligned" action="register.php"
   method="post">
 
-  <legend> <a href="ukmac2017.html">UKMAC 2017 Event Registration Form (Tue 11 July)</a> </legend>
+  <legend> <a href="summerschool.html">Manycore Summer School 2018</a> Registration Form</a> </legend>
  <fieldset>
 
-  <label for="name">Name</label>
-  <input id="name" type="text" name="name" placeholder="My name is ...">
+  <div class="pure-control-group">
+  <label for="name">My name</label>
+  <input id="name" type="text" name="name" placeholder="My name is ..." required>
+  </div>
 
-  <label for="affiliation">Affiliation</label>
+  <div class="pure-control-group">  
+  <label for="affiliation">My affiliation</label>
   <input id="affiliation" type="text" name="affiliation"
-  placeholder="I work for...">
+	 placeholder="University of ..." required>
+  </div>
 
-  <label for="email">Email</label>
-  <input id="email" type="email" name="email" placeholder="foo@example.com">
+  <div class="pure-control-group">
+  <label for="email">My email address</label>
+  <input id="email" type="email" name="email" placeholder="foo@somewhere.ac.uk" required>
+  </div>
 
+  <div class="pure-control-group">
   <label for="reqs">Special requirements, e.g. diet, accessibility</label>
   <input id="reqs" name="reqs" type="text" placeholder="Anything we should know?">
+  </div>
+
+  <hr/>
+  <label for="accommodation">Will I need accommodation in Glasgow?</label>
+  <div id="accommodation">
+
+    <label for="choice1" class="pure-radio">
+        <input type="radio" id="choice1"
+	   name="accomm" value="none">
+    Not needed</label>
+
+    <label for="choice2" class="pure-radio">
+        <input type="radio" id="choice2"
+	   name="accomm" value="sun2fri" checked>
+    5 nights from Sun 15 to Fri 20 July</label>
+
+    <label for="choice3" class="pure-radio">
+        <input type="radio" id="choice3"
+	   name="accomm" value="mon2fri">
+    4 nights from Mon 16 to Fri 20 July</label>
+
+  </div>
+<hr/>
+  <div class="pure-control-group">
+  <label for="motivation">Why do I want to attend the manycore summer school? (<= 50 words)</label>
+  <textarea id="motivation" name="motivation" placeholder="I want to attend because ..." rows="6"></textarea>
+  </div>
+
+  <hr/>
   
+  <div class="pure-control-group">
+  <label for="supername">My supervisor's name</label>
+  <input id="supername" type="text" name="supername" placeholder="Prof Su Pervisor" required>
+   </div>
+    <i>Note we require a personal reference from your supervisor, to be emailed to <a href="mailto:n.harth.1@research.gla.ac.uk">n.harth.1@research.gla.ac.uk</a></i>
 
-  <label for="panelquestion">(Optional) Submit a question for the discussion panel.</label>
-  <textarea id="panelquestion" name="panelquestion" placeholder="I would like to ask...." ></textarea>
-
-  <button type="submit" class="pure-button pure-button-primary">Submit</button>
+<hr/>
+  
+  <button type="submit" class="pure-button pure-button-primary">Register</button>
   
  </fieldset>
 </form>
