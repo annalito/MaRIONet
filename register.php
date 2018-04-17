@@ -98,8 +98,6 @@ else {
 echo "<p>Dear ", $_POST['name'], ",<br/>&nbsp;<br/>";
 echo "Thank you for applying to attend the <a href=\"summerschool.html\">Manycore Summer School</a> in Glasgow, 16-20 July 2018. We will send you an auto-confirmation by email, but note that our message may drop into your spam folder! You <b>must</b> ensure your supervisor or line manager sends us a <b>reference</b>, attesting your academic status and the relevance of your research topic to the Manycore Summer School. Ask your supervisor to email this reference to <a href=\"mailto:n.harth.1@research.gla.ac.uk\">n.harth.1@research.gla.ac.uk</a>, ideally within the next two weeks.<br/>&nbsp;<br/> Once we have received your reference, we will confirm your registration by email. We look forward to meeting you! Please let other researchers know about this event and encourage them to sign up too.<br/></p><hr/>";
 
-}
-/*    
 
 $name = $_POST['name'];
 $affiliation = $_POST['affiliation'];
@@ -144,11 +142,11 @@ $headers = "From: noreply@manycore.org.uk" . "\r\n" .
 
 $txt = wordwrap($txt,70);
 
-echo "<p>Confirmation email sent to: ", $to, "</p>;
+echo "<p>Confirmation email sent to: ", $to, ". <i>If you can\'t see it, check your spam folder.</i></p>";
 
 mail($to,$subject,$txt,$headers);
-*/
 
+}
 ?> 
     
 </div>
