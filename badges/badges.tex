@@ -1,0 +1,96 @@
+%%%%
+%
+% ticket.sty example file for a pin for conferences
+%
+%%%%
+% use the corresponding paper size for your ticket definition
+\documentclass[a4paper,10pt]{letter}
+
+% load ticket.sty with the appropriate ticket definition
+\usepackage[freepin,crossmark]{ticket}
+
+% load misc stuff
+\usepackage{graphicx}
+
+% make your default ticket. \ticketdefault is somewhat like a background
+\renewcommand{\ticketdefault}{%
+  \put(15,  0){\includegraphics{logo_right.png}}
+  \put( 5, 13){\line(1,0){60}}
+%  \put( 6, 8){\scriptsize Launch Meeting}
+%  \put( 6,  5){\scriptsize Imperial College}
+%  \put( 6,  2){\scriptsize 11 January 2017}
+}
+
+% now what do you like to put in your ticket
+\newcommand{\confpin}[2]{\ticket{%
+    \put(35,36){\makebox[0mm]{\bfseries\Large #1}}
+    \put(35,28){\makebox[0mm]{\bfseries\large #2}}%
+}}
+
+
+%% the pins for the partipiciants ... ;-)
+%% you can generate this part from a database!
+\begin{document}
+\sffamily
+\confpin{Jeremy Singer}{University of Glasgow}
+\confpin{Tim Harris}{Oracle Labs}
+\confpin{Eiko Yoneki}{University of Cambridge}
+\confpin{Daniel Goodman}{Oracle Labs}
+\confpin{Steven Wright}{University of Warwick}
+\confpin{Richard Kirk}{University of Warwick}
+\confpin{Dominic Brown}{University of Watwick}
+\confpin{Timothy Law}{University of Warwick}
+\confpin{Gihan Mudalige}{University of Warwick}
+\confpin{Graham Markall}{Embecosm}
+\confpin{Hans Vandierendonck}{Queen's University Belfast}
+\confpin{Andrew Owenson}{University of Warwick}
+\confpin{John McAllister}{Queen's University Belfast}
+\confpin{Marco Cianfriglia}{Dividiti Ltd}
+\confpin{Pablo Gonzalez de Aledo}{Imperial College of London}
+\confpin{Xiangyu Yu}{University of Warwick}
+\confpin{James Davis}{University of Warwick}
+\confpin{K.Cheng}{University of Warwick}
+\confpin{hongjun xiang}{physics department}
+\confpin{Mark Bell}{University of Illinois}
+\confpin{Paul Kelly}{Imperial College London}
+\confpin{Chris Brady}{University of Warwick}
+\confpin{Heather Ratcliffe}{University of Warwick}
+\confpin{Paul Brown}{University of Warwick}
+\confpin{Gianluca Tempesti}{University of York}
+\confpin{Betty Agbons}{University of Warwick}
+\confpin{Zheng Wang}{Lancaster University}
+\confpin{Florian Rathgeber}{ECMWF}
+\confpin{Mohammad Hosseinabady}{University of Bristol}
+\confpin{Stephen I Roberts}{University of Warwick}
+\confpin{Nicolas Melot}{Imperial College London}
+\confpin{Flavio Vella}{Dividiti}
+\confpin{Chris Brown}{University of St Andrews}
+\confpin{Kevin Hammond}{University of St Andrews}
+\confpin{Timothy Jones}{University of Cambridge}
+\confpin{Jim Cownie}{Intel Corporation (UK) Ltd}
+\confpin{Dan Iorga}{Imperial College}
+\confpin{Hugues Evrard}{Imperial College London}
+\confpin{Alessio De Rango}{University of Warwick}
+\confpin{Davide Spataro}{University of Warwick}
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+\confpin{ }{ }
+
+\end{document}

@@ -1,0 +1,72 @@
+name,email,affiliation,question,requirements,dinner
+Alaa Elbetany,elbetany@scitech-innovations.com,Global SciTech-Innovations Ltd,,seafood or vegetarian ,1
+Alastair Murray,alastair.murray@codeplay.com,Codeplay Software Ltd.,,Vegetarian,1
+Amit Kumar Singh,a.k.singh@soton.ac.uk,University of Southampton,"How the applications should be represented to exploit manycore systems  e.g. task graphs,  dataflow models  or multithreaded applications?",,1
+Andrew Brown,adb@ecs.soton.ac.uk,University of Southampton,,,1
+Anna Lito Michala,annalito.michala@glasgow.ac.uk,University of Glasgow,NULL,NULL,0
+Anto Lokhmotov,anton@dividiti.com,dividiti,Unless reusability of research artefacts is considered  there's little hope for making actual progress and transferring research to industry. What are we going to do about that?,,1
+Antoniu Pop,antoniu.pop@manchester.ac.uk,University of Manchester,,,1
+Asieh Salehi,asf08r@ecs.soton.ac.uk,University of Southampton,,,0
+B Karunakar Reddy,krb1g15@soton.ac.uk,University of Southampton,Is dark silicon a threat to growth of many-core embedded system?,,0
+Brijesh Dongol,Brijesh.Dongol@brunel.ac.uk,Brunel University,,,0
+Charlie Leech,cl19g10@ecs.soton.ac.uk,University of Southampton,"How would you define many-core over multi-core, what are the defining features and characteristics that make many-core platforms distinct?",N/A,0
+Chris Brown,cmb21@st-andrews.ac.uk,University of St Andrews,,,0
+Dan Liew,daniel.liew@imperial.ac.uk,Imperial College London,,,1
+David Thomas,dt10@imperial.ac.uk,Imperial College,What do you think about open-vs-closed-vs-custom instruction set architectures?,,1
+Erika Pellegrino,e.pellegrino16@imperial.ac.uk,Imperial College London,,,0
+Florian Rathgeber,florian.rathgeber@ecmwf.int,ECMWF,,,1
+George Constantinides,gac1@ic.ac.uk,Imperial College London,How will the adoption of FPGA-based compute change the cloud?,Low fibre,1
+Georgios Karakonstantis,g.karakonstantis@qub.ac.uk,Queen's University Belfast,What is the limit to the number of cores that we should target for,,0
+Gerry Scott,gerry.scott@soton.ac.uk,PRiME Research Programme,"For successful widespread adoption of many core systems,  what comes first - the hardware or the software apps?",,0
+Hans-Wolfgang Loidl,H.W.Loidl@hw.ac.uk,Heriot-Watt University,,none,0
+Hugues EVRARD,h.evrard@imperial.ac.uk,Imperial College London,Given the complexity and energy cost of coherent shared-memory in manycore systems do you think isolated-memory message-passing based manycore systems  like Spinnaker or Parallela boards  have a bright future?,vegetarian,1
+Izaak Coleman,izaak.coleman11@imperial.ac.uk,Imperial College London,,,0
+Jeremy Singer,jeremy.singer@glasgow.ac.uk,University of Glasgow,NULL,NULL,1
+John Thomson,j.thomson@st-andrews.ac.uk,University of St Andrews,Users of high end battery powered multicores care about 'performance' in a completely different way to execution time. Is this metric even relevant in this domain?,,1
+John Wickerson,j.wickerson@imperial.ac.uk,Imperial,,Vegetarian,0
+Jose Cano Reyes,jcanore@inf.ed.ac.uk,University of Edinburgh ,,,0
+Kenneth MacKenzie,kwm2@st-andrews.ac.uk,The University of St Andrews,Programming GPUs: is it really worth all that trouble?,,0
+Kevin Zhou,rkz20@cam.ac.uk,University of Cambridge,,,0
+Laurence Tratt,laurie@tratt.net,King's College London,,,1
+Lawrence Mitchell,lawrence.mitchell@imperial.ac.uk,Imperial College London,Is single-source performance portability a myth?,N/A,0
+LuÃ­s Pina,l.pina@imperial.ac.uk,Imperial College London,,,1
+Marc DERQUENNES,marc.derquennes@bayncore.com,BAYNCORE,,NO,1
+Matthew Taylor,m.taylor16@imperial.ac.uk,PhD Student Imperial College (Supervisor: Paul Kelly),,Vegetarian,1
+Michael O'Boyle,mob@inf.ed.ac.uk,U. Edinburgh,If parallel computing is so hard  how come we seem to be managing manycores so well  so far?,None,0
+Michel Steuwer,michel.steuwer@ed.ac.uk,University of Edinburgh ,,,1
+Murray Cole,mic@inf.ed.ac.uk,University of Edinburgh,Manycore etc is here and people are using it. How much longer do academic researchers have before industrial practice becomes set in stone and we are in another legacy software stranglehold? ,none,0
+Nicholas Ng,nickng@imperial.ac.uk,Imperial.ac.uk,,,0
+Nobuko Yoshida,n.yoshida@imperial.ac.uk,Imperial College London,a correct integration with concurrent and parallel programming langauges ,,1
+Paul Kelly,p.kelly@imperial.ac.uk,Imperial College London,Parallelism is basically easy.  What does a programming abstraction for *locality* look like?,Vegetarian,1
+Paul Thomson,pault543@gmail.com,Imperial College London,,,0
+Phil Trinder,Phil.trinder@glasgow.ac.uk,Glasgow University,Why don't we have any good programming models for heterogeneous architectures,,1
+Prof Simon Moore,simon.moore@cl.cam.ac.uk,University of Cambridge,"How do we secure manycore systems in the presence of heterogeneity (GPGPUs,  DMA,  intelligent I/O devices,  etc.)?",None,0
+Riccardo Moriconi,r.moriconi16@imperial.ac.uk,Imperial College,May multi-core technologies harness challenges in AI?,,0
+Richard Jones,r.e.jones@kent.ac.uk,University of Kent,,,1
+Rishad Shafik,rishad.shafik@ncl.ac.uk,Newcastle University,Many-cores running many concurrent applications? How do we ensure energy-efficiency and transparency to all applications?,no pork or ham,1
+Russel Winder,russel@winder.org.uk,Self-employed,But manycore is a solved problem isn't it?,vegan+fish,1
+Samuel Williams,secw2@kent.ac.uk,University of Kent,,,0
+Simon Marlow,marlowsd@gmail.com,Facebook,,,0
+Simon Thompson,s.j.thompson@kent.ac.uk,University of Kent,When will we see manicure chips?,None,0
+Simon Thompson,s.j.thompson@kent.ac.uk,University of Kent,Apologies: I will be arriving late  after another meeting in the morning.,,1
+Sophia Drossopoulou,s.drossopoulou@imperial.ac.uk,Imperial College London,,,1
+Stephen Blair-Chappell,stephen.blair-chappell@bayncore.com,Bayncore,,,1
+Steve Furber,steve.furber@manchester.ac.uk,The University of Manchester,Fat cores are too inefficient. The future is for thin cores. Discuss!,N/A,0
+Sven-Bodo Scholz,S.Scholz@hw.ac.uk,Heriot-Watt University,We see a vast increase in the hardware diversity of many-core systems. Will platform independent codes ever become economically viable for performance hungry applications?,,1
+Terrence Mak,terrencemak@gmail.com,University of Southampton,,,0
+Timothy Jones,timothy.jones@cl.cam.ac.uk,University of Cambridge,What should we do to enable all the legacy sequential applications to make the most of parallel hardware?,,0
+Tom Kazmierski,tjk@ecs.soton.ac.uk,University of Southampton,,,1
+Tom Sun,ps702@cl.cam.ac.uk,University of Cambridge,,,0
+Tyler Sorensen,tyler.sorensen@outlook.com,Imperial College London,,,1
+Vladimir Getov,V.S.Getov@westminster.ac.uk,University of Westminster,Barriers to manycore scalability,,1
+,,,,,
+Speakers,,,,,
+Steve Furber,already above,,,,
+Adam Luqmani,adam.luqmani@epsrc.ac.uk,EPSRC,,,
+Simon McIntosh-Smith,cssnmis@bristol.ac.uk,University of Bristol,,,
+Michele Weiland,m.weiland@epcc.ed.ac.uk,EPCC,,,
+Alastair Murray,already above,,,,
+Bodo Scholz,already above,,,,
+Phil Trinder,already above,,,,
+,,,,,
+Alastair Donaldson ,alastair.donaldson@imperial.ac.uk,Imperial,,,
