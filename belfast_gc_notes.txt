@@ -1,0 +1,80 @@
+Manycore Grand Challenges Workshop
+Belfast, Thu 5 Apr 2018
+
+
+After a discussion about historical grand challenges, we asked whether
+we should have an application focus - for instance, the UK-based
+Global Challenges Research Fund (GCRF) and Industrial Strategy
+Challenge Fund (ISCF) are both application-centric.
+
+With this approach, we try to solve real-world problems. Examples
+might include:
+
+* human rights
+* self-driving cars, or adaptive traffic management
+* modelling living processes, discrete event simulation
+* robots and AI in real-time
+
+Building such systems poses challenges to software engineers and
+system architects. Some techniques, e.g. machine learning algorithms,
+might require fundamental redesigns to avoid shared-memory
+architectural assumptions.
+
+The key to tackling such global challenges is the deployment issue -
+getting buy-in from users and communities, perhaps realistic
+deployment plans in developing countries for GCRF.
+
+We noted that current EPSRC cross-ICT priorities are fuzzy and not
+particularly technically focused. Systems research needs to be
+perceived as relevant, but it doesn't naturally 'fit' into any current
+priority.
+
+One high-level challenge is PROGRAMMABILITY. This fits into EPSRC
+priority "People at the heart of ICT". How do end-users add new
+functions to devices? Possible technology includes end-user
+programming, or example-driven programming, or programming IoT devices
+by speech. One issue is that adaptive systems have evolving
+requirements in typical user scenarios.
+
+
+In general, there are several ways to map GCs - either start with
+societal challenges and map down to manycore/systems domain. And/Or
+start with systems and work up to society. Somehow, we need to connect
+systems with society, and it is not clear how this should work.
+
+The nice thing about the historical challenges (Longitude / Moonshot)
+is the definite goal in mind. Success criteria were clear in
+advance. Not so clear what the success criterion would be for a
+'programmability' grand challenge.
+
+We reflected on the contributions of the high-performance computing
+(HPC) community to performance improvement. How much improvement is
+due to Moore's Law, and how much to research innovation in HPC? We
+contrasted HPC research efforts with the Apache Spark ecosystem, which
+is massively popular despite its inefficiency and lack of a research
+based approach. Apache infrastructure has excellent, user-friendly
+tool support and a vibrant volunteer community.
+
+
+Possible next steps
+
+# ask EPSRC whether we can coordinate a workshop on grand challenges
+  in systems
+
+# manufacture a crisis - e.g. exascale- and then think what we would
+  do to tackle this crisis.
+
+# take the list of societal challenges, e.g. UN Sustainable
+  Development Goals, and trace back to relate them to computing grand
+  challenges.
+
+# do something similar for the EPSRC Prosperity Outcomes {Healthy,
+  Connected, Resilient, Productive} Nation - how do these relate to
+  manycore?
+
+# UKRI Industry-led efforts to identify challenges - follow their
+  template, e.g. see docs at
+https://www.gov.uk/government/news/industrial-strategy-challenge-fund-tell-us-what-to-support
+
+# have a panel discussion at a future MaRIONet meeting
+

@@ -3,7 +3,7 @@
 <head>
  <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1">
- <title>MaRIONet : the UK Manycore Network</title>
+ <title>MaRIONet : UKMAC 2017</title>
  
 <link href="bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
@@ -11,13 +11,13 @@
 
     
         <!--[if lte IE 8]>
-            <link rel="stylesheet" href="http://purecss.io/combo/1.18.13?/css/layouts/side-menu-old-ie.css">
+            <link rel="stylesheet" href="https://purecss.io/combo/1.18.13?/css/layouts/side-menu-old-ie.css">
         <![endif]-->
         <!--[if gt IE 8]><!-->
-            <link rel="stylesheet" href="http://purecss.io/combo/1.18.13?/css/layouts/side-menu.css">
+            <link rel="stylesheet" href="https://purecss.io/combo/1.18.13?/css/layouts/side-menu.css">
         <!--<![endif]-->
     <!--[if lt IE 9]>
-        <script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script>
     <![endif]-->
 
 </head>
@@ -93,9 +93,10 @@ The goal of the event is to develop and bring together the UK community of manyc
   </p>
 
   <p>
-    The 2017 event will be held on <strong>Tuesday 11th July 2017</strong> at the <a href="http://www.warwick.ac.uk">University of Warwick</a>.
-This is the eigth event in the series.
+    The 2017 event was held on <strong>Tuesday 11th July 2017</strong> at the <a href="http://www.warwick.ac.uk">University of Warwick</a>.
+This is the eighth event in the series.
     Previous meetings have taken place at:
+  </p>
     <ul>
 		<li>University of Edinburgh (<a href="http://conferences.inf.ed.ac.uk/UKMAC2016/">2016</a>)</li>
 		<li>University of Cambridge (2010 and <a href="http://www.hpc.cam.ac.uk/outreach/2014-ukmac">2014</a>) </li>
@@ -103,11 +104,12 @@ This is the eigth event in the series.
       <li>University of Bristol (<a href="http://www.cs.bris.ac.uk/Research/Micro/ukmac2012.jsp">2012</a>)</li>
 	  <li>Imperial College (<a href="http://www.doc.ic.ac.uk/UKGPU2011/">2011</a>) </li>
     </ul>
+  <p>
     These meetings regularly attract 100 participants and have proved to be invaluable opportunities to meet colleagues and swap stories of manycore successes and challenges.
   </p>
 
   <h2>Registration</h2>
-  <p>Registration will be <strong>free</strong> for this event, due to sponsorship from the <a href="http://manycore.org.uk">UK Manycore Network</a>. 
+  <p>Registration is <strong>free</strong> for this event, due to sponsorship from the <a href="http://manycore.org.uk">UK Manycore Network</a>. 
   </p>
   <p>
 	<a href="form.html"> Registration is now available through the UK Manycore Network Webpage </a>.
@@ -129,7 +131,7 @@ The deadline for submitting abstracts is <strong>Friday 2nd June</strong>.
 </tr>
 <tr>
 <td class="time" style="width:100px">09.15-09.45</td>  
-<td> Talk 1: Marco Cianfriglia - Dividiti Ldt
+<td> Talk 1: Marco Cianfriglia - Dividiti Ltd
 <br/>Adaptive libraries for emerging applications
 <br/>
 <button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseMarcoCianfriglia" aria-expanded="false" aria-controls="collapseMarcoCianfriglia">
@@ -197,7 +199,17 @@ ParaFormance is a novel software toolset for C and C++ that allows software deve
 <td class="time">10.45-11.00</td> <td class="break">Coffee</td>
 </tr>
 <tr>
-<td class="time">11.00-11.45<td>Keynote Speaker - TBC </td>
+<td class="time">11.00-11.45</td><td>Keynote Speaker - Eiko Yoneki - University of Cambridge
+<br/>Efficient Massive-Scale Graph Processing 
+<br/><button class="my-btn" type="button" data-toggle="collapse" data-target="#collapseKeynote" aria-expanded="false" aria-controls="collapseKeynote">
+  Abstract
+</button>
+<div class="collapse abstract" id="collapseKeynote">
+The analysis of graph-structured data is gaining importance due to its relevance to social media and big data. Due to the interconnection patterns in social network graphs, the performance of graph analytics is impeded by irregular memory accesses patterns which expose memory latency.
+<br/>
+The emergence of big data requires fundamental new methodology for data analysis, processing, and information extraction. The main challenge here is to perform efficient and robust data processing, while adapting to the underlying resource availability in a dynamic, large-scale computing environment. Do we really need high performance computers or a large cluster computing? I would introduce our recent work on the graph processing that have billion-scale of vertices and edges in a commodity single computer, which requires secondary storage as external memory. Executing algorithms results in access to such secondary storage and performance of I/O takes an important role, regardless of the algorithmic complexity or runtime efficiency of the actual algorithm in use.
+</div>
+</td>
 </tr>
 <tr>
 <td class="time">11.45-12.15</td> <td>Talk 4: Hans Vandierendonck - Queen's University Belfast
@@ -227,7 +239,7 @@ These ideas are implemented in GraphGrind, an open source framework for graph an
 </button>
 <div class="collapse abstract" id="collapseOracle">
 Oracle's largest SPARC M7 system provides 4096 hardware threads spread over 16 sockets in one cache-coherent address space. I will talk about our experience tuning graph analytics workloads to run well on this system, and how we went from an implementation that stopped scaling at around 200 threads to a version that provides super-linear speed-ups on PageRank and SSSP running on 1TB+ inputs over the full machine.  I will focus on the interactions between the threads and the memory system, and the lessons we learned in terms of how to allocate memory and distribute work on these large NUMA systems.
-</div></</td>
+</div></td>
 </tr>
 <tr>
 <td class="time">14.15-14.45</td> <td>Talk 6: Pablo Gonzales – Imperial College London
@@ -254,7 +266,7 @@ changing simulation load over time, the dependencies between different
 optimization techniques and counter-intuitive effects in the speed of the
 optimized solution. The overall speedup of 320x shows a good parallel
 scalability.
-</div></</td>
+</div></td>
 </tr>
 <tr>
 <td class="time">14.45-15.15</td> <td>Talk 7: Jose Nunez/Dr Mohammad Hosseinabady  - University of Bristol
@@ -265,11 +277,12 @@ scalability.
 </button>
 <div class="collapse abstract" id="collapseJoseNunez">
 Recent advances in hardware compilers and synthesis tools have resulted in significant increases in hardware design productivity while heterogeneous chips that combine CPUs and FPGAs can be used to distribute processing so that the tasks present in an algorithm map to the most suitable processing element. This software defined high-level design environments use general purpose languages such as C++ and OpenCL without requiring hardware description language expertise. In this paper, we investigate how to enhance an existing software defined framework to reduce overheads and enable the utilisation of all the programmable processing resources present in the system in parallel to optional hardware accelerators. Instead of selecting the best processing resource for a task and simply offloading we create a dynamic scheduler that distributes the task between all processing resources in an optimal way. A new hardware platform is created based on interrupts that removes spin-locks and allows the processing resources to sleep when no performing useful work. Performance and functional portability between 32-bit and 64-bit chips using the same source code with different CPU and FPGA hardware is investigated. The performance and energy evaluation shows up to 40% reduction in execution time when the CPU cores assist FPGA execution at the same level of energy requirements depending on hardware speed-ups.
-</div></</td>
+</div></td>
 </tr>
 <tr class="pure-table-odd">
 <td class="time">15.15-15.30</td> <td class="break">Coffee</td>
 </tr>
+<tr>
 <td class="time">15.30-16.00</td> <td>Talk 8: Kevin Hammond – University of St. Andrews
 <br/>Automatically Deriving Cost Models for Structured Parallel Processes Using Hylomorphisms
 <br/>
@@ -278,16 +291,41 @@ Recent advances in hardware compilers and synthesis tools have resulted in signi
 </button>
 <div class="collapse abstract" id="collapseKevinHammond">
 Structured parallelism using nested algorithmic skeletons can greatly ease the task of writing parallel software, since common, but hard-to-debug problems such as race conditions are eliminated by design. However, choosing the right combination of algorithmic skeletons to yield good parallel speedups for a specific program on a specific parallel architecture is still a difficult problem. This talk introduces the unifying notion of hylomorphisms, a general recursion pattern, to make it possible to reason about both functional correctness properties and about extra-functional timing properties of structured parallel programs. Using our approach, we can now automatically and statically choose the provably optimal parallel structure for a given program with respect to a parallel architecture or a class of architectures.
-</div></</td>
+</div></td>
 </tr>
 <tr>
-<td class="time">16.00-17.00</td> <td>Discussion Panel - TBC </td>
+<td class="time">16.00-17.00</td> <td>Discussion Panel - with Daniel Goodman, Paul Kelly and Eiko Yoneki </td>
 </tr>
 <tr>
 <td class="time">17.00</td> <td>Closing</td>
 </tr>
 </tbody>
 </table>
+
+
+<h2>Location</h2>
+The UKMAC 2017 event was held at the <a href="http://www2.warwick.ac.uk/fac/sci/dcs/">Computer Science</a> department <a href="http://campus-cms.warwick.ac.uk/share/6940dbbb12255525a079e22c89561b86">[location]</a> at the University of Warwick in Room <b>CS1.04</b>.
+Please see Warwick <a href="http://www2.warwick.ac.uk/about/visiting/">campus maps</a> for more info. There is a <a href="http://www2.warwick.ac.uk/about/visiting/maps/campusmap/CampusMap-onlineCrops-A4_09-16-CENTRAL.pdf">downloadable PDF map</a>.
+
+
+<h2>Arrival</h2>
+<b>Parking:</b>
+<br> There is parking on campus that is pay and display. Parking for the day is <b>&#163;4.50.</b>
+<br> The car park 15 is just by the back of the CS department. 
+<br> We are also able to reserve some spaces in the arts centre car park (Near Psychology and Senate house on the map). The top two floors of this car park can be reserved for events up to 11am. There is still a requirement to pay and display but you would have a guaranteed space. If you wish to have a reserve parking space please <a href="http://manycore.org.uk/contact.html">contact us</a> directly.
+<br>Alternatively, for anyone staying overnight in Scarman house, there is free parking for them at the conference centre.
+<br>
+<b>Train:</b>
+<br>
+The easiest approach to the department is to get a train to Coventry train station and then take the number 11 or number 12 bus onto campus (arriving at the Bus Interchange). Alternatively, from Leamington Spa (if you happen to be on that train line), you can catch bus U1 onto campus.
+<br>
+Those that fancy more of a walk can get off at Canley station and can get to the campus with a 20 minute walk down Sir Henry Parkes Road, across the A45, continue on Sir Henry Parkes Road until you approach Cannon Park. Follow the road past Cannon Park and eventually you will arrive at the roundabout in the bottom right corner of this <a href="http://www2.warwick.ac.uk/about/visiting/maps/campusmap/CampusMap-onlineCrops-A4_09-16-CENTRAL.pdf">map</a>. It is a short walk from here to the Computer Science department.
+
+<h2>Accommodation</h2>
+If people wish to stay overnight, there is accommodation on campus in <a href="http://www2.warwick.ac.uk/services/conferences/spaces/scarman/">Scarman House</a>. Although this is a conference centre, its also a hotel that can be booked. Unfortunately there are no discounts available, since the workshop is being held in the Computer Science department. Please note that UKMAC is not able to  cover any travel/accomodation costs.
+<br>
+You can book rooms at this page: <a href="https://bandb.warwick.ac.uk">https://bandb.warwick.ac.uk</a>
+
 
  <h2>Organizing Committee</h2>
  <hr class="small">
@@ -350,7 +388,7 @@ Structured parallelism using nested algorithmic skeletons can greatly ease the t
     });
     </script>
 
-<script src="http://purecss.io/combo/1.18.13?/js/ui.js"></script>
+<script src="https://purecss.io/combo/1.18.13?/js/ui.js"></script>
 
 </body>
 </html>
