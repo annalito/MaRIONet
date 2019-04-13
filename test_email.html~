@@ -1,0 +1,23 @@
+<html>
+
+  <body>
+
+    <h2>
+      Test webpage
+    </h2>
+    This is to see if I can send emails from PHP on manycore server.
+
+    <form action="/email2.php" method="post">
+      First name:<br>
+      <input type="text" name="firstname"><br>
+      Email:<br>
+      <input type="text" name="email">
+
+      <input type="submit" value="Submit">
+    </form>
+
+    
+    
+  </body>
+
+</html>
