@@ -1,0 +1,37 @@
+From Phil.Trinder at glasgow.ac.uk  Wed Feb 21 08:00:55 2018
+From: Phil.Trinder at glasgow.ac.uk (Phil Trinder)
+Date: Wed, 21 Feb 2018 08:00:55 +0000
+Subject: [Marionet] Academic Posts at Glasgow
+Message-ID: <9FA592BC1DE81E4CAAC9F278ED754C88129D8352@CMS08-01.campus.gla.ac.uk>
+
+Folks,
+
+The University of Glasgow School of Computing Science is seeking a lecturer, senior lecturer or reader in systems-level edge computing:
+http://www.jobs.ac.uk/job/BHC977/lecturer-senior-lecturer-reader-in-edge-computing/
+
+There are also posts in HCI, Data Science and CS Education:
+https://www.gla.ac.uk/schools/computing/worldchangerswelcome/
+
+Happy to discuss,
+
+Phil
+
+--------------------------------------------------
+Phil Trinder
+Glasgow Parallelism Group (GPG)
+Glasgow Systems Section (GLASS)
+School of Computing Science
+Glasgow University
+Glasgow G12 8QQ
+Scotland
+
+E:   Phil.Trinder at glasgow.ac.uk<mailto:Phil.Trinder at glasgow.ac.uk>
+P:   +44 (141) 330 3627
+W:  www.dcs.gla.ac.uk/~trinder/
+
+
+[University of Glasgow: The Times Scottish University of the Year 2018]
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180221/22ac8a6e/attachment.html>
+

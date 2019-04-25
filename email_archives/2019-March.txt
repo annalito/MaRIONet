@@ -1,0 +1,154 @@
+From mob at inf.ed.ac.uk  Mon Mar 25 16:59:18 2019
+From: mob at inf.ed.ac.uk (Michael O'Boyle)
+Date: Mon, 25 Mar 2019 16:59:18 +0000
+Subject: [Marionet] Welcome to HiPEAC  CSW  Edinburgh April 16-18
+Message-ID: <20190325165918.634430xyj27e7pyc@www.staffmail.ed.ac.uk>
+
+Dear all
+
+     HiPEAC is the European  network for parallelism and systems and
+     will be here in the Forum on April 16-18.
+
+https://www.hipeac.net/csw/2019/edinburgh/#/schedule/
+
+     Why you should sign up (Academics/Researchers):
+
+     - Marionet Event: Micro-Clusters for High-Performance Computing  
+at the Edge
+
+     - Great technical sessions/speakers in heterogeneity, AI, HPC,  
+TechTransfer
+     - Investors and spinouts describe how to spinout your company
+     - Network with leading researchers and industrialist
+
+     Why you should sign up (MSc/PhD students)
+
+     - the above
+     - 500 euros for the best poster/60 second talk
+     - 2 all in travel award to Austin Texas to attend ARM research summit
+       in September  for top 2 poster/60 second talk
+     - Free drinks reception and banquet at Playfair library
+     - Prizes for student participants in the AI for humanity challenge
+
+     The catch?
+
+     - You have to spend 45 secs signing up  (otherwise free) at
+https://www.hipeac.net/accounts/signup/
+
+     - then registering at
+https://www.hipeac.net/csw/2019/edinburgh/#/registration/
+
+     Once signed up, you can participate in ALL other HiPEAC events and meet
+     your international peers and  students can meet their future employer.
+
+     Any questions - just ask!
+
+     Please pass on to anyone else who may be interested
+
+Cheers
+
+Mike
+
+
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+
+From Paul.Keir at uws.ac.uk  Tue Mar 26 17:50:42 2019
+From: Paul.Keir at uws.ac.uk (Paul Keir)
+Date: Tue, 26 Mar 2019 17:50:42 +0000
+Subject: [Marionet] APPMM 2019 Workshop submission deadline extension
+Message-ID: <DB7PR01MB453725A47A3208141F25BE82A45F0@DB7PR01MB4537.eurprd01.prod.exchangelabs.com>
+
+Hi everyone,
+
+The APPMM 2019 Workshop submission deadline has been extended to April 10. The event takes place in Dublin (July 15-19) as part of HPCS 2019.
+
+http://hpcs2019.cisedu.info/2-conference/workshops/workshop06-appmm
+
+Best regards,
+Paul
+
+Dr. Paul Keir
+Lecturer
+B.Sc. (Hons.) Computer Games Technology Programme Leader
+School of Computing, Engineering and Physical Sciences
+University of the West of Scotland
+High Street
+Paisley
+PA1 2BE
++44 (0)141 848 3421
+paul.keir at uws.ac.uk<mailto:paul.keir at uws.ac.uk>
+https://pkeir.github.io<https://pkeir.github.io/>
+
+
+
+Please consider the environment and think before you print.
+
+The University of the West of Scotland is a registered Scottish charity. Charity number SC002520.
+
+This e-mail and any attachment is for authorised use by the intended recipient(s) only. It may contain proprietary material, confidential information and/or be subject to legal privilege. It should not be copied, disclosed to, retained or used by, any other party. If you are not an intended recipient then please promptly delete this e-mail and any attachment and all copies and inform the sender.
+
+Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the University of the West of Scotland.
+
+As a public body, the University of the West of Scotland may be required to make available emails as well as other written forms of information as a result of a request made under the Freedom of Information (Scotland) Act 2002.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190326/a2de69cf/attachment.html>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: cfp-workshop-APPMM19-extended.txt
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190326/a2de69cf/attachment.txt>
+
+From Jeremy.Singer at glasgow.ac.uk  Thu Mar 28 13:34:29 2019
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Thu, 28 Mar 2019 13:34:29 +0000
+Subject: [Marionet] =?windows-1252?q?2nd_UK_OpenMP_Users_Conference_=96_EP?=
+ =?windows-1252?q?CC_June_4-5_-_Submissions_Deadline_April_9=2C_2019?=
+Message-ID: <LNXP265MB0843DB437271445CAFA160AAA6590@LNXP265MB0843.GBRP265.PROD.OUTLOOK.COM>
+
+Hi,
+
+If you are developing High Performance Computing solutions using OpenMP (or are thinking of using OpenMP / OpenACC), then join us for the 2nd UK OpenMP Users Conference taking place at EPCC in Edinburgh on 4-5 June, 2019 .  This two day conference, which is supported by MaRIONet, includes talks, tutorials, posters and panel discussions aimed at furthering collaboration and knowledge sharing among the UK community of HPC specialists using OpenMP.
+
+Call for Submissions
+
+If you are interested in sharing your latest OpenMP-related work and experiences via a short talk or poster then please submit an abstract for consideration by Sunday April 7, 2019.  Final materials are required by June 2.  All abstracts will be evaluated on their merit by the review committee based on their relevance to OpenMP users. Submissions don't have to cover new or un-published work, but should be topical and appropriate for a technical audience of OpenMP users.
+
+* For more details visit: https://ukopenmpusers.co.uk/call-for-submissions/
+
+*  View the 2018 presentations: https://ukopenmpusers.co.uk/conf2018/program/
+
+
+Discounted Passes
+
+Early Bird and Research Software Engineers (RSE) Discounted passes (40%) are available.  Please email tim.lewis at ukopenmpusers.co.uk for details and to request a Promotional Code.  A limited number of travel bursaries are also available.
+
+ 
+
+Invited Tutorial Program
+
+The following invited tutorials will take place on Tuesday June 4, 2019.
+
+*  Programming Your GPU with OpenMP: A Hands-On Introduction
+         - Presented by: Simon McIntosh-Smith, Professor of High Performance Computing, University of Bristol
+
+*  Advanced OpenMP: Performance and 5.0 Features
+         - Presented by: Jim Cownie, Intel and Michael Klemm, Intel and OpenMP ARB CEO
+
+*  A Hands-On-Introduction to OpenMP
+         - Presented by: Dr. Mark Bull, EPCC
+
+Questions?
+
+If you have any questions please email: tim.lewis at ukopenmpusers.co.uk
+
+Best Regards
+Tim
+
+2nd UK OpenMP Users Conference | EPCC in Edinburgh | 4-5 June, 2019 | https://ukopenmpusers.co.uk/  
+

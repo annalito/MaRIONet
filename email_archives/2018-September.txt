@@ -1,0 +1,31 @@
+From Christos.Kotselidis at manchester.ac.uk  Sat Sep  8 11:11:12 2018
+From: Christos.Kotselidis at manchester.ac.uk (Christos-efthymios Kotselidis)
+Date: Sat, 8 Sep 2018 10:11:12 +0000
+Subject: [Marionet] Tornado heterogeneous programming framework public
+	release v0.1
+Message-ID: <214A01D3-AEA9-4632-B1E0-AEA6E8A6D2CC@manchester.ac.uk>
+
+Dear all,
+
+We are happy to announce the open sourcing of Tornado, a practical heterogeneous programming framework for Java.
+
+Tornado enables JIT compilation and acceleration of Java code on any OpenCL compatible devices including GPUs and in the future FPGAs.
+Our recent publication in ManLang 2018 describes in detail the internals of Tornado and its capabilities: http://goo.gl/78nhje
+
+Thanks to EPSRC, Tornado started as the PhD thesis of James Clarkson under the joint supervision of Mikel Lujan and continues growing under the EU H2020 E2Data<https://e2data.eu> and ACTiCLOUD<https://acticloud.eu> grants.
+
+On behalf of our team members - James Clarkson, Juan Fumero, Foivos Zakkak, Michalis Papadimitriou, Mary Xekalaki, and Mikel Lujan - please checkout Tornado and start accelerating your applications!
+
+We look forward to hearing your feedback and success stories!
+
+Github repo: https://github.com/beehive-lab/Tornado
+
+Kind Regards
+
+Christos Kotselidis
+Lecturer
+The University of Manchester
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180908/87a332b3/attachment.html>
+

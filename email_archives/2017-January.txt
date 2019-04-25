@@ -1,0 +1,14 @@
+From lawrence.mitchell at imperial.ac.uk  Mon Jan 23 14:48:53 2017
+From: lawrence.mitchell at imperial.ac.uk (Lawrence Mitchell)
+Date: Mon Jan 23 14:51:06 2017
+Subject: [Marionet] Workshop on software for next generation climate
+	modelling
+Message-ID: <a899478d-4f11-d64e-9ddc-119c37f6f0b7@imperial.ac.uk>
+
+Skipped content of type multipart/mixed-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 473 bytes
+Desc: OpenPGP digital signature
+Url : https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20170123/df7a6513/signature.bin

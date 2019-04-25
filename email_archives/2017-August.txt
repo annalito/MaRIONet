@@ -1,0 +1,46 @@
+From Phil.Trinder at glasgow.ac.uk  Mon Aug  7 13:29:14 2017
+From: Phil.Trinder at glasgow.ac.uk (Phil Trinder)
+Date: Mon, 7 Aug 2017 12:29:14 +0000
+Subject: [Marionet] Reliable,
+ Secure and Scalable Software Systems (RS4) Workshop: Call for
+ Participation
+Message-ID: <9FA592BC1DE81E4CAAC9F278ED754C880FE7D035@CMS08-01.campus.gla.ac.uk>
+
+Reliable, Secure and Scalable Software Systems (RS4) Workshop
+1st September  2017
+Call for Participation
+www.dcs.gla.ac.uk/research/gpg/RS4/<http://www.dcs.gla.ac.uk/research/gpg/RS4/>
+
+PROGRAMME AND ABSTRACTS
+https://docs.google.com/document/d/1tzlK1DUFTIWnFlDPLysIvEL5B1qZgrdGzMgJKJ8zXwI/pub
+https://docs.google.com/document/d/1FkV9KDD89XMqY-3p3KcRdLMEpTrTZ0dVkQlf3on9ix8/pub
+
+REGISTRATION
+Attendance is free, but to facilitate catering please register your intention to attend at https://doodle.com/poll/kgu8a2vrm3qfisxd   by Wednesday 16th August 2017.
+
+TOPIC
+The era of many-core computing is transforming much of computing and areas like AI, sensor nets, IoT, and big data are just some examples. Many-core software systems have three main components: computation, i.e. the algorithms to be performed, data encoded in data structures and data stores, and communication between compute units:
+  Software Systems = Computation + Data + Communication
+
+Such systems must resolve three inter-linked challenges in each of the components to be:
+*             Scalable: emergent computing platforms operate at unprecedented scale, with commodity servers already commonly comprising hundreds of hosts, tens of thousands of cores, and thousands of storage devices.
+*             Reliable: systems must tolerate and recover from hardware, software and network failures.
+*             Secure: Systems are increasingly connected, and hence vulnerable to misuse and attack.
+RS4 is a 1 day workshop that brings together academic and industrial researchers to outline both challenges and promising approaches.
+
+The workshop is sponsored by SICSA and the EPSRC MaRIONet Manycore Network, and is part of the 60th anniversary of the School of Computing Science, at the University of Glasgow.
+
+INVITED SPEAKERS
+Alastair Reid, ARM: Security in The trusted computing base
+Michele Weiland, EPCC: Exascale Computing
+Alastair Murray, Codeplay Software: Safety-critical software
+David Irvine, Maidsafe: Security and Privacy of next-generation internet systems
+Tony Printezis, Twitter: JVM/GC engineer
+
+Best wishes,
+Inah Omoronyia and Phil Trinder
+RS4 2017 Organisers
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20170807/1a0d2add/attachment.html>
+

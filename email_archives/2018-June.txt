@@ -1,0 +1,155 @@
+From mic at inf.ed.ac.uk  Wed Jun  6 14:18:47 2018
+From: mic at inf.ed.ac.uk (Murray Cole)
+Date: Wed, 06 Jun 2018 14:18:47 +0100
+Subject: [Marionet] 3 RA/PostDoc positions in Compilers/Runtime at
+ University of Edinburgh
+Message-ID: <20180606141847.20726vzf28a47txw@www.staffmail.ed.ac.uk>
+
+3 RA/PostDoc positions in compilers/runtime  for  a coarse-grain  
+reconfigurable accelerator
+
+University of Edinburgh
+
+Closing date is 5pm GMT on 06 July 2018.
+
+
+The School of Informatics, University of Edinburgh, is advertising  
+three research positions in the area of compilers and runtime for a  
+coarse-grain reconfigurable accelerator (CGRA).
+
+These posts are associated with SDH, software defined hardware,  a US  
+DARPA project led by U. Michigan and in partnership with ARM and U.  
+Arizona. The project will tape out a state-of-the art high performance  
+CGRA and deliver a compiler and runtime that reconfigures the CGRA  
+on-the-fly to changing workloads.
+
+There will be considerable interaction between the sites and for one  
+post the candidate will spend a year at U Michigan.
+
+For one post, the ideal candidate will have experience in developing  
+light-weight, user-level runtime systems. For the other two posts, the  
+ideal candidate will have experience in LLVM based (or similar)  
+compiler development. Strong candidates with related relevant  
+experience are also encouraged to apply.
+
+Informal enquiries can be addressed to Prof. Michael O?Boyle  
+(mob at inf.ed.ac.uk) or Dr Murray Cole (mic at inf.ed.ac.uk) or Dr  
+Christophe Dubach (Christophe.Dubach at ed.ac.uk)
+
+The posts are available from 1st August 2018 (the starting date is  
+flexible) and are on the UE07 scale (£32,548 - £38,833). The posts  
+will be fixed term for 36 months with the possibility of extension to  
+48 months depending on funding.
+
+The closing date is 5pm GMT on 06 July 2018.
+
+Further details:
+
+https://www.vacancies.ed.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.display_form
+
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+
+From mic at inf.ed.ac.uk  Wed Jun 13 16:03:28 2018
+From: mic at inf.ed.ac.uk (Murray Cole)
+Date: Wed, 13 Jun 2018 16:03:28 +0100
+Subject: [Marionet] International Symposium on High-Level Parallel
+ Programming and Applications
+Message-ID: <20180613160328.86378xxtiwxp1veo@www.staffmail.ed.ac.uk>
+
+----------------------------------------------------------------------
+**
+**    HLPP 2018
+**    11th International Symposium - 12 to 13 July 2018
+**    Orléans, France
+**
+**    http://www.univ-orleans.fr/lifo/equipes/LMV/hlpp2018/
+**
+----------------------------------------------------------------------
+**
+**    Call for participation
+**
+**    REGISTRATION:
+**
+**    Through the HLPP registration web page:
+**    http://www.univ-orleans.fr/lifo/equipes/LMV/hlpp2018/
+**
+**    Registration deadline:  ** July 2 **
+**
+----------------------------------------------------------------------
+**
+** **** Overview ****
+**
+** As processor and system manufacturers increase the amount of
+** both inter- and intra-chip parallelism it becomes crucial to
+** provide the software industry with high-level, clean and efficient
+** tools for parallel programming. Parallel and distributed programming
+** methodologies are currently dominated by low-level techniques such
+** as send/receive message passing, or equivalently unstructured shared
+** memory mechanisms. Higher-level, structured approaches offer many
+** possible advantages and have a key role to play in the scalable
+** exploitation of ubiquitous parallelism. Since 2001 the HLPP series
+** of workshops/symposia has been a forum for researchers developing
+** state-of-the-art concepts, tools and applications for high-level
+** parallel programming. The general emphasis is on software quality,
+** programming productivity and high-level performance models.
+**
+----------------------------------------------------------------------
+**
+**  **** Program ****
+**
+**
+** * Keynote: Ludovic Henrio, Active Objects
+** * Papers
+** ** 	Fabian Wrede, Christoph Rieger and Herbert Kuchen.
+	Generation of High-Performance Code Based on a Domain-Specific Language
+         for Algorithmic Skeletons
+
+** ** 	Kento Emoto and Fumihisa Sadahira.
+	A DSL for Graph Parallel Programming with Vertex Subsets
+
+** ** 	Florian Biermann and Alexander Asp Bock.
+	Puncalc: Task-Based Parallelism and Speculative Reevaluation in
+         Spreadsheets
+
+** ** 	Fabio Tordini, David Del Rio, Marco Aldinucci, Marco Danelutto, Jose
+         Daniel Garcia, Gabriele Mencagli and Massimo Torquati.
+         Adding FastFlow support to GrPPI
+
+** ** 	Ari Rasch, Julian Bigge, Richard Schulze and Sergei Gorlatch.
+	dOCAL: An Abstraction for Host-Code Programming with OpenCL and CUDA
+
+** ** 	Tomas Öhberg, August Ernstsson and Christoph Kessler.
+	Hybrid CPU-GPU execution support in the skeleton programming framework
+         SkePU
+
+** ** 	Victor Allombert and Frédéric Gava.
+	Programming BSP and Multi-BSP algorithms in ML
+
+** ** 	Virginia Niculescu and Frederic Loulergue.
+	Transforming Powerlist based Divide&Conquer Programs for an Improved
+         Execution Model
+
+** ** 	Marios Kardaras, Dimitrios Siakavaras, Konstantinos Nikas, Georgios
+         Goumas and Nectarios Koziris.
+	Fast Concurrent Skip Lists with HTM
+
+** ** 	Javier López-Gómez, David Del Río Astorga, Manuel F. Dolz, Javier
+         Fernandez and Jose Daniel Garcia.
+	Verifying semantics of lock-free data structures through C++ contracts
+
+Best regards,
+HLPP 2018 PC
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+

@@ -1,0 +1,154 @@
+From Phil.Trinder at glasgow.ac.uk  Fri May  5 11:59:08 2017
+From: Phil.Trinder at glasgow.ac.uk (Phil Trinder)
+Date: Fri May  5 12:00:44 2017
+Subject: [Marionet] Reliable,
+ Secure and Scalable Software Systems (RS4) Workshop: Call
+ for Presentations and Participation
+In-Reply-To: <9FA592BC1DE81E4CAAC9F278ED754C880FE4B62E@CMS08-01.campus.gla.ac.uk>
+References: <9FA592BC1DE81E4CAAC9F278ED754C880FE4B62E@CMS08-01.campus.gla.ac.uk>
+Message-ID: <9FA592BC1DE81E4CAAC9F278ED754C880FE4B64D@CMS08-01.campus.gla.ac.uk>
+
+
+Reliable, Secure and Scalable Software Systems (RS4) Workshop
+
+1st September  2017
+
+Call for Presentations and Participation
+
+http://www.dcs.gla.ac.uk/research/gpg/RS4/
+
+
+<http://www.dcs.gla.ac.uk/research/gpg/RS4/>
+
+The era of many-core computing is transforming much of computing and areas like AI, sensor nets, IoT, and big data are just some examples. Many-core software systems have three main components: computation, i.e. the algorithms to be performed, data encoded in data structures and data stores, and communication between compute units:
+
+  Software Systems = Computation + Data + Communication
+
+
+Such systems must resolve three inter-linked challenges in each of the components to be:
+
+  *   Scalable: emergent computing platforms operate at unprecedented scale, with commodity servers already commonly comprising hundreds of hosts, tens of thousands of cores, and thousands of storage devices.
+  *   Reliable: systems must tolerate and recover from hardware, software and network failures.
+  *   Secure: Systems are increasingly connected, and hence vulnerable to misuse and attack.
+
+RS4 is a 1 day workshop that brings together academic and industrial researchers to outline both challenges and promising approaches.
+
+
+The workshop is sponsored by SICSA <https://www.google.com/url?q=http://www.sicsa.ac.uk/&sa=D&ust=1493737890000000&usg=AFQjCNHCGsvuCaQk7g-PjajuAhWW3BdX-Q> http://www.sicsa.ac.uk/<https://www.google.com/url?q=http://www.sicsa.ac.uk/&sa=D&ust=1493737890001000&usg=AFQjCNFfbwTh1FhPb1oEEQEpaA61CEoNPQ>  and the EPSRC <https://www.google.com/url?q=http://manycore.org.uk&sa=D&ust=1493737890002000&usg=AFQjCNGgwtzVA-KSwnnQCH0kr23uo95iiA> MaRIONet<https://www.google.com/url?q=http://manycore.org.uk&sa=D&ust=1493737890002000&usg=AFQjCNGgwtzVA-KSwnnQCH0kr23uo95iiA> Manycore Network, and is part of the 60<https://www.google.com/url?q=http://www.gla.ac.uk/schools/computing/60thanniversary/&sa=D&ust=1493737890003000&usg=AFQjCNHrCEY868HNi7uT6aexjhi6JTWe-g>th<https://www.google.com/url?q=http://www.gla.ac.uk/schools/computing/60thanniversary/&sa=D&ust=1493737890004000&usg=AFQjCNFXeCqjZm2I1qBfRBI2GETA_SnkDA> anniversary of the School of Computing Science, at the University of Glasgow<https://www.google.com/url?q=http://www.gla.ac.uk/schools/computing/60thanniversary/&sa=D&ust=1493737890005000&usg=AFQjCNEBxMr2R9MRn793ll3oZfNzW2VlPw>
+
+
+<https://www.google.com/url?q=http://www.gla.ac.uk/schools/computing/60thanniversary/&sa=D&ust=1493737890005000&usg=AFQjCNEBxMr2R9MRn793ll3oZfNzW2VlPw>
+
+Invited Speakers include:
+
+Alastair Reid, ARM: Security in The trusted computing base
+
+Michele Weiland, EPCC: Exascale Computing
+
+Alastair Murray, Codeplay Software: Safety-critical software
+
+David Irvine, Maidsafe: Security and Privacy of next-generation internet systems
+
+
+Presentations Sought
+
+If you would like to present at the workshop, please send a title and abstract to Inah Omoronyia Inah.Omoronyia@glasgow.ac.uk<mailto:Inah.Omoronyia@glasgow.ac.uk> for approval by Friday 19th May 2017.
+
+
+Registration
+
+To facilitate catering, please register your intention to attend at https://doodle.com/poll/kgu8a2vrm3qfisxd<https://www.google.com/url?q=https://doodle.com/poll/kgu8a2vrm3qfisxd&sa=D&ust=1493737890015000&usg=AFQjCNEW8NnzDxVsdAlcJUmhK6P-uMsZ9g> by Friday 19th May 2017.
+
+
+Best wishes,
+
+Inah Omoronyia and Phil Trinder
+
+RS4 2017 Organisers
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20170505/1b79157b/attachment.htm
+From Jeremy.Singer at glasgow.ac.uk  Mon May  8 16:42:51 2017
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Mon May  8 16:44:22 2017
+Subject: [Marionet] Manycore Newsletter #1 - May 2017
+Message-ID: <73F84F0C-4B22-44A5-91A2-F8CAD0CC9735@glasgow.ac.uk>
+
+Dear MaRIONet member,
+ 
+This is the first of our regular network newsletters to update you
+about activities in the UK manycore network.
+
+
+=========
+1) UKMAC '17 Workshop - Warwick - Tue 11 July 
+=========
+ 
+The annual UK Manycore Developer Conference (UKMAC) will be held at
+Warwick University on Tuesday 11 July.  MaRIONet is sponsoring this
+event, so registration will be free this year.  We are currently
+looking for presentations: if you would like to give a talk, please
+email natascha.harth@glasgow.ac.uk with a short abstract. Visit
+http://manycore.org.uk/ukmac2017.html for more details about UKMAC '17,
+including the online registration form.
+
+
+========
+2) Launch Event Feedback
+========
+ 
+Around 60 people attended the MaRIONet launch meeting in January at
+Imperial College London. We would like to archive slides and photos from
+this meeting at http://manycore.org.uk/London_jan17.html - if you
+presented slides but you do not want them on the website, please let
+us know by Monday 15 May. If you have any photos or general feedback
+from the launch event, please email natascha.harth@glasgow.ac.uk with
+details.
+
+
+===========
+3) Members database
+===========
+
+When we received funding from EPSRC, we agreed to provide a public
+directory of manycore researchers in the UK. We intend to host this
+directory on our website. Again, if you do _not_ want your name to be on
+this list, please inform natascha.harth@glasgow.ac.uk by Monday 15 May.
+
+
+============
+4) Future events
+============
+
+There is a list of upcoming manycore research events at
+http://manycore.org.uk/events.html
+If you would like to add an event to our list, please get in touch.
+We also provide funding to cover expenses (catering, room hire,
+speaker travel) if you want to host your own event. Again, please
+get in touch for more details.
+
+
+============
+5) News updates
+============
+
+If you have any news items for the next edition of the MaRIONet
+newsletter, please send them directly to natascha.harth@glasgow.ac.uk
+or tweet us on @UKManycore
+
+
+
+Many thanks,
+Jeremy (MaRIONet coordinator)
+and 
+Natascha (Network administrator)
+
+
+---
+http://manycore.org.uk
+Follow us on twitter at @UKManycore
+
+
+
+
+

@@ -1,0 +1,206 @@
+From S.Marr at kent.ac.uk  Tue Jan 22 18:55:10 2019
+From: S.Marr at kent.ac.uk (Stefan Marr)
+Date: Tue, 22 Jan 2019 18:55:10 +0000
+Subject: [Marionet] Call for Papers, The Programming Journal, Volume 4,
+	Issue 1 & 2
+Message-ID: <70AC79DB-36B7-4DB0-B23D-7301116C3740@kent.ac.uk>
+
+========================================================================
+                        The Programming Journal
+
+          The Art, Science, and Engineering of Programming
+
+
+              Call for Papers for Volume 4, Issue 1 & 2
+
+                 http://programming-journal.org/cfp/
+                       Follow us @programmingconf
+========================================================================
+
+The Art, Science, and Engineering of Programming was created with the
+goal of placing the wonderful art of programming on the map of scholarly
+works. Many academic journals and conferences exist that publish research
+related to programming, starting with programming languages, software
+engineering, and expanding to the whole Computer Science field. Yet, many
+of us feel that, as the field of Computer Science expanded, programming,
+in itself, has been neglected to a secondary role not worthy of scholarly
+attention. That is a serious gap, as much of the progress in Computer
+Science lies on the basis of computer programs, the people who write
+Them, and the concepts and tools available to them to express
+computational tasks.
+
+The Art, Science, and Engineering of Programming aims at closing this
+gap by focusing primarily on programming: the art itself (programming
+styles, pearls, models, languages), the emerging science of understanding
+what works and what doesn’t work in general and in specific contexts,
+as well as more established engineering and mathematical perspectives.
+
+
+We solicit papers describing work from one of the following perspectives:
+
+  Art: knowledge and technical skills acquired through practice and
+       personal experiences. Examples include libraries, frameworks,
+       languages, APIs, programming models and styles, programming
+       pearls, and essays about programming.
+
+  Science (Theoretical): knowledge and technical skills acquired
+       through mathematical formalisms. Examples include formal
+       programming models and proofs.
+
+  Science (Empirical): knowledge and technical skills acquired
+       through experiments and systematic observations. Examples
+       include user studies and programming-related data mining.
+
+  Engineering: knowledge and technical skills acquired through
+       designing and building large systems and through calculated
+       application of principles in building those systems.
+       Examples include measurements of artifacts’ properties,
+       development processes and tools, and quality assurance methods.
+
+Independent of the type of work, the journal accepts submissions covering several areas of expertise, including but not limited to:
+
+ - General-purpose programming
+ - Data mining and machine learning programming, and for programming
+ - Database programming
+ - Distributed systems programming
+ - Graphics and GPU programming
+ - Interpreters, virtual machines, and compilers
+ - Metaprogramming and reflection
+ - Model-based development
+ - Modularity and separation of concerns
+ - Parallel and multi-core programming
+ - Program verification
+ - Programming education
+ - Programming environments
+ - Security programming
+ - Social coding
+ - Testing and debugging
+ - User interface programming
+ - Visual and live programming
+
+All details, including the selection process are described on
+  http://programming-journal.org/cfp/
+
+Details on the submission processed are available at
+  http://programming-journal.org/submission/
+
+Authors of accepted papers will be invited to present at the
+<Programming>’20 conference in early 2020. Further details will be
+announced in April 2019 at <Programming>’19:
+  https://2019.programming-conference.org/
+
+
+## Upcoming Deadlines
+
+We solicit submissions for the following upcoming deadlines:
+
+Volume 4, Issue 1
+Submission:           February 1
+First notification:   April 1
+
+Volume 4, Issue 2
+Submission:           June 1
+First notification:   August 1
+
+## Standing Review Committee Volume 4
+
+Christophe Scholliers, Ghent University
+Coen De Roover, Vrije Universiteit Brussel
+Craig Anslow, Victoria University of Wellington New Zealand
+Didier Verna, EPITA / LRDE France
+Diego Garbervetsky University of Buenos Aires
+Edd Barrett, King's College London
+Erik Ernst, Google
+Felienne Hermans,  Leiden University
+Francisco Sant'Anna, Rio de Janeiro State University
+Friedrich Steimann, Fernuniversität
+Gordana Rakic, University of Novi Sad
+Guido Salvaneschi, TU Darmstadt
+Hidehiko Masuhara, Tokyo Institute of Technology
+Jeremy Gibbons, University of Oxford
+Jonathan Edwards, US
+Luke Church, University of Cambridge
+Matthew Flatt, University of Utah
+Michael L. Van De Vanter, US
+Nicolás Cardozo, Universidad de los Andes Colombia
+Stephen Kell, University of Kent
+
+## Editors
+
+Stefan Marr (Editor Volume 4), University of Kent
+Cristina V. Lopes (Editor-in-Chief), University of California, Irvine
+
+
+-- 
+Stefan Marr
+School of Computing, University of Kent
+https://stefan-marr.de/research/
+
+
+
+
+From m.kabiri-chimeh at sheffield.ac.uk  Wed Jan 23 15:02:03 2019
+From: m.kabiri-chimeh at sheffield.ac.uk (Mozhgan Kabiri Chimeh)
+Date: Wed, 23 Jan 2019 15:02:03 +0000
+Subject: [Marionet] WHPC@ISC'19 Call for participation and posters
+Message-ID: <CAB+JX=gMdfMDbq_Ws-shHV3fW97Q1YepPTtUpYiWSN7XDQBO8A@mail.gmail.com>
+
+Call for early/mid career posters on HPC topics for the 10th International
+Women in HPC Workshop
+
+=================================================================
+10th International Women in HPC workshop
+Thursday June 20th 2019 — Frankfurt, Germany
+
+Call for posters and participation
+
+https://womeninhpc.org/whpc-isc19/workshop/
+=================================================================
+
+The tenth international Women in HPC workshop will discuss methods to
+improve diversity and provide early career women with the opportunity to
+develop their professional skills and profile. The workshop will include:
+
+- Becoming an advocate and ally of under-represented women
+- Putting in place a framework to help women take leadership positions
+- Building mentoring programmes that work effectively for women.
+- Posters and lightning talks by women working in HPC
+- Short talks on: dealing with poor behaviour at work and how to help avoid
+it getting you down, how to deal with negative feedback, how to build
+writing into your daily routine and why it matters, etc.
+
+
+Call for posters: Now Open!
+Deadline for submissions: March 4th 2019 AOE
+
+As part of the workshop, we invite submissions from women in industry and
+academia to present their work as a poster. Submissions are invited on all
+topics relating to HPC from users and developers. All abstracts should
+emphasize the computational aspects of the work, such as the facilities
+used, the challenges that HPC can help address and any remaining challenges
+etc.
+
+Exclusive to WHPC at ISC19: Successful authors will have the opportunity to
+present their poster in the main ISC19 conference poster session.
+
+For full details please see:
+https://www.womeninhpc.org/whpc-isc19/workshop/submit/
+
+Regards,
+Mozhgan
+
+-- 
+Dr Mozhgan Kabiri *Chimeh*
+*R*esearch *A*ssociate / *RSE*
+
+Department of Computer Science,
+
+University of Sheffield
+
+0114 222 1896 | mkchimeh.com
+
+gpucomputing.shef.ac.uk , rse.shef.ac.uk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190123/79117132/attachment.html>
+

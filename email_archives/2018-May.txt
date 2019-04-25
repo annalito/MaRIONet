@@ -1,0 +1,122 @@
+From Jeremy.Singer at glasgow.ac.uk  Tue May 22 13:20:53 2018
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Tue, 22 May 2018 12:20:53 +0000
+Subject: [Marionet] Manycore Newsletter #5 - May 2018
+Message-ID: <C15961FB70BA6F4EA55A1FAAB461DAC165E26296@CMS08-02.campus.gla.ac.uk>
+
+Hi all,
+Several interesting UK-based workshops coming up, see below...
+Thanks,
+Jeremy
+
+
+---
+
+Network member Gianluca Tempesti from York writes:
+
+Adaptive Many-Core Architectures and Systems is an informal workshop
+which will be held in York, 13-15 June. The workshop aims to highlight
+and discuss emerging trends and future directions in the field of
+many-core system design (and beyond), and will feature invited
+position papers from world-leading researchers and industrialists
+across the field.
+
+> https://www-users.york.ac.uk/~mt540/graceful-ws/index.html
+
+---
+
+Tom Kazmierski from Southampton writes:
+
+The POETS Workshop on Event-Based Parallel Computing provides a forum
+for results or work in progress in all aspects of parallel and
+distributed computing. Abstract/Poster submission deadline is 23 July,
+with the workshop to be held at Chilworth Manor, Southampton, 6-7
+September.
+
+> https://poets-project.org/workshop2018
+
+---
+
+Network coordinator Jeremy Singer writes:
+
+Final opportunity for PhD students and postdocs to sign up for the
+Manycore Summer School in Glasgow.
+
+A range of speakers from academia and industry will be giving talks
+and hands-on lab sessions. We have a few free places remaining for
+students from UK universities. The event runs 16-20 July 2018 (week
+after ACACES/HiPEAC). Participants only have to fund their own travel
+to Glasgow - we are providing free accommodation, courtesy of
+sponsorship from EPSRC and SICSA. This is the flagship event of the
+Manycore network.
+
+> https://manycore.org.uk/summerschool.html
+
+
+
+---
+https://manycore.org.uk
+Follow us on twitter at @UKManycore
+
+
+
+
+
+[University of Glasgow: The Times Scottish University of the Year 2018]
+
+
+From kath at soton.ac.uk  Fri May 25 10:28:51 2018
+From: kath at soton.ac.uk (Kath Kerr)
+Date: Fri, 25 May 2018 09:28:51 +0000
+Subject: [Marionet] EWME 2018 Braunschweig,
+	Germany from 24th to 26th September 2018
+Message-ID: <2D7FBEFE6CA2BE4C9A7808635E9F59D1F62D84A0@SRV00046.soton.ac.uk>
+
+Dear all
+
+EWME 2018 is the 12th European Workshop on Microelectronics Education which will be held in Braunschweig, Germany from 24th to 26th September 2018.
+
+The Call for Paper is now out and if you would be interested in submitting to the conference, please see this webpage for more information: http://ewme2018.iti.uni-luebeck.de/call.php
+
+Please feel free to forward this information to any colleagues you think would be interested.
+
+With best wishes,
+
+Kath
+
+Kath Kerr
+EPSRC Project Manager
+PRiME and POETS - EPSRC Programme Grants
+
+School of Electronics & Computer Science
+University of Southampton
+Room 3205, Zepler Building (B59)
+Highfield Campus
+Southampton SO17 1BJ
+
+02380 592900
+kath at soton.ac.uk<mailto:kath at soton.ac.uk>
+
+[PRiME]         [POETS]
+
+http://www.prime-project.org/         https://poets-project.org/
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180525/b69a61af/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 11012 bytes
+Desc: image001.png
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180525/b69a61af/attachment-0001.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image003.jpg
+Type: image/jpeg
+Size: 2840 bytes
+Desc: image003.jpg
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180525/b69a61af/attachment-0001.jpg>
+

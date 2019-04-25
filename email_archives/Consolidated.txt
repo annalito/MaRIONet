@@ -1,0 +1,2382 @@
+From Jeremy.Singer at glasgow.ac.uk  Fri Nov 11 17:15:43 2016
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Fri Nov 11 17:16:26 2016
+Subject: [Marionet] Launch meeting date
+Message-ID: <B1F717AF-DF7D-4C59-8ABD-3BCFC24BABBD@glasgow.ac.uk>
+
+Hi network members,
+
+We want to run our MaRIONet launch meeting in London early 2017. Please fill in the doodle poll below to indicate when you are free to attend this event. At the launch meeting we will introduce the manycore network, outline the schedule of activities, and run the first industrial/academic "speed dating" session. We also hope to have a "New Cross-ICT Priorities" overview from the EPSRC ICT team.
+
+Please doodle at http://doodle.com/poll/p2crvxhc6q5shecs
+
+Many thanks,
+Jeremy
+
+
+From Jeremy.Singer at glasgow.ac.uk  Fri Nov 18 13:16:27 2016
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Fri Nov 18 13:17:10 2016
+Subject: [Marionet] Re: MaRIONet manycore network meeting - Save the Date!
+Message-ID: <C15961FB70BA6F4EA55A1FAAB461DAC1629E6B18@CMS08-02.campus.gla.ac.uk>
+
+Hi network members,
+
+The MaRIONet manycore network launch meeting will be at Imperial College London on Wed 11 Jan. Please save the date! We'll aim to start at 10am, I'll post a full schedule and precise location details to the list shortly.
+
+Meanwhile
+1) please make arrangements to attend this launch meeting
+2) encourage other people to sign up for the network - the signup process is simple - wannabe members just send an email to me [ jeremy.singer@glasgow.ac.uk ]
+
+See you all soon!
+Jeremy
+
+
+________________________________________
+From: Jeremy Singer
+Sent: 17 November 2016 18:36
+To: Alastair Donaldson
+Subject: Re: MaRIONet manycore network meeting
+
+Hi Ally,
+according to our poll at
+
+http://doodle.com/poll/p2crvxhc6q5shecs
+
+Wed 11 Jan is looking like a good date. Please could we go ahead and arrange the MaRIONet launch meeting at Imperial for this date?
+
+Many thanks
+Jeremy
+
+---
+
+On 8 Nov 2016, at 19:45, Alastair Donaldson <alastair.donaldson@imperial.ac.uk> wrote:
+
+> Hi Jeremy
+>
+> It was good to see you at SPLASH last week.
+>
+> I'm excited about our kick-off meeting!
+>
+> The following dates in February would be great from my point of view:
+>
+> 1, 8, 15, 16, 21, 22, 23, 24, 28 Feb
+>
+> The following would also be possible:
+>
+> 2, 3, 9, 10, 17 Feb
+>
+> If you're keen to do it earlier then we could look at January, in which case I could do:
+>
+> 10, 11, 12, 13 Jan
+>
+> Feb would be slightly preferable for me, however.
+>
+> Can you setup a Doodle poll based on the above?  Then once we have some preferable dates I'll look into venue availability.
+>
+> Cheers
+>
+> Ally
+>
+>
+>
+>
+> On 19/10/2016 17:09, Jeremy Singer wrote:
+>> Hi Ally,
+>>
+>>> Absolutely - I'm keen to do this.
+>> thanks!
+>>
+>>> Can you give me a maximum budget for room hire and tea/coffee/lunch catering?
+>> For this initial meeting, I think it's fine to splash out. So say max budget 2500 GBP? If you can send me a draft invoice, then we can raise a purchase order - hopefully our respective finance offices will talk nicely to each other.
+>>
+>>> I'll then get back to you with potential dates.
+>> Great. I think we should probably avoid POPL (18-20 Jan) and HiPEAC (23-25 Jan). Any other constraints?
+>>
+>> Thanks,
+>> Jeremy
+>>
+>>
+>>> On 17/10/2016 15:32, Jeremy Singer wrote:
+>>>> Hi Ally,
+>>>> Thanks for volunteering to host our first manycore network meeting at Imperial.
+>>>> Please could you propose a list of potential dates in Jan/Feb when we could hold the one-day launch meeting? I will set up a doodle poll, because we want to ensure
+>>>> a) as many initial network members
+>>>> b) a representative from EPSRC
+>>>> can attend the meeting.
+>>>>
+>>>> Many thanks,
+>>>> Jeremy
+>>>>
+>>>> PS - sorry - I realise I twisted your arm to host the first meeting. Imperial is a very convenient location - hope you don't mind :-)
+>>>>
+>>>>
+>>>>
+>
+
+
+From Jeremy.Singer at glasgow.ac.uk  Thu Dec 15 07:17:18 2016
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Thu Dec 15 07:18:38 2016
+Subject: [Marionet] Register for manycore network launch meeting
+Message-ID: <C15961FB70BA6F4EA55A1FAAB461DAC1629EF951@CMS08-02.campus.gla.ac.uk>
+
+Hi all,
+The MaRIONet website is http://manycore.org.uk
+Please check out the programme for our launch event on Wed 11 Jan at Imperial College London. We hope you can attend and encourage colleagues to come along too.
+Registration is free - simply fill in the form at http://manycore.org.uk/form.html so we know how many people are attending.
+Best regards,
+Jeremy
+
+
+From lawrence.mitchell at imperial.ac.uk  Mon Jan 23 14:48:53 2017
+From: lawrence.mitchell at imperial.ac.uk (Lawrence Mitchell)
+Date: Mon Jan 23 14:51:06 2017
+Subject: [Marionet] Workshop on software for next generation climate
+	modelling
+Message-ID: <a899478d-4f11-d64e-9ddc-119c37f6f0b7@imperial.ac.uk>
+
+Skipped content of type multipart/mixed-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 473 bytes
+Desc: OpenPGP digital signature
+Url : https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20170123/df7a6513/signature.bin
+From Phil.Trinder at glasgow.ac.uk  Fri May  5 11:59:08 2017
+From: Phil.Trinder at glasgow.ac.uk (Phil Trinder)
+Date: Fri May  5 12:00:44 2017
+Subject: [Marionet] Reliable,
+ Secure and Scalable Software Systems (RS4) Workshop: Call
+ for Presentations and Participation
+In-Reply-To: <9FA592BC1DE81E4CAAC9F278ED754C880FE4B62E@CMS08-01.campus.gla.ac.uk>
+References: <9FA592BC1DE81E4CAAC9F278ED754C880FE4B62E@CMS08-01.campus.gla.ac.uk>
+Message-ID: <9FA592BC1DE81E4CAAC9F278ED754C880FE4B64D@CMS08-01.campus.gla.ac.uk>
+
+
+Reliable, Secure and Scalable Software Systems (RS4) Workshop
+
+1st September  2017
+
+Call for Presentations and Participation
+
+http://www.dcs.gla.ac.uk/research/gpg/RS4/
+
+
+<http://www.dcs.gla.ac.uk/research/gpg/RS4/>
+
+The era of many-core computing is transforming much of computing and areas like AI, sensor nets, IoT, and big data are just some examples. Many-core software systems have three main components: computation, i.e. the algorithms to be performed, data encoded in data structures and data stores, and communication between compute units:
+
+  Software Systems = Computation + Data + Communication
+
+
+Such systems must resolve three inter-linked challenges in each of the components to be:
+
+  *   Scalable: emergent computing platforms operate at unprecedented scale, with commodity servers already commonly comprising hundreds of hosts, tens of thousands of cores, and thousands of storage devices.
+  *   Reliable: systems must tolerate and recover from hardware, software and network failures.
+  *   Secure: Systems are increasingly connected, and hence vulnerable to misuse and attack.
+
+RS4 is a 1 day workshop that brings together academic and industrial researchers to outline both challenges and promising approaches.
+
+
+The workshop is sponsored by SICSA <https://www.google.com/url?q=http://www.sicsa.ac.uk/&sa=D&ust=1493737890000000&usg=AFQjCNHCGsvuCaQk7g-PjajuAhWW3BdX-Q> http://www.sicsa.ac.uk/<https://www.google.com/url?q=http://www.sicsa.ac.uk/&sa=D&ust=1493737890001000&usg=AFQjCNFfbwTh1FhPb1oEEQEpaA61CEoNPQ>  and the EPSRC <https://www.google.com/url?q=http://manycore.org.uk&sa=D&ust=1493737890002000&usg=AFQjCNGgwtzVA-KSwnnQCH0kr23uo95iiA> MaRIONet<https://www.google.com/url?q=http://manycore.org.uk&sa=D&ust=1493737890002000&usg=AFQjCNGgwtzVA-KSwnnQCH0kr23uo95iiA> Manycore Network, and is part of the 60<https://www.google.com/url?q=http://www.gla.ac.uk/schools/computing/60thanniversary/&sa=D&ust=1493737890003000&usg=AFQjCNHrCEY868HNi7uT6aexjhi6JTWe-g>th<https://www.google.com/url?q=http://www.gla.ac.uk/schools/computing/60thanniversary/&sa=D&ust=1493737890004000&usg=AFQjCNFXeCqjZm2I1qBfRBI2GETA_SnkDA> anniversary of the School of Computing Science, at the University of Glasgow<https://www.google.com/url?q=http://www.gla.ac.uk/schools/computing/60thanniversary/&sa=D&ust=1493737890005000&usg=AFQjCNEBxMr2R9MRn793ll3oZfNzW2VlPw>
+
+
+<https://www.google.com/url?q=http://www.gla.ac.uk/schools/computing/60thanniversary/&sa=D&ust=1493737890005000&usg=AFQjCNEBxMr2R9MRn793ll3oZfNzW2VlPw>
+
+Invited Speakers include:
+
+Alastair Reid, ARM: Security in The trusted computing base
+
+Michele Weiland, EPCC: Exascale Computing
+
+Alastair Murray, Codeplay Software: Safety-critical software
+
+David Irvine, Maidsafe: Security and Privacy of next-generation internet systems
+
+
+Presentations Sought
+
+If you would like to present at the workshop, please send a title and abstract to Inah Omoronyia Inah.Omoronyia@glasgow.ac.uk<mailto:Inah.Omoronyia@glasgow.ac.uk> for approval by Friday 19th May 2017.
+
+
+Registration
+
+To facilitate catering, please register your intention to attend at https://doodle.com/poll/kgu8a2vrm3qfisxd<https://www.google.com/url?q=https://doodle.com/poll/kgu8a2vrm3qfisxd&sa=D&ust=1493737890015000&usg=AFQjCNEW8NnzDxVsdAlcJUmhK6P-uMsZ9g> by Friday 19th May 2017.
+
+
+Best wishes,
+
+Inah Omoronyia and Phil Trinder
+
+RS4 2017 Organisers
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20170505/1b79157b/attachment.htm
+From Jeremy.Singer at glasgow.ac.uk  Mon May  8 16:42:51 2017
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Mon May  8 16:44:22 2017
+Subject: [Marionet] Manycore Newsletter #1 - May 2017
+Message-ID: <73F84F0C-4B22-44A5-91A2-F8CAD0CC9735@glasgow.ac.uk>
+
+Dear MaRIONet member,
+ 
+This is the first of our regular network newsletters to update you
+about activities in the UK manycore network.
+
+
+=========
+1) UKMAC '17 Workshop - Warwick - Tue 11 July 
+=========
+ 
+The annual UK Manycore Developer Conference (UKMAC) will be held at
+Warwick University on Tuesday 11 July.  MaRIONet is sponsoring this
+event, so registration will be free this year.  We are currently
+looking for presentations: if you would like to give a talk, please
+email natascha.harth@glasgow.ac.uk with a short abstract. Visit
+http://manycore.org.uk/ukmac2017.html for more details about UKMAC '17,
+including the online registration form.
+
+
+========
+2) Launch Event Feedback
+========
+ 
+Around 60 people attended the MaRIONet launch meeting in January at
+Imperial College London. We would like to archive slides and photos from
+this meeting at http://manycore.org.uk/London_jan17.html - if you
+presented slides but you do not want them on the website, please let
+us know by Monday 15 May. If you have any photos or general feedback
+from the launch event, please email natascha.harth@glasgow.ac.uk with
+details.
+
+
+===========
+3) Members database
+===========
+
+When we received funding from EPSRC, we agreed to provide a public
+directory of manycore researchers in the UK. We intend to host this
+directory on our website. Again, if you do _not_ want your name to be on
+this list, please inform natascha.harth@glasgow.ac.uk by Monday 15 May.
+
+
+============
+4) Future events
+============
+
+There is a list of upcoming manycore research events at
+http://manycore.org.uk/events.html
+If you would like to add an event to our list, please get in touch.
+We also provide funding to cover expenses (catering, room hire,
+speaker travel) if you want to host your own event. Again, please
+get in touch for more details.
+
+
+============
+5) News updates
+============
+
+If you have any news items for the next edition of the MaRIONet
+newsletter, please send them directly to natascha.harth@glasgow.ac.uk
+or tweet us on @UKManycore
+
+
+
+Many thanks,
+Jeremy (MaRIONet coordinator)
+and 
+Natascha (Network administrator)
+
+
+---
+http://manycore.org.uk
+Follow us on twitter at @UKManycore
+
+
+
+
+
+From Jeremy.Singer at glasgow.ac.uk  Wed Jul  5 12:59:31 2017
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Wed, 5 Jul 2017 11:59:31 +0000
+Subject: [Marionet] UKMAC 2017 event
+Message-ID: <2F423924-A214-4EFD-976D-ADDD415F5386@glasgow.ac.uk>
+
+Hi MaRIONet members,
+
+We are holding the annual UK Manycore Developer Conference (UKMAC 2017) at the University of Warwick on Tuesday 11 July. 
+
+* Details at http://manycore.org.uk/ukmac2017.html
+* Free registration at http://manycore.org.uk/form.html
+
+Please come along if you are available.
+Best regards,
+Jeremy
+
+
+
+
+From Phil.Trinder at glasgow.ac.uk  Mon Aug  7 13:29:14 2017
+From: Phil.Trinder at glasgow.ac.uk (Phil Trinder)
+Date: Mon, 7 Aug 2017 12:29:14 +0000
+Subject: [Marionet] Reliable,
+ Secure and Scalable Software Systems (RS4) Workshop: Call for
+ Participation
+Message-ID: <9FA592BC1DE81E4CAAC9F278ED754C880FE7D035@CMS08-01.campus.gla.ac.uk>
+
+Reliable, Secure and Scalable Software Systems (RS4) Workshop
+1st September  2017
+Call for Participation
+www.dcs.gla.ac.uk/research/gpg/RS4/<http://www.dcs.gla.ac.uk/research/gpg/RS4/>
+
+PROGRAMME AND ABSTRACTS
+https://docs.google.com/document/d/1tzlK1DUFTIWnFlDPLysIvEL5B1qZgrdGzMgJKJ8zXwI/pub
+https://docs.google.com/document/d/1FkV9KDD89XMqY-3p3KcRdLMEpTrTZ0dVkQlf3on9ix8/pub
+
+REGISTRATION
+Attendance is free, but to facilitate catering please register your intention to attend at https://doodle.com/poll/kgu8a2vrm3qfisxd   by Wednesday 16th August 2017.
+
+TOPIC
+The era of many-core computing is transforming much of computing and areas like AI, sensor nets, IoT, and big data are just some examples. Many-core software systems have three main components: computation, i.e. the algorithms to be performed, data encoded in data structures and data stores, and communication between compute units:
+  Software Systems = Computation + Data + Communication
+
+Such systems must resolve three inter-linked challenges in each of the components to be:
+*             Scalable: emergent computing platforms operate at unprecedented scale, with commodity servers already commonly comprising hundreds of hosts, tens of thousands of cores, and thousands of storage devices.
+*             Reliable: systems must tolerate and recover from hardware, software and network failures.
+*             Secure: Systems are increasingly connected, and hence vulnerable to misuse and attack.
+RS4 is a 1 day workshop that brings together academic and industrial researchers to outline both challenges and promising approaches.
+
+The workshop is sponsored by SICSA and the EPSRC MaRIONet Manycore Network, and is part of the 60th anniversary of the School of Computing Science, at the University of Glasgow.
+
+INVITED SPEAKERS
+Alastair Reid, ARM: Security in The trusted computing base
+Michele Weiland, EPCC: Exascale Computing
+Alastair Murray, Codeplay Software: Safety-critical software
+David Irvine, Maidsafe: Security and Privacy of next-generation internet systems
+Tony Printezis, Twitter: JVM/GC engineer
+
+Best wishes,
+Inah Omoronyia and Phil Trinder
+RS4 2017 Organisers
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20170807/1a0d2add/attachment.html>
+
+From Phil.Trinder at glasgow.ac.uk  Wed Sep 20 13:01:45 2017
+From: Phil.Trinder at glasgow.ac.uk (Phil Trinder)
+Date: Wed, 20 Sep 2017 12:01:45 +0000
+Subject: [Marionet] Reliable Scalable and Secure Software (RS4) Workshop
+	Summary
+Message-ID: <9FA592BC1DE81E4CAAC9F278ED754C880FEA936F@CMS08-01.campus.gla.ac.uk>
+
+Folks,
+
+We had a very productive workshop in Glasgow on the 1st September with 7 talks and some plenary discussion. It was attended by some 50 people with a good mix of industrial and academic speakers and participants. There were presentations from high profile industrialists: Alastair Reid (ARM), Alastair Murray (Codeplay Software), Michele Weiland (EPCC), David Irvine (Maidsafe) and Tony Printezis (Twitter), and participation from leading universities: including Bristol, Cambridge, Edinburgh, Glasgow, and Heriot-Watt.
+
+We discussed the challenges of engineering reliable scalable and secure software (RS4) for emergent platforms, and some possible approaches to solving them.
+
+Attached is a summary of the workshop, and the full materials, including most sets of presentation slides are available from the workshop pages:
+  http://www.dcs.gla.ac.uk/research/gpg/RS4/
+
+Best Regards,
+
+Inah and Phil
+
+--------------------------------------------------
+Phil Trinder
+Glasgow Parallelism Group (GPG)
+Glasgow Systems Section (GLASS)
+School of Computing Science
+Glasgow University
+Glasgow G12 8QQ
+Scotland
+
+E:   Phil.Trinder at glasgow.ac.uk<mailto:Phil.Trinder at glasgow.ac.uk>
+P:   +44 (141) 330 3627
+W:  www.dcs.gla.ac.uk/~trinder/
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20170920/3325421e/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: RS4 2017 Workshop Summary.pdf
+Type: application/pdf
+Size: 548522 bytes
+Desc: RS4 2017 Workshop Summary.pdf
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20170920/3325421e/attachment-0001.pdf>
+
+From V.S.Getov at westminster.ac.uk  Wed Oct 25 11:07:43 2017
+From: V.S.Getov at westminster.ac.uk (Vladimir Getov)
+Date: Wed, 25 Oct 2017 10:07:43 +0000
+Subject: [Marionet] FST Research Colloquia - Lecture on 27 Oct at 1:00 PM in
+ the Pavilion, 115 New Cavendish St, London W1W 6UW
+In-Reply-To: <AM5PR0701MB249713F315675567621B7049E3440@AM5PR0701MB2497.eurprd07.prod.outlook.com>
+References: <VI1PR07MB1328A68F8A8797B70144BFD2E3F40@VI1PR07MB1328.eurprd07.prod.outlook.com>,
+ <VI1PR07MB13288510E16F63020B40B7B9E3C10@VI1PR07MB1328.eurprd07.prod.outlook.com>,
+ <VI1PR07MB132851DEE16C69CF94A5255FE3C40@VI1PR07MB1328.eurprd07.prod.outlook.com>,
+ <DB6PR0701MB250165677D7B36A5B15D458DE3880@DB6PR0701MB2501.eurprd07.prod.outlook.com>,
+ <DB6PR0701MB2501C24C0437D80C5CA613B6E38A0@DB6PR0701MB2501.eurprd07.prod.outlook.com>,
+ <AM5PR0701MB249713F315675567621B7049E3440@AM5PR0701MB2497.eurprd07.prod.outlook.com>
+Message-ID: <AM5PR0701MB249790B295E88638BB204109E3440@AM5PR0701MB2497.eurprd07.prod.outlook.com>
+
+Hi All:
+
+We are delighted to announce the next lecture from the FST Research Colloquia series, which will take place from 1:00 pm in the Pavilion (C1.18), 115 New Cavendish Street on Friday 27 October.
+https://www.westminster.ac.uk/about-us/our-locations/maps-and-directions/cavendish
+
+The seminar, hosted by the Distributed and Intelligent Systems Research Group, will feature a distinguished speaker - Professor Soumitra K. Nandy (Indian Institute of Science Bangalore) - on "Reconfigurable Many-Core Architecture of a Supercomputing System-on-Chip" (details below). Please do come along if you are able to - all welcome.
+
+Kind regards,
+
+Vladimir Getov
+
+[cid:70613724-0aa5-4cdf-b6ea-5a0e50a5702e]
+
+Abstract: Many-core architectures are projected as the vehicle to extend the computing performance of a processor within a power envelope. Achieving hardware scalability and performance are the primary challenges in building a many-core processor, especially when such a processor is to be realized as a SoC. There is a growing consensus that dataflow based execution models can improve productivity and performance of many-core architectures. Dataflow based execution models are attractive for their deterministic behaviour and ability to express arbitrary parallelism. REDEFINE from Morphing Machines is a massively parallel, runtime reconfigurable many-core processor that supports the dataflow model of execution. With REDEFINE as a case in point, we will discuss how arbitrary parallelism is exploited in REDEFINE through hardware-defined programming. In conclusion, we will play a recording of concurrent application kernels running on a 256 Compute Element REDEFINE emulated on 6 Virtex 7 2000T FPGA devices.
+
+Short Bio: Soumitra K. Nandy holds the position of a Senior Professor in the Department of Computational and Data Sciences, Indian Institute of Science, Bangalore (IISB). He graduated from I.I.T. Kharagpur in 1974 with a B.Sc. (Honours) degree in Physics, and then obtained his B.E. (Honours) degree in Electronics and Communication Engineering in 1980, M.Sc.(Eng.) degree in Computer Science and Engineering in 1986, and Ph.D. degree in Computer Science and Engineering in 1989, all from IISB. Prof. S. K. Nandy was instrumental in setting up a state-of-the-art laboratory for Computer Aided Design at the institute in 1983 with the assistance of the United Nations Development Programme and the Government of India. This laboratory has active collaborations with Massachusetts Institute of Technology, Cambridge, USA, Technical University of Delft, The Netherlands, Leiden Institute of Advanced Computer Science, The Netherlands, Tokyo University and Waseda University, Japan, KTH Royal Institute of Technology, Sweden, and RWTH Aachen University, Germany. Nowadays, the laboratory is engaged in state-of-the-art research in Reconfigurable System-on-Chip architectures for next generation desktop supercomputing platforms. Over the years, he has graduated 20 PhD, and over 100 Master students who have worked for their theses in the laboratory. His current research addresses important issues in micro-architectural and compiler optimizations for power and performance in Chip Multiprocessors (CMPs), and Runtime Reconfigurable SoCs. All his research targets massively parallel architectures and platforms for accelerating computations for Next Generation Sequence Alignment, Numerical Linear Algebra, Real-time Face Recognition, Cognition Engines, Genomics, and Molecular Dynamics. Prof. Nandy has over 175 research publications in International Journals and Proceedings of International Conferences that highlight his research contributions, and 5 patents to his credit.
+
+
+The University of Westminster is a charity and a company limited by guarantee. Registration number: 977818 England. Registered Office: 309 Regent Street, London W1B 2UW.
+
+This message and its attachments are private and confidential. If you have received this message in error, please notify the sender and remove it and its attachments from your system.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20171025/015a9414/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: pastedImage.png
+Type: image/png
+Size: 970199 bytes
+Desc: pastedImage.png
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20171025/015a9414/attachment-0001.png>
+
+From Jeremy.Singer at glasgow.ac.uk  Mon Dec 11 12:18:53 2017
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Mon, 11 Dec 2017 12:18:53 +0000
+Subject: [Marionet] Manycore Newsletter #2 - Dec 2017
+Message-ID: <E2CADA90-6127-4952-9770-B712195BDCD9@glasgow.ac.uk>
+
+Dear MaRIONet member,
+
+This is the second of our regular network newsletters to update you
+about activities in the UK manycore network.
+
+
+=========
+1) MaRIONet at HiPEAC '18
+=========
+
+The HiPEAC network is holding its annual conference in Manchester, 22-24 Jan 2018. We have a MaRIONet workshop on Wed 24 Jan.
+* We want to showcase UK manycore research at HiPEAC. Please volunteer to give a 30 min presentation about your project by emailing jeremy.singer at glasgow.ac.uk
+* Remember to sign up for the MaRIONet workshop when you register for the HiPEAC conference.
+* There will be a dragon's den style pitching competition at the workshop. We are looking for volunteers to pitch their wild and crazy ideas to the dragons!
+
+
+========
+2) Manycore Summer School
+========
+
+The flagship activity of MaRIONet will be a PhD and Early Career Summer School, to be held in Glasgow, Mon 16 to Fri 20 July 2018. We are delighted to announce that several guest lecturers have already confirmed their participation, including Matt Horsnell (Arm), Mario Wolczko (Oracle Labs), OpenPiton Open Source Research Processor team (Princeton), and Hans Vandierendonck (Queen's Belfast).
+
+Registration will go live in March 2018. Thanks to generous funding from EPSRC and SICSA, we will offer free registration and accommodation for UK PhD students. Please encourage your colleagues and students to attend!
+
+
+===========
+3) Christmas cards
+===========
+
+If we have your snail-mail address, you may shortly receive a seasonal missive from MaRIONet HQ at Glasgow. If not, happy holidays and best wishes for 2018.
+
+
+============
+4) Future events
+============
+
+There is a list of upcoming manycore research events at
+http://manycore.org.uk/events.html
+If you would like to add an event to our list, please get in touch.
+We also provide funding to cover expenses (catering, room hire,
+speaker travel) if you want to host your own event. Again, please
+get in touch for more details.
+
+
+5) News updates
+============
+
+If you have any news items for the next edition of the MaRIONet
+newsletter, please send them directly to
+natascha.harth at glasgow.ac.uk
+or tweet us on @UKManycore
+
+
+
+Many thanks,
+Jeremy (MaRIONet coordinator)
+and
+Natascha (Network administrator)
+
+
+---
+http://manycore.org.uk
+Follow us on twitter at @UKManycore
+
+
+[University of Glasgow: The Times Scottish University of the Year 2018]
+
+
+From Phil.Trinder at glasgow.ac.uk  Wed Feb 21 08:00:55 2018
+From: Phil.Trinder at glasgow.ac.uk (Phil Trinder)
+Date: Wed, 21 Feb 2018 08:00:55 +0000
+Subject: [Marionet] Academic Posts at Glasgow
+Message-ID: <9FA592BC1DE81E4CAAC9F278ED754C88129D8352@CMS08-01.campus.gla.ac.uk>
+
+Folks,
+
+The University of Glasgow School of Computing Science is seeking a lecturer, senior lecturer or reader in systems-level edge computing:
+http://www.jobs.ac.uk/job/BHC977/lecturer-senior-lecturer-reader-in-edge-computing/
+
+There are also posts in HCI, Data Science and CS Education:
+https://www.gla.ac.uk/schools/computing/worldchangerswelcome/
+
+Happy to discuss,
+
+Phil
+
+--------------------------------------------------
+Phil Trinder
+Glasgow Parallelism Group (GPG)
+Glasgow Systems Section (GLASS)
+School of Computing Science
+Glasgow University
+Glasgow G12 8QQ
+Scotland
+
+E:   Phil.Trinder at glasgow.ac.uk<mailto:Phil.Trinder at glasgow.ac.uk>
+P:   +44 (141) 330 3627
+W:  www.dcs.gla.ac.uk/~trinder/
+
+
+[University of Glasgow: The Times Scottish University of the Year 2018]
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180221/22ac8a6e/attachment.html>
+
+From Jeremy.Singer at glasgow.ac.uk  Mon Mar 12 09:19:43 2018
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Mon, 12 Mar 2018 09:19:43 +0000
+Subject: [Marionet] Manycore Newsletter #3 - Mar 2018
+Message-ID: <FCAE05A6-33A0-4388-B2EA-56F10E4017A3@glasgow.ac.uk>
+
+Dear MaRIONet member,
+
+This is the third in our series of network newsletters to update you
+about activities in the UK manycore network.
+
+Regards,
+Jeremy Singer
+
+
+-----------------------
+Pervasive and UbiComp workshop in Cardiff, 14-15 March
+-----------------------
+
+The EPSRC-sponsored Pervasive And Ubiquitous Computing Challenge
+Workshop is running in Cardiff later this week, 14-15 March 2018, with
+the objectives to strengthen and focus UK research activity in
+this area. MaRIONet will be well represented at this event. If
+you want us to raise any issues and lobby on behalf of the
+manycore community, please contact jeremy.singer at glasgow.ac.uk
+directly.  More details at
+https://www.epsrc.ac.uk/funding/calls/puccommunityworkshopeoi/
+
+
+-------------------
+MaRIONet workshop in Belfast, 5 April
+-------------------
+
+The ISPASS conference is hosted at Queen's University Belfast -
+see http://ispass.org/ispass2018/ for details. A MaRIONet
+workshop is running at Queen's the day afterwards, on Thu 5
+April. Our plan is to spend time drawing up a list of Grand
+Challenges for manycore research, with the aim of producing a
+technical report to present to funding agencies. This workshop is
+an free, open event - please attend if you are available. Sign up
+via doodle at https://doodle.com/poll/6a6swhxxpwin62ft and start
+thinking about your grand challenge proposal. We will set up
+online access to the workshop, via Google hangouts or similar,
+for network members who cannot attend in person.
+
+
+-------------------
+Summer school in Glasgow, 16-20 July - save the date.
+-------------------
+
+The Manycore Summer School will be held in Glasgow, Mon 16 to Fri
+20 July 2018. We have an exciting lineup of speakers, including
+researchers from Arm, Oracle, and Women in HPC, along with
+academics from Southampton, Bristol, Belfast and Princeton. The
+sign-up page will go live very soon - please encourage your PhD
+students to come along!  UK-based PhD students will be granted
+free registration and accommodation for the week, on a
+first-come-first-served basis.
+
+
+-----------------------
+Network stats
+-----------------------
+
+We now have around 120 members on our mailing list, from a range
+of industry and academic partners. This exceeds our original
+target by some way, and we are still growing! Please encourage
+your manycore collaborators to join our network too. Ask them to
+mail natascha.hart at glasgow.ac.uk to subscribe to this low-traffic
+list.
+
+
+-----------------------
+Industrial Strategy Challenge Fund
+-----------------------
+
+Adam Luqmani from EPSRC writes:
+> The UK Government is now inviting suggestions to
+> identify the third wave of industry-led challenges in
+> the Industrial Strategy Challenge Fund.
+>
+> The expression of interest for challenges opens on
+> 28 February 2018, and the deadline is 18 April 2018.
+> This is an opportunity to influence the UK research
+> landscape and is well worth circulating within your networks.
+>
+> https://www.gov.uk/government/news/industrial-strategy-challenge-fund-tell-us-what-to-support
+
+
+
+
+---
+http://manycore.org.uk
+Follow us on twitter at @UKManycore
+
+
+[University of Glasgow: The Times Scottish University of the Year 2018]
+
+
+From Jeremy.Singer at glasgow.ac.uk  Wed Apr  4 14:05:03 2018
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Wed, 4 Apr 2018 13:05:03 +0000
+Subject: [Marionet] Manycore Grand Challenges meeting in Belfast
+Message-ID: <C15961FB70BA6F4EA55A1FAAB461DAC165DEDA73@CMS08-02.campus.gla.ac.uk>
+
+Hi all,
+
+Tomorrow (Thu 5 Apr) we are convening a Manycore Network Grand Challenges workshop in Belfast, 10am-3pm. Please join this meeting remotely if you are available for some/all of the time. We will post a Google Hangouts link on this mailing list tomorrow morning.
+
+Agenda:
+
+10-11: Deconstructing Grand Challenges.
+What is a grand challenge, or moonshot? Why do we need them? We review similar exercises in the past, and highlight successes and failures.
+
+11-12: Discussion about Manycore Grand Challenges.
+We aim to construct a list of 10 to 20 challenges, which will be whittled down through the day. These are research problems / real-world challenges that we want the manycore community to address. Bring Your Own Challenge!
+
+12-1230: Discussion about Grand Challenge Activities.
+Should we run hackathons? Workshops? Curate an interactive website? Publish a journal special issue?
+
+1230-1330: lunch
+
+1330-1400: Interactive Voting Exercise
+We aim to identify the top N grand challenges.
+
+14-15: Moving Forward.
+Discussion about timeline for activities, champions for grand challenges. Strategy for community engagement.
+
+
+
+Hope you can join us for some of these sessions online. We will post the google hangouts link tomorrow, before we start at 10.
+
+Many thanks,
+Jeremy
+
+
+[University of Glasgow: The Times Scottish University of the Year 2018]
+
+
+From Jeremy.Singer at glasgow.ac.uk  Thu Apr  5 09:50:38 2018
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Thu, 5 Apr 2018 08:50:38 +0000
+Subject: [Marionet] Manycore Grand Challenges meeting in Belfast
+In-Reply-To: <C15961FB70BA6F4EA55A1FAAB461DAC165DEDA73@CMS08-02.campus.gla.ac.uk>
+References: <C15961FB70BA6F4EA55A1FAAB461DAC165DEDA73@CMS08-02.campus.gla.ac.uk>
+Message-ID: <C15961FB70BA6F4EA55A1FAAB461DAC165DEDE10@CMS08-02.campus.gla.ac.uk>
+
+Hi all,
+
+>  post a Google Hangouts link on this mailing list tomorrow morning.
+
+hangout at
+
+https://hangouts.google.com/call/dmK0vHJfOQ-C4X0tle9yAAEI
+
+Thanks,
+Jeremy
+
+
+Agenda:
+
+10-11: Deconstructing Grand Challenges.
+What is a grand challenge, or moonshot? Why do we need them? We review similar exercises in the past, and highlight successes and failures.
+
+11-12: Discussion about Manycore Grand Challenges.
+We aim to construct a list of 10 to 20 challenges, which will be whittled down through the day. These are research problems / real-world challenges that we want the manycore community to address. Bring Your Own Challenge!
+
+12-1230: Discussion about Grand Challenge Activities.
+Should we run hackathons? Workshops? Curate an interactive website? Publish a journal special issue?
+
+1230-1330: lunch
+
+1330-1400: Interactive Voting Exercise
+We aim to identify the top N grand challenges.
+
+14-15: Moving Forward.
+Discussion about timeline for activities, champions for grand challenges. Strategy for community engagement.
+
+
+
+From Jeremy.Singer at glasgow.ac.uk  Mon Apr  9 11:28:56 2018
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Mon, 9 Apr 2018 10:28:56 +0000
+Subject: [Marionet] Manycore Grand Challenges meeting in Belfast
+In-Reply-To: <C15961FB70BA6F4EA55A1FAAB461DAC165DEDE10@CMS08-02.campus.gla.ac.uk>
+References: <C15961FB70BA6F4EA55A1FAAB461DAC165DEDA73@CMS08-02.campus.gla.ac.uk>,
+ <C15961FB70BA6F4EA55A1FAAB461DAC165DEDE10@CMS08-02.campus.gla.ac.uk>
+Message-ID: <C15961FB70BA6F4EA55A1FAAB461DAC165DEE490@CMS08-02.campus.gla.ac.uk>
+
+Hi all,
+
+We held a manycore workshop on Grand Challenges last week in Belfast. Apologies - the google hangout did not work well. However we had a useful discussion. 
+
+Slides at https://manycore.org.uk/belfast_gc_slides.pdf (12MB pdf)
+Notes at https://manycore.org.uk/belfast_gc_notes.txt (0MB txt)
+
+We agreed to progress with application-focused grand challenges for manycore, possibly using the Industrial Strategy Challenge Fund as a vehicle for engagement.
+
+Best regards,
+Jeremy
+
+
+From many-core-workshop at york.ac.uk  Mon Apr 16 15:07:00 2018
+From: many-core-workshop at york.ac.uk (Many Core Workshop)
+Date: Mon, 16 Apr 2018 15:07:00 +0100
+Subject: [Marionet] Adaptive Many-Core Architectures and Systems Workshop
+Message-ID: <CADfTe4kZs-wnZ1v41_K2EHJ3AVryi-zEwfVSdKszhyCJE1NcyQ@mail.gmail.com>
+
+Dear Colleagues,
+
+'Adaptive Many-Core Architectures and Systems' is an informal workshop
+which will be held in the historic city of York from the 13th to the 15th
+of June 2018. The workshop aims to highlight and discuss emerging trends
+and future directions in the field of many-core system design (and beyond),
+and will feature invited position papers from world-leading researchers and
+industrialists across the field.
+
+Confirmed keynote speakers at the event include Steve Furber (University of
+Manchester), Nikil Dutt (University of California, Irvine, USA), Alan Burns
+(University of York, UK), and Jürgen Teich (Friedrich-Alexander-Universität
+Erlangen-Nürnberg, Germany), with more to come!
+
+We are currently soliciting extended abstracts from members of the
+community who are interested in presenting at this workshop. Abstracts
+should be no longer than three pages of A4 in standard IEEE conference
+format, and should focus upon the potential for future developments within
+the field of adaptive many-core systems.
+
+The workshop website, which includes information on submission and an
+up-to-date list of invited speakers can be found at
+http://www.york.ac.uk/many-core-workshop
+
+There is no attendance or registration fee for a limited number of places,
+for which authors of accepted submissions will get priority. We also have a
+number of student bursaries available, which will contribute towards the
+travel and accommodation costs of registered students. Deadline for
+submissions is Tuseday 8th May 2018.
+
+Best regards,
+Gianluca Tempesti
+Andy Tyrrell
+Martin Trefzer
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180416/1a2e101d/attachment.html>
+
+From Jeremy.Singer at glasgow.ac.uk  Wed Apr 25 20:01:27 2018
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Wed, 25 Apr 2018 19:01:27 +0000
+Subject: [Marionet] Manycore Newsletter #4 - Apr 2018
+Message-ID: <EE4876E8-0AB8-4910-8F4A-973554EC78E8@glasgow.ac.uk>
+
+Hi Manycore network member,
+
+There are two great events happening soon ...
+1) Adaptive Manycore Architectures and Systems workshop, 13-15 June, York
+       http://www.york.ac.uk/many-core-workshop
+2) Manycore Summer School, 16-20 July, Glasgow
+       https://manycore.org.uk/summerschool.html
+
+Please see below for full details.
+Best regards,
+Jeremy
+
+
+=================
+1) WORKSHOP in York
+=================
+
+'Adaptive Many-Core Architectures and Systems' is an informal workshop which will be held in the historic city of York from the 13th to the 15th of June 2018. The workshop aims to highlight and discuss emerging trends and future directions in the field of many-core system design (and beyond), and will feature invited position papers from world-leading researchers and industrialists across the field.
+
+Confirmed keynote speakers at the event include Steve Furber (University of Manchester), Nikil Dutt (University of California, Irvine, USA), Alan Burns (University of York, UK), and Jürgen Teich (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany), with more to come!
+
+We are currently soliciting extended abstracts from members of the community who are interested in presenting at this workshop. Abstracts should be no longer than three page of A4 in standard IEEE conference format, and should focus upon the potential for future developments within the field of adaptive many-core systems.
+
+The workshop website, which includes information on submission and an up-to-date list of invited speakers can be found athttp://www.york.ac.uk/many-core-workshop
+
+There is no attendance or registration fee for a limited number of places, for which authors of accepted submissions will get priority. We also have a number of student bursaries available, which will contribute towards the travel and accommodation costs of registered students. Deadline for submissions is Tuseday 8th May 2018.
+
+
+=================
+2) SUMMER SCHOOL in Glasgow
+=================
+
+Please could you encourage PhD students and early career postdocs to sign up for the Manycore Summer School at https://manycore.org.uk/summerschool.html
+
+A range of speakers from academia and industry will be giving talks and hands-on lab sessions. We have 30 free places remaining for students from UK universities (20 already gone!) The event runs 16-20 July 2018 (week after ACACES/HiPEAC). Participants only have to fund their own travel to Glasgow - we are providing accommodation, courtesy of sponsorship from EPSRC and SICSA. This is the flagship event of the Manycore network.
+
+
+
+[University of Glasgow: The Times Scottish University of the Year 2018]
+
+
+From Jeremy.Singer at glasgow.ac.uk  Tue May 22 13:20:53 2018
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Tue, 22 May 2018 12:20:53 +0000
+Subject: [Marionet] Manycore Newsletter #5 - May 2018
+Message-ID: <C15961FB70BA6F4EA55A1FAAB461DAC165E26296@CMS08-02.campus.gla.ac.uk>
+
+Hi all,
+Several interesting UK-based workshops coming up, see below...
+Thanks,
+Jeremy
+
+
+---
+
+Network member Gianluca Tempesti from York writes:
+
+Adaptive Many-Core Architectures and Systems is an informal workshop
+which will be held in York, 13-15 June. The workshop aims to highlight
+and discuss emerging trends and future directions in the field of
+many-core system design (and beyond), and will feature invited
+position papers from world-leading researchers and industrialists
+across the field.
+
+> https://www-users.york.ac.uk/~mt540/graceful-ws/index.html
+
+---
+
+Tom Kazmierski from Southampton writes:
+
+The POETS Workshop on Event-Based Parallel Computing provides a forum
+for results or work in progress in all aspects of parallel and
+distributed computing. Abstract/Poster submission deadline is 23 July,
+with the workshop to be held at Chilworth Manor, Southampton, 6-7
+September.
+
+> https://poets-project.org/workshop2018
+
+---
+
+Network coordinator Jeremy Singer writes:
+
+Final opportunity for PhD students and postdocs to sign up for the
+Manycore Summer School in Glasgow.
+
+A range of speakers from academia and industry will be giving talks
+and hands-on lab sessions. We have a few free places remaining for
+students from UK universities. The event runs 16-20 July 2018 (week
+after ACACES/HiPEAC). Participants only have to fund their own travel
+to Glasgow - we are providing free accommodation, courtesy of
+sponsorship from EPSRC and SICSA. This is the flagship event of the
+Manycore network.
+
+> https://manycore.org.uk/summerschool.html
+
+
+
+---
+https://manycore.org.uk
+Follow us on twitter at @UKManycore
+
+
+
+
+
+[University of Glasgow: The Times Scottish University of the Year 2018]
+
+
+From kath at soton.ac.uk  Fri May 25 10:28:51 2018
+From: kath at soton.ac.uk (Kath Kerr)
+Date: Fri, 25 May 2018 09:28:51 +0000
+Subject: [Marionet] EWME 2018 Braunschweig,
+	Germany from 24th to 26th September 2018
+Message-ID: <2D7FBEFE6CA2BE4C9A7808635E9F59D1F62D84A0@SRV00046.soton.ac.uk>
+
+Dear all
+
+EWME 2018 is the 12th European Workshop on Microelectronics Education which will be held in Braunschweig, Germany from 24th to 26th September 2018.
+
+The Call for Paper is now out and if you would be interested in submitting to the conference, please see this webpage for more information: http://ewme2018.iti.uni-luebeck.de/call.php
+
+Please feel free to forward this information to any colleagues you think would be interested.
+
+With best wishes,
+
+Kath
+
+Kath Kerr
+EPSRC Project Manager
+PRiME and POETS - EPSRC Programme Grants
+
+School of Electronics & Computer Science
+University of Southampton
+Room 3205, Zepler Building (B59)
+Highfield Campus
+Southampton SO17 1BJ
+
+02380 592900
+kath at soton.ac.uk<mailto:kath at soton.ac.uk>
+
+[PRiME]         [POETS]
+
+http://www.prime-project.org/         https://poets-project.org/
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180525/b69a61af/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 11012 bytes
+Desc: image001.png
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180525/b69a61af/attachment-0001.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image003.jpg
+Type: image/jpeg
+Size: 2840 bytes
+Desc: image003.jpg
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180525/b69a61af/attachment-0001.jpg>
+
+From mic at inf.ed.ac.uk  Wed Jun  6 14:18:47 2018
+From: mic at inf.ed.ac.uk (Murray Cole)
+Date: Wed, 06 Jun 2018 14:18:47 +0100
+Subject: [Marionet] 3 RA/PostDoc positions in Compilers/Runtime at
+ University of Edinburgh
+Message-ID: <20180606141847.20726vzf28a47txw@www.staffmail.ed.ac.uk>
+
+3 RA/PostDoc positions in compilers/runtime  for  a coarse-grain  
+reconfigurable accelerator
+
+University of Edinburgh
+
+Closing date is 5pm GMT on 06 July 2018.
+
+
+The School of Informatics, University of Edinburgh, is advertising  
+three research positions in the area of compilers and runtime for a  
+coarse-grain reconfigurable accelerator (CGRA).
+
+These posts are associated with SDH, software defined hardware,  a US  
+DARPA project led by U. Michigan and in partnership with ARM and U.  
+Arizona. The project will tape out a state-of-the art high performance  
+CGRA and deliver a compiler and runtime that reconfigures the CGRA  
+on-the-fly to changing workloads.
+
+There will be considerable interaction between the sites and for one  
+post the candidate will spend a year at U Michigan.
+
+For one post, the ideal candidate will have experience in developing  
+light-weight, user-level runtime systems. For the other two posts, the  
+ideal candidate will have experience in LLVM based (or similar)  
+compiler development. Strong candidates with related relevant  
+experience are also encouraged to apply.
+
+Informal enquiries can be addressed to Prof. Michael O?Boyle  
+(mob at inf.ed.ac.uk) or Dr Murray Cole (mic at inf.ed.ac.uk) or Dr  
+Christophe Dubach (Christophe.Dubach at ed.ac.uk)
+
+The posts are available from 1st August 2018 (the starting date is  
+flexible) and are on the UE07 scale (£32,548 - £38,833). The posts  
+will be fixed term for 36 months with the possibility of extension to  
+48 months depending on funding.
+
+The closing date is 5pm GMT on 06 July 2018.
+
+Further details:
+
+https://www.vacancies.ed.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.display_form
+
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+
+From mic at inf.ed.ac.uk  Wed Jun 13 16:03:28 2018
+From: mic at inf.ed.ac.uk (Murray Cole)
+Date: Wed, 13 Jun 2018 16:03:28 +0100
+Subject: [Marionet] International Symposium on High-Level Parallel
+ Programming and Applications
+Message-ID: <20180613160328.86378xxtiwxp1veo@www.staffmail.ed.ac.uk>
+
+----------------------------------------------------------------------
+**
+**    HLPP 2018
+**    11th International Symposium - 12 to 13 July 2018
+**    Orléans, France
+**
+**    http://www.univ-orleans.fr/lifo/equipes/LMV/hlpp2018/
+**
+----------------------------------------------------------------------
+**
+**    Call for participation
+**
+**    REGISTRATION:
+**
+**    Through the HLPP registration web page:
+**    http://www.univ-orleans.fr/lifo/equipes/LMV/hlpp2018/
+**
+**    Registration deadline:  ** July 2 **
+**
+----------------------------------------------------------------------
+**
+** **** Overview ****
+**
+** As processor and system manufacturers increase the amount of
+** both inter- and intra-chip parallelism it becomes crucial to
+** provide the software industry with high-level, clean and efficient
+** tools for parallel programming. Parallel and distributed programming
+** methodologies are currently dominated by low-level techniques such
+** as send/receive message passing, or equivalently unstructured shared
+** memory mechanisms. Higher-level, structured approaches offer many
+** possible advantages and have a key role to play in the scalable
+** exploitation of ubiquitous parallelism. Since 2001 the HLPP series
+** of workshops/symposia has been a forum for researchers developing
+** state-of-the-art concepts, tools and applications for high-level
+** parallel programming. The general emphasis is on software quality,
+** programming productivity and high-level performance models.
+**
+----------------------------------------------------------------------
+**
+**  **** Program ****
+**
+**
+** * Keynote: Ludovic Henrio, Active Objects
+** * Papers
+** ** 	Fabian Wrede, Christoph Rieger and Herbert Kuchen.
+	Generation of High-Performance Code Based on a Domain-Specific Language
+         for Algorithmic Skeletons
+
+** ** 	Kento Emoto and Fumihisa Sadahira.
+	A DSL for Graph Parallel Programming with Vertex Subsets
+
+** ** 	Florian Biermann and Alexander Asp Bock.
+	Puncalc: Task-Based Parallelism and Speculative Reevaluation in
+         Spreadsheets
+
+** ** 	Fabio Tordini, David Del Rio, Marco Aldinucci, Marco Danelutto, Jose
+         Daniel Garcia, Gabriele Mencagli and Massimo Torquati.
+         Adding FastFlow support to GrPPI
+
+** ** 	Ari Rasch, Julian Bigge, Richard Schulze and Sergei Gorlatch.
+	dOCAL: An Abstraction for Host-Code Programming with OpenCL and CUDA
+
+** ** 	Tomas Öhberg, August Ernstsson and Christoph Kessler.
+	Hybrid CPU-GPU execution support in the skeleton programming framework
+         SkePU
+
+** ** 	Victor Allombert and Frédéric Gava.
+	Programming BSP and Multi-BSP algorithms in ML
+
+** ** 	Virginia Niculescu and Frederic Loulergue.
+	Transforming Powerlist based Divide&Conquer Programs for an Improved
+         Execution Model
+
+** ** 	Marios Kardaras, Dimitrios Siakavaras, Konstantinos Nikas, Georgios
+         Goumas and Nectarios Koziris.
+	Fast Concurrent Skip Lists with HTM
+
+** ** 	Javier López-Gómez, David Del Río Astorga, Manuel F. Dolz, Javier
+         Fernandez and Jose Daniel Garcia.
+	Verifying semantics of lock-free data structures through C++ contracts
+
+Best regards,
+HLPP 2018 PC
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+
+From marc.derquennes at bayncore.com  Tue Jul  3 14:03:53 2018
+From: marc.derquennes at bayncore.com (Marc DERQUENNES)
+Date: Tue, 3 Jul 2018 13:03:53 +0000
+Subject: [Marionet] Bayncore / Intel to support research programs using AI -
+ year 2018 - To circulate
+Message-ID: <ABB8269F-419C-4AE3-B5A8-2E892D2012A4@contoso.com>
+
+Dear Marionet members,
+
+We are delighted to announce that for the current year 2018, Intel and Bayncore are managing a NEW program to support research teams using AI and their scientific papers publishing.
+
+This new program is for current year 2018, and it is highly likely that a similar one will be developed for 2019.
+
+Bayncore is officially in charge of managing the support given to the selected research projects.
+
+Please have a look to the attached overview in PDF.
+
+We will be pleased to answer questions to the teams interested in submitting to this new support program.
+
+We can only insist on the need to react fast as for the 2018 program we need to list the candidates with a description of the project before end of July 2018.
+
+Please contact me or Stephen Blair-Chappell (in copy) as soon as you can.
+
+Kind regards,
+
+
+
+Marc DERQUENNES
+CEO
+Bayncore
+
+M: +44 74 121 121 70
+T: +44 207 750 0600
+marc.derquennes at bayncore.com<mailto:marc.derquennes at bayncore.com>
+www.bayncore.com<http://www.bayncore.com/>
+
+[id:image001.png at 01D2A71A.20D60190]
+[id:image002.png at 01D2A71A.20D60190]
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180703/71766d8a/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 10159 bytes
+Desc: image001.png
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180703/71766d8a/attachment-0002.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image002.png
+Type: image/png
+Size: 2266 bytes
+Desc: image002.png
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180703/71766d8a/attachment-0003.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 201807 BAYNCORE INTEL Support for Scientific Papers Publishing.pdf
+Type: application/pdf
+Size: 611124 bytes
+Desc: 201807 BAYNCORE INTEL Support for Scientific Papers Publishing.pdf
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180703/71766d8a/attachment-0001.pdf>
+
+From Jeremy.Singer at glasgow.ac.uk  Fri Aug  3 10:56:56 2018
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Fri, 3 Aug 2018 09:56:56 +0000
+Subject: [Marionet] Manycore Newsletter #6 - Aug 2018
+Message-ID: <C15961FB70BA6F4EA55A1FAAB461DAC177070D89@CMS08-02.campus.gla.ac.uk>
+
+Hi all,
+
+Our network is now more than half-way through its EPSRC funding
+duration. We have organized a range of events across the country over
+the past two years, with further upcoming events announced below. Do
+get in touch if you would like to host your own Manycore workshop.
+
+In other news, we have produced some MaRIONet laptop stickers. Email
+jeremy.singer at glasgow.ac.uk with your snail mail address if you want
+us to post you a laptop sticker.
+
+Best regards,
+Jeremy
+
+---
+
+Network member Jose Nunez-Yanez from Bristol is organizing a workshop
+on Next-Generation Hardware for High-Performance Computing, to be held
+in Bristol, 11 Sep 2018. Lots of great speakers and interesting talks.
+Check out https://seis.bristol.ac.uk/~eejlny/nghpc/eehco.htm for
+registration and further details.
+
+---
+
+Network coordinator Jeremy Singer writes:
+
+The UK Manycore summer school was held at the School of Computing
+Science, 16-20 July. We welcomed over 40 visitors, most of them were
+UK-based PhD students but we had some delegates from exotic places
+like ETHZ and Princeton. Speakers included representatives from
+industry and academia.
+
+Over the week, students found out about various aspects of manycore
+technology, from low-level processor architecture, through virtual
+machines and programming languages, up to high-level applications. We
+also enjoyed an excursion to Loch Lomond and a ceilidh at the student
+union, to give our visitors an authentic taste of Scotland.
+
+The summer school was possible thanks to generous sponsorship from
+EPSRC and SICSA. Slides and photos are archived at
+https://manycore.org.uk/summerschool.html
+
+---
+
+Ghaithaa Manla at Southampton writes:
+
+PRiME is pleased to announce the release of PRiME Framework which
+enables application- and platform-agnostic runtime management.  Being
+able to balance the competing needs of application performance with
+the minimisation of system power is essential for future systems and
+one way to achieve this is with application-aware runtime management
+of system behaviour. There are many runtime management approaches;
+however, many are tied to specific hardware or applications, this
+makes direct comparison challenging and complicates implementation
+with new platforms and applications.  PRiME researchers have developed
+a tool, Prime Framework, for application and platform agnostic runtime
+management that enables portability of runtime management
+approaches. We achieve this by considering a system as three distinct
+layers with abstracted communication between them.  The PRiME
+Framework has two main features: It allows users, who are developing
+runtime managers for new systems, to directly compare different
+approaches to identify the best one or check how well their approach
+compares to the state of the art. It simplifies development effort as
+runtime managers don't need device or application specific code
+allowing the users to quickly prototype and test an idea in a few
+lines of code. "The PRiME Framework is a step change in cross-layer
+system optimisation of future many-core and heterogeneous systems. It
+benefits runtime management researchers and developers by reducing
+development overhead and enabling the direct comparison of
+approaches," said Professor Bashir Al-Hashimi. Details of the tool
+methodology have been accepted for publication in ReCoSoC 2018 and PEC
+2018 both of which will be published shortly.  PRiME Framework is
+available to download on:
+https://github.com/PRiME-project/PRiME-Framework
+
+
+---
+https://manycore.org.uk
+Follow us on twitter at @UKManycore
+
+
+
+
+
+[University of Glasgow: The Times Scottish University of the Year 2018]
+
+
+From S.Marr at kent.ac.uk  Wed Aug 22 19:06:02 2018
+From: S.Marr at kent.ac.uk (Stefan Marr)
+Date: Wed, 22 Aug 2018 19:06:02 +0100
+Subject: [Marionet] =?utf-8?q?Call_for_Workshop_Proposals_for_=3CProgrammi?=
+ =?utf-8?b?bmc+4oCZMTk=?=
+Message-ID: <8C6BDC89-3109-45CC-892B-EA54533C0AA6@kent.ac.uk>
+
+<Programming> 2019 : The Art, Science, and Engineering of Programming
+
+April 1-4, 2019, Genova, Italy
+http://2019.programming-conference.org
+
+********************************************************
+CALL FOR WORKSHOPS
+********************************************************
+
+https://2019.programming-conference.org/track/programming-2019-Workshops
+
+To build a community and to foster an environment where participants can 
+exchange ideas and experiences related to practical software 
+development, ‹Programming› will host a number of workshops, during the 
+days before the main conference. The workshops will provide a 
+collaborative forum to exchange recent and/or preliminary results, to 
+conduct intensive discussions on a particular topic, or to coordinate 
+efforts between representatives of a technical community. They are 
+intended as a forum for lively discussion of innovative ideas, recent 
+progress, or practical experience on programming and applied software 
+development in general for specific aspects, specific problems, or 
+domain-specific needs. We also encourage practical, hands-on workshops 
+in which participants actually experience one or several aspects of 
+practical software development. 
+
+The duration of workshops is in general one day, but we encourage the 
+submission of half-day workshop proposals on focused topics as well. In 
+exceptional situations, e.g., for workshops that involve actual practice 
+of programming-related activities, workshop organizers can request a 2 
+day workshop slot. If desired, the workshop proceedings can be published 
+in the ACM Digital Library. 
+
+
+### Submission Deadlines
+
+Deadline: September 1st, 2018
+
+Notifications will go out as soon as possible, about a week after the deadline.
+
+### Workshop Selection Committee
+
+Walter Cazzola (Università degli Studi di Milano, Italy)  
+Stefan Marr (University of Kent, UK)
+
+### Submission and Workshop Process
+
+Please submit your workshop proposal electronically via the submission system:
+https://2019.programming-conference.org/createProposal/b8c42d64-0e25-4255-ab8e-dceb6acd53db
+Please adhere to the workshop proposal guidelines given below and provide all requested information about the proposed workshop.
+
+Please keep it brief and use the provided form. The intention is not to spend time proposal writing, but preparing the organization of the workshop.
+
+To coordinate with the deadlines of the main conference, the following deadlines have to be respected by workshops:
+
+**Workshop web site and CFP:** September 17th.  
+
+**Deadline for submissions to the workshops:**
+
+ - after December 1st 2018 (first notification issue 3)
+ - possibly after January 7th 2019 (final notification issue 3), if this is feasible
+ - no later than January 15th 2019
+
+**Notification of authors:** February 15th, the latest. Needs to be before the early registration deadline around February 25th 2018.  
+
+**Deadline for Camera-Ready Papers (ACM DL):**
+
+ - for pre-proceedings before March 1st
+ - for post-proceedings before May 1st
+
+**Workshop dates:** April 1st or 2nd 2019
+
+### Workshop Proposal Guidelines
+
+Please include the following information either directly in the proposal, or CFP.
+The submission system has a form that includes an abstract (for the website), the CFP, and the remaining proposal.
+CFPs often cover the same information, duplication is not necessary for such cases.
+
+1. What is the motivation for the workshop?
+   - Objectives
+   - Intended audience
+   - Relevance (with respect to the topics of the <Programming> conference)
+2. Who organizes the workshop?
+   - Organizers and primary contact (name / affiliation / email)
+   - Brief details on the organizers (previous workshop organizing experience, etc.)
+   - Data on potential previous iterations of the workshop
+       - How many participants do you expect (please make at least an educated guess)
+       - What kind of equipment do you need (e.g., data projector, computer, whiteboard)
+   - Advertisement: Planed advertisement strategy to ensure sufficient participation
+3. Is there going to be a workshop program committee?
+   - if so, please list the members (indicated as finalized or expected)
+4. What is the planed workshop format?
+   - Planned deadlines
+   - Intended paper format
+   - Evaluation process
+   - Intended publication of accepted papers (printed proceedings or website)
+       - either as pre or post proceedings
+   - Intended workshop format (including duration, number of presentations, and planned keynotes)
+
+### Notes on Proceedings
+
+Workshops that wish to have their proceedings published in the ACM DL will have the opportunity to have either a pre or post proceedings. However, chairs will be responsible for collecting and verifying final copies, including PDFs and their source files, as well as paper metadata, in a format required by the publisher. The deadlines mentioned above are **strict** and we won't be able to extend them. Please consider them carefully when determining your deadlines for the workshop.
+
+-- 
+Stefan Marr
+School of Computing, University of Kent
+http://stefan-marr.de/research/
+
+
+
+
+From Christos.Kotselidis at manchester.ac.uk  Sat Sep  8 11:11:12 2018
+From: Christos.Kotselidis at manchester.ac.uk (Christos-efthymios Kotselidis)
+Date: Sat, 8 Sep 2018 10:11:12 +0000
+Subject: [Marionet] Tornado heterogeneous programming framework public
+	release v0.1
+Message-ID: <214A01D3-AEA9-4632-B1E0-AEA6E8A6D2CC@manchester.ac.uk>
+
+Dear all,
+
+We are happy to announce the open sourcing of Tornado, a practical heterogeneous programming framework for Java.
+
+Tornado enables JIT compilation and acceleration of Java code on any OpenCL compatible devices including GPUs and in the future FPGAs.
+Our recent publication in ManLang 2018 describes in detail the internals of Tornado and its capabilities: http://goo.gl/78nhje
+
+Thanks to EPSRC, Tornado started as the PhD thesis of James Clarkson under the joint supervision of Mikel Lujan and continues growing under the EU H2020 E2Data<https://e2data.eu> and ACTiCLOUD<https://acticloud.eu> grants.
+
+On behalf of our team members - James Clarkson, Juan Fumero, Foivos Zakkak, Michalis Papadimitriou, Mary Xekalaki, and Mikel Lujan - please checkout Tornado and start accelerating your applications!
+
+We look forward to hearing your feedback and success stories!
+
+Github repo: https://github.com/beehive-lab/Tornado
+
+Kind Regards
+
+Christos Kotselidis
+Lecturer
+The University of Manchester
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180908/87a332b3/attachment.html>
+
+From mic at inf.ed.ac.uk  Mon Oct 22 11:04:37 2018
+From: mic at inf.ed.ac.uk (Murray Cole)
+Date: Mon, 22 Oct 2018 11:04:37 +0100
+Subject: [Marionet] [Vacancy] Research Assistant/Research Associate in
+ Compiler Engineering at University of Edinburgh
+Message-ID: <20181022110437.20241xk10mh971lw@www.staffmail.ed.ac.uk>
+
+Applications are invited for the position of Research  
+Assistant/Research Associate on the EPSRC funded project Discovery:  
+Pattern Discovery and Program shaping for Heterogeneous Manycore  
+Systems. This project is a collaboration between the Universities of  
+Edinburgh and St Andrews, investigating new compiler based approaches  
+to restructuring legacy sequential and parallel C++ applications to  
+ease the introduction and tuning of skeleton-based patterned  
+parallelism.
+
+This post will involve working with the LLVM compiler framework, to  
+encode definitions of the relevant code patterns as compiler passes,  
+and to communicate the findings of these passes to the team members  
+who are working on code-refactoring tools. There will be opportunities  
+to take responsibility for guiding research decisions and for  
+collaborating on research papers, all within the freedom of an  
+academic research environment. The post would be suitable for a  
+flexible working pattern, e.g. working largely remotely, and will  
+offer opportunities for travel.
+
+See
+
+https://www.vacancies.ed.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.jobspec?p_id=045691
+
+for more details.
+
+
+The post is full time, fixed-term and is available from 1st January  
+2019 to 30th June 2020.
+
+Informal enquiries can be addressed to Prof. Murray Cole  
+(mic at inf.ed.ac.uk) or Dr Bjoern Franke (bfranke at inf.ed.ac.uk).
+
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+
+From S.Marr at kent.ac.uk  Mon Nov 19 13:26:22 2018
+From: S.Marr at kent.ac.uk (Stefan Marr)
+Date: Mon, 19 Nov 2018 13:26:22 +0000
+Subject: [Marionet] Call for Papers - PLACES 2019 at ETAPS
+References: <6207f680-58c4-15e4-4241-7d42624d7444@kent.ac.uk>
+Message-ID: <18587BC9-78C4-4660-97A8-60ACCAF3A6AB@kent.ac.uk>
+
+The 11th edition of PLACES (Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software) will be co-located with ETAPS 2019 in Prague, Czech Republic on 7th April 2019.
+
+Workshop website: https://conf.researchr.org/track/etaps-2019/places-2019-papers
+
+For over a decade, PLACES has been a popular forum for researchers from different fields to exchange new ideas about challenges to modern and future programming, where concurrency and distribution are the norm rather than a marginal concern.
+
+Submissions are invited in the general area of programming language approaches to concurrency, communication, and distribution, ranging from foundational issues, through language implementations, to applications and case studies. Submissions will be peer-reviewed by a minimum of three reviewers, with the aim of allocating at least one expert reviewer. Papers are reviewed based on their novelty, clarity, and technical soundness. Submission must not be submitted elsewhere and must be formatted in EPTCS format, containing a maximum of 8 pages (with no restriction on bibliography or appendices, which the reviewers need not read). The proceedings of PLACES 2019 will be published as a volume of EPTCS.
+
+Key dates:
+- Submission deadline: 24th January 2019 (AoE)
+- Author notification: 21st February 2019
+- Camera ready: 7th March 2019
+- Workshop: 7th April 2019
+- ETAPS: 6th-11th April 2019
+
+Relevant topics include, but are not limited to:
+
+- Design and implementation of programming languages with first class concurrency and communication
+- Models, such as process algebra and automata
+- Behavioural types, including session types
+- Concurrent data types, objects and actors
+- Verification and program analysis methods for concurrent and distributed software
+- Memory models for concurrent programming on relaxed-memory architectures
+- Interface languages for communication and distribution
+- Applications in web services, sensor networks, scientific computing, HPC.
+- Concurrency and communication in event processing and business process management
+
+Chairs for 2019:
+- Francisco Martins (University of the Azores)
+- Dominic Orchard (University of Kent)
+
+Programme Commitee:
+- Tiago Cogumbreiro (University of Massachusetts Boston)
+- Ornela Dardha (University of Glasgow)
+- Simon Fowler (University of Edinburgh)
+- Adrian Francalanza (University of Malta)
+- Hai Liu (DFINITY)
+- Michele Loreti (University of Florence)
+- Stefan Marr (University of Kent)
+- Francisco Martins (University of the Azores)
+- Rumyana Neykova (Brunel University London)
+- Dominic Orchard (University of Kent)
+- Antonio Ravara (New University of Lisbon)
+- Malavika Samak (MIT)
+
+https://conf.researchr.org/track/etaps-2019/places-2019-papers
+
+-- 
+Stefan Marr
+School of Computing, University of Kent
+http://stefan-marr.de/research/
+
+
+
+
+From Mikel.Lujan at manchester.ac.uk  Tue Nov 20 11:18:17 2018
+From: Mikel.Lujan at manchester.ac.uk (Mikel Lujan)
+Date: Tue, 20 Nov 2018 11:18:17 +0000
+Subject: [Marionet] Two academic positions at the University of Manchester
+Message-ID: <9FFFA40598AB3B419940910DA0021D3ED7381025@MBXP02.ds.man.ac.uk>
+
+Dear colleagues,
+
+The School of Computer Science at the University of Manchester invites application for two full-time faculty member at the Lecturer level. The School is further strengthening its presence in innovative computer architectures and systems, both in the fundamentals of the discipline and its application in a variety of areas.
+
+Applications are welcomed from any branch of Computer Engineering, Architecture, Reconfigurable Computing, Networks, and Systems, though we are particularly seeking to make one appointment in the area of neuromorphic-computing; to complement the SpiNNaker team in the EU Human Brain Project.
+
+Deadline Nov 30, 2018
+
+Further information and how to apply: https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=16334
+
+Best regards,
+
+Prof Mikel Lujan
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20181120/ae6e6698/attachment.html>
+
+From Mikel.Lujan at manchester.ac.uk  Tue Nov 20 11:45:16 2018
+From: Mikel.Lujan at manchester.ac.uk (Mikel Lujan)
+Date: Tue, 20 Nov 2018 11:45:16 +0000
+Subject: [Marionet] Dame Kathleen Ollerenshaw Fellowship at the University
+	of Manchester
+Message-ID: <9FFFA40598AB3B419940910DA0021D3ED73810B0@MBXP02.ds.man.ac.uk>
+
+Dear colleagues,
+
+The flagship Dame Kathleen Ollerenshaw Research Fellowships are aimed at outstanding scientists and engineers at an early stage in their academic careers. Fellows should show a high level of creativity and ambition in their ideas and want to develop potentially transformative research. We anticipate up to 12 of these prestigious Fellowships to be offered annually. Each Fellowship is for an initial 5 year period, leading to full academic tenure on completion, subject to performance and probation.
+
+Applications in the School of Computer Science at The University of Manchester are welcomed from any branch of Neuromorphic computing, Robots/Computer Vision, Machine Learning, Computer Engineering, Architecture, Reconfigurable Computing, Networks, Compilers and Runtime Systems, Quantum Accelerators and Computer Security. Fellowship proposals need to be seeking to do exciting, disruptive, transformatory research.
+
+Deadline: 23 Nov, 2018
+
+Further details and how to apply: https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=16284
+
+Best regards,
+
+Mikel
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20181120/a4d59cf2/attachment.html>
+
+From somdip.dey at essex.ac.uk  Tue Nov 20 11:54:59 2018
+From: somdip.dey at essex.ac.uk (Dey, Somdip)
+Date: Tue, 20 Nov 2018 11:54:59 +0000
+Subject: [Marionet] Two academic positions at the University of
+	Manchester
+In-Reply-To: <9FFFA40598AB3B419940910DA0021D3ED7381025@MBXP02.ds.man.ac.uk>
+References: <9FFFA40598AB3B419940910DA0021D3ED7381025@MBXP02.ds.man.ac.uk>
+Message-ID: <VI1PR06MB39507E2B412B868708E2141AC4D90@VI1PR06MB3950.eurprd06.prod.outlook.com>
+
+Dear Dr Singh,
+
+
+Please have a look at the attached email. There's two full-time Lecturer position opening with University of Manchester. Maybe it's our time now after all.
+
+
+Yours sincerely,
+
+
+Somdip Dey
+
+CSEE Doctoral Scholar | University of Essex
+
+Website: www.somdipdey.co.uk<http://www.somdipdey.co.uk>
+
+ResearchGate: https://www.researchgate.net/profile/Somdip_Dey
+
+<https://www.researchgate.net/profile/Somdip_Dey>Google Scholar: https://scholar.google.co.uk/citations?user=KaCa2MgAAAAJ
+
+
+WE ARE ESSEX
+
+TOP 20 FOR RESEARCH EXCELLENCE
+
+TEF GOLD 2017
+
+Green Impact Gold Award achieved 2018
+
+
+
+
+________________________________
+From: Marionet <marionet-bounces at dcs.gla.ac.uk> on behalf of Mikel Lujan <Mikel.Lujan at manchester.ac.uk>
+Sent: 20 November 2018 11:18:17
+To: marionet at dcs.gla.ac.uk
+Subject: [Marionet] Two academic positions at the University of Manchester
+
+Dear colleagues,
+
+The School of Computer Science at the University of Manchester invites application for two full-time faculty member at the Lecturer level. The School is further strengthening its presence in innovative computer architectures and systems, both in the fundamentals of the discipline and its application in a variety of areas.
+
+Applications are welcomed from any branch of Computer Engineering, Architecture, Reconfigurable Computing, Networks, and Systems, though we are particularly seeking to make one appointment in the area of neuromorphic-computing; to complement the SpiNNaker team in the EU Human Brain Project.
+
+Deadline Nov 30, 2018
+
+Further information and how to apply: https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=16334
+
+Best regards,
+
+Prof Mikel Lujan
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20181120/11ea307a/attachment-0001.html>
+
+From mic at inf.ed.ac.uk  Wed Nov 21 13:55:11 2018
+From: mic at inf.ed.ac.uk (Murray Cole)
+Date: Wed, 21 Nov 2018 13:55:11 +0000
+Subject: [Marionet] Multiple faculty positions in Computer Systems at Univ.
+	Edinburgh
+Message-ID: <20181121135511.41135iktknss6d0c@www.staffmail.ed.ac.uk>
+
+The School of Informatics at the University of Edinburgh has multiple  
+faculty positions in the broad area of Systems. Priority areas  
+include, but are not limited to:
+
+- Data-centric systems, particularly applied databases
+
+- Networked systems
+
+- Operating systems
+
+- Systems and hardware security
+
+The School is one of the largest computer science departments in all  
+of Europe, with more than 120 academics and over 500 post-doctoral  
+researchers, PhD students and support staff. The School features  
+prominently in international rankings of computer science departments  
+and was rated highest on Research Power in UK in the most recent  
+Research Excellence Framework. The School has strong links with  
+industry, with a dedicated business incubator space and  
+well-established enterprise and business development programs.  
+Appointments for these positions will be held within the School?s  
+Institute for Computing Systems Architecture (ICSA), which focuses on  
+all aspects of systems including architecture, networking, compilers,  
+systems software, applied databases and security.
+For more information and to apply, visit  
+https://www.ed.ac.uk/informatics/about/work-with-us/vacancies/academic-recruitment/vacancies-icsa
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+
+From Phil.Trinder at glasgow.ac.uk  Wed Dec  5 11:59:38 2018
+From: Phil.Trinder at glasgow.ac.uk (Phil Trinder)
+Date: Wed, 5 Dec 2018 11:59:38 +0000
+Subject: [Marionet] Four Lectureships in Understandable Autonomous Systems
+	at Glasgow
+Message-ID: <9FA592BC1DE81E4CAAC9F278ED754C88150680E6@CMS08-02.campus.gla.ac.uk>
+
+Folks,
+
+The School of Computing Science at the University of Glasgow has four lectureships in Understandable Autonomous Systems: Ethics, Transpareny, Trust
+  https://www.gla.ac.uk/schools/computing/worldchangerswelcome/
+
+Please circulate.
+
+Best Regards,
+
+Phil
+
+--------------------------------------------------
+Phil Trinder
+Glasgow Parallelism Group (GPG)
+Glasgow Systems Section (GLASS)
+School of Computing Science
+Glasgow University
+Glasgow G12 8QQ
+Scotland
+
+E:   Phil.Trinder at glasgow.ac.uk<mailto:Phil.Trinder at glasgow.ac.uk>
+P:   +44 (141) 330 3627
+W:  www.dcs.gla.ac.uk/~trinder/
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20181205/915219c8/attachment.html>
+
+From S.Marr at kent.ac.uk  Tue Dec 11 14:07:03 2018
+From: S.Marr at kent.ac.uk (Stefan Marr)
+Date: Tue, 11 Dec 2018 14:07:03 +0000
+Subject: [Marionet] Call for Extended Abstracts: MoreVMs'19
+Message-ID: <6CE6F2E4-C2DA-419E-BBDA-60333DF0B3AD@kent.ac.uk>
+
+============================================================================
+                 Call for Extended Abstracts: MoreVMs'19
+
+                             3rd Workshop on
+                 Modern Language Runtimes, and Ecosystems
+
+                     Co-located with <Programming>'19
+                   April 1st or 2nd, 2019, Genova, Italy
+
+       https://2019.programming-conference.org/track/MoreVMs-2019
+============================================================================
+
+Following two previous successful editions, the MoreVMs'19 workshop aims to
+bring together industrial and academic programmers to discuss the design,
+implementation, and usage of modern languages and runtimes. This includes
+aspects such as reuse of language runtimes, modular implementation, language
+design and compilation strategies. By bringing together both researchers and
+practitioners, the workshop aims to enable a diverse discussion on how
+languages and runtimes are currently being utilized, and where they need to
+improve further.
+
+Relevant topics include, but are definitely not limited to, the following:
+
+- Extensible VM design (compiler- or interpreter-based VMs)
+- Reusable components (e.g. interpreters, garbage collectors, ...)
+- Static and dynamic compilation techniques
+- Techniques for targeting high-level languages such as JavaScript
+- Interoperability between languages
+- Tooling support (e.g. debugging, profiling, etc.)
+- Programming language development environments
+- Case studies of existing language implementation approaches
+- Language implementation challenges and trade-offs
+- Surveys and usage reports to understand usage in the wild
+- Ideas for more predictable performance
+- Ideas for how VMs could take advantage of new hardware features
+- Ideas for how we should build languages in the future
+
+Workshop Format and Submissions
+-------------------------------
+
+We welcome presentation proposals in the form of extended abstracts (1 to 2
+pages long) discussing experiences, work-in-progress, as well as future
+visions, from either an academic or industrial perspective.
+
+The extended abstracts, and if the speakers wish, their slides, will be
+published on the workshop's web site. Alternatively, the abstracts can be
+published as part of the companion of <Programming>'19 in the ACM DL.
+Publication in the ACM DL is conditional on the acceptance by the program
+committee.
+
+Please note that MoreVMs'19 is organized as an academic workshop, and as such,
+speakers will be required to register for the workshop.
+
+Author Instructions
+-------------------
+
+Submissions should use the ACM Conference 'acmart' Format with the 'sigconf'
+option and with a font size of 9 point and the font family Libertine/Biolinum.
+All submissions should be in PDF format. If you use LaTeX or Word, please use
+the provided ACM acmart templates. Otherwise, please follow the ACM author
+instructions.
+
+If you are formatting your paper using Word, you may wish to use the provided
+Word template that supports this font size. Please include page numbers in your
+submission for review using the LaTeX command '\settopmatter{printfolios=true}'
+(see examples in template).
+
+Please also ensure that your submission is legible when printed on a black and
+white printer. In particular, please check that colors remain distinct and font
+sizes are legible.
+
+Submission Site: https://easychair.org/conferences/?conf=morevms19
+
+Important Dates
+---------------
+
+Extended abstract submissions:  2019-01-11
+Author notification:            2019-02-10
+Camera Ready:                   2019-02-22
+Workshop:                       2019-04-01 or 2019-04-02
+
+All deadlines are Anywhere on Earth (AoE), i.e. GMT/UTC-12:00 hour.
+
+Program Committee
+-----------------
+
+Nicolas B. Pierron, Mozilla, France
+Walter Binder, University of Lugano, Switzerland
+Eduard-Mihai Burtescu, Lyken Software Solutions
+Vyacheslav Egorov, Google, Denmark
+Tony Hosking, Australian National University / Data61, Australia
+Christoph Kirsch, University of Salzburg, Austria
+Lun Liu, University of California at Los Angeles, USA
+Fabio Niephaus, Hasso Plattner Institute, Germany
+Luís Pina, George Mason University, USA
+Manuel Rigger, Johannes Kepler University Linz, Austria
+Jennifer B. Sartor, Ghent University, Belgium
+Andy Wingo, Igalia, S.L., France
+
+Organizers
+----------
+
+Edd Barrett, King's College London, UK
+Stefan Marr, University of Kent, UK
+Adam Welc, Uber Technologies, USA
+
+-- 
+Stefan Marr
+School of Computing, University of Kent
+http://stefan-marr.de/research/
+
+
+
+
+From kevin at kevinhammond.net  Fri Dec 21 12:59:48 2018
+From: kevin at kevinhammond.net (Kevin Hammond)
+Date: Fri, 21 Dec 2018 12:59:48 +0000
+Subject: [Marionet] Postdoctoral Position at St Andrews
+Message-ID: <F07D96DA-3F03-4139-B1F6-DE941457BF50@kevinhammond.net>
+
+[Please pass on to anyone suitable.  Happy Christmas! Kevin]
+
+The Functional Programming Group seeks a Post Doctoral Research Fellow to work on the recent funded 3-year EU Horizon 2020 Serums project, and the ongoing EU Horizon 2020 TeamPlay project (https://www.teamplay-h2020.eu) <https://www.teamplay-h2020.eu)/>. The TeamPlay project aims to develop new, formally-motivated, techniques that will allow execution time, energy usage, security, and other important non-functional properties of parallel software to be treated effectively, and as first-class citizens. We will build this into a toolbox for developing highly parallel software for low-energy systems, as required by the internet of things, cyber-physical systems etc.
+
+The TeamPlay approach will allow programs to reflect directly on their own time, energy consumption, security, etc., as well as enabling the developer to reason about both the functional and the non-functional properties of their software at the source code level.
+
+The post will require skills in the development and application of lightweight formal methods to non-functional properties, including time, energy and/or security.
+
+Informal enquiries can be directed to Professor Kevin Hammond (kevin at kevinhamond.net <mailto:kevin at kevinhamond.net>). 
+
+The role may be offered on either a full-time or part-time basis, and flexible working may be available to suit the right candidate(s).  More than one appointment may be made, with a suitable division of responsibilities.*Appointment at grade 7 (salary £40,792 - £50,132 per annum) will be considered for candidate with enhanced skills/knowledge of the area with the job description to be amended accordingly. 
+
+Applications are particularly welcome from women and other groups who are under-represented in Computer Science posts at the University.
+Please contact Kevin Hammond (kevin at kevinhammond.net <mailto:kevin at kevinhammond.net>) if you would like to discuss the position. 
+Deadline for applications is 11/1/19. 
+
+
+https://www.vacancies.st-andrews.ac.uk/Vacancies/W/5134/0/212163/889/research-fellow-ar2168sb <https://www.vacancies.st-andrews.ac.uk/Vacancies/W/5134/0/212163/889/research-fellow-ar2168sb>
+
+The University of St Andrews is a charity registered in Scotland : No SC013532
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20181221/bf980e77/attachment.html>
+
+From S.Marr at kent.ac.uk  Tue Jan 22 18:55:10 2019
+From: S.Marr at kent.ac.uk (Stefan Marr)
+Date: Tue, 22 Jan 2019 18:55:10 +0000
+Subject: [Marionet] Call for Papers, The Programming Journal, Volume 4,
+	Issue 1 & 2
+Message-ID: <70AC79DB-36B7-4DB0-B23D-7301116C3740@kent.ac.uk>
+
+========================================================================
+                        The Programming Journal
+
+          The Art, Science, and Engineering of Programming
+
+
+              Call for Papers for Volume 4, Issue 1 & 2
+
+                 http://programming-journal.org/cfp/
+                       Follow us @programmingconf
+========================================================================
+
+The Art, Science, and Engineering of Programming was created with the
+goal of placing the wonderful art of programming on the map of scholarly
+works. Many academic journals and conferences exist that publish research
+related to programming, starting with programming languages, software
+engineering, and expanding to the whole Computer Science field. Yet, many
+of us feel that, as the field of Computer Science expanded, programming,
+in itself, has been neglected to a secondary role not worthy of scholarly
+attention. That is a serious gap, as much of the progress in Computer
+Science lies on the basis of computer programs, the people who write
+Them, and the concepts and tools available to them to express
+computational tasks.
+
+The Art, Science, and Engineering of Programming aims at closing this
+gap by focusing primarily on programming: the art itself (programming
+styles, pearls, models, languages), the emerging science of understanding
+what works and what doesn’t work in general and in specific contexts,
+as well as more established engineering and mathematical perspectives.
+
+
+We solicit papers describing work from one of the following perspectives:
+
+  Art: knowledge and technical skills acquired through practice and
+       personal experiences. Examples include libraries, frameworks,
+       languages, APIs, programming models and styles, programming
+       pearls, and essays about programming.
+
+  Science (Theoretical): knowledge and technical skills acquired
+       through mathematical formalisms. Examples include formal
+       programming models and proofs.
+
+  Science (Empirical): knowledge and technical skills acquired
+       through experiments and systematic observations. Examples
+       include user studies and programming-related data mining.
+
+  Engineering: knowledge and technical skills acquired through
+       designing and building large systems and through calculated
+       application of principles in building those systems.
+       Examples include measurements of artifacts’ properties,
+       development processes and tools, and quality assurance methods.
+
+Independent of the type of work, the journal accepts submissions covering several areas of expertise, including but not limited to:
+
+ - General-purpose programming
+ - Data mining and machine learning programming, and for programming
+ - Database programming
+ - Distributed systems programming
+ - Graphics and GPU programming
+ - Interpreters, virtual machines, and compilers
+ - Metaprogramming and reflection
+ - Model-based development
+ - Modularity and separation of concerns
+ - Parallel and multi-core programming
+ - Program verification
+ - Programming education
+ - Programming environments
+ - Security programming
+ - Social coding
+ - Testing and debugging
+ - User interface programming
+ - Visual and live programming
+
+All details, including the selection process are described on
+  http://programming-journal.org/cfp/
+
+Details on the submission processed are available at
+  http://programming-journal.org/submission/
+
+Authors of accepted papers will be invited to present at the
+<Programming>’20 conference in early 2020. Further details will be
+announced in April 2019 at <Programming>’19:
+  https://2019.programming-conference.org/
+
+
+## Upcoming Deadlines
+
+We solicit submissions for the following upcoming deadlines:
+
+Volume 4, Issue 1
+Submission:           February 1
+First notification:   April 1
+
+Volume 4, Issue 2
+Submission:           June 1
+First notification:   August 1
+
+## Standing Review Committee Volume 4
+
+Christophe Scholliers, Ghent University
+Coen De Roover, Vrije Universiteit Brussel
+Craig Anslow, Victoria University of Wellington New Zealand
+Didier Verna, EPITA / LRDE France
+Diego Garbervetsky University of Buenos Aires
+Edd Barrett, King's College London
+Erik Ernst, Google
+Felienne Hermans,  Leiden University
+Francisco Sant'Anna, Rio de Janeiro State University
+Friedrich Steimann, Fernuniversität
+Gordana Rakic, University of Novi Sad
+Guido Salvaneschi, TU Darmstadt
+Hidehiko Masuhara, Tokyo Institute of Technology
+Jeremy Gibbons, University of Oxford
+Jonathan Edwards, US
+Luke Church, University of Cambridge
+Matthew Flatt, University of Utah
+Michael L. Van De Vanter, US
+Nicolás Cardozo, Universidad de los Andes Colombia
+Stephen Kell, University of Kent
+
+## Editors
+
+Stefan Marr (Editor Volume 4), University of Kent
+Cristina V. Lopes (Editor-in-Chief), University of California, Irvine
+
+
+-- 
+Stefan Marr
+School of Computing, University of Kent
+https://stefan-marr.de/research/
+
+
+
+
+From m.kabiri-chimeh at sheffield.ac.uk  Wed Jan 23 15:02:03 2019
+From: m.kabiri-chimeh at sheffield.ac.uk (Mozhgan Kabiri Chimeh)
+Date: Wed, 23 Jan 2019 15:02:03 +0000
+Subject: [Marionet] WHPC@ISC'19 Call for participation and posters
+Message-ID: <CAB+JX=gMdfMDbq_Ws-shHV3fW97Q1YepPTtUpYiWSN7XDQBO8A@mail.gmail.com>
+
+Call for early/mid career posters on HPC topics for the 10th International
+Women in HPC Workshop
+
+=================================================================
+10th International Women in HPC workshop
+Thursday June 20th 2019 — Frankfurt, Germany
+
+Call for posters and participation
+
+https://womeninhpc.org/whpc-isc19/workshop/
+=================================================================
+
+The tenth international Women in HPC workshop will discuss methods to
+improve diversity and provide early career women with the opportunity to
+develop their professional skills and profile. The workshop will include:
+
+- Becoming an advocate and ally of under-represented women
+- Putting in place a framework to help women take leadership positions
+- Building mentoring programmes that work effectively for women.
+- Posters and lightning talks by women working in HPC
+- Short talks on: dealing with poor behaviour at work and how to help avoid
+it getting you down, how to deal with negative feedback, how to build
+writing into your daily routine and why it matters, etc.
+
+
+Call for posters: Now Open!
+Deadline for submissions: March 4th 2019 AOE
+
+As part of the workshop, we invite submissions from women in industry and
+academia to present their work as a poster. Submissions are invited on all
+topics relating to HPC from users and developers. All abstracts should
+emphasize the computational aspects of the work, such as the facilities
+used, the challenges that HPC can help address and any remaining challenges
+etc.
+
+Exclusive to WHPC at ISC19: Successful authors will have the opportunity to
+present their poster in the main ISC19 conference poster session.
+
+For full details please see:
+https://www.womeninhpc.org/whpc-isc19/workshop/submit/
+
+Regards,
+Mozhgan
+
+-- 
+Dr Mozhgan Kabiri *Chimeh*
+*R*esearch *A*ssociate / *RSE*
+
+Department of Computer Science,
+
+University of Sheffield
+
+0114 222 1896 | mkchimeh.com
+
+gpucomputing.shef.ac.uk , rse.shef.ac.uk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190123/79117132/attachment.html>
+
+From S.Marr at kent.ac.uk  Fri Feb 22 13:48:53 2019
+From: S.Marr at kent.ac.uk (Stefan Marr)
+Date: Fri, 22 Feb 2019 13:48:53 +0000
+Subject: [Marionet] 12 PhD scholarships at Kent
+Message-ID: <B14CFBFC-C425-44F7-B22E-B9FE9C099978@kent.ac.uk>
+
+The Programming Languages and Systems (PLAS) group at the University of Kent's
+School of Computing invites applications for 12 fully-funded 3-year PhD
+scholarships (for UK/EU students).
+
+Applications are due by the 26th April 2019.
+
+The PLAS group is one of the largest programming languages research groups in
+Europe. It is currently ranked 17th worldwide by the independent CSrankings
+website: http://csrankings.org/#/index?plan&world.
+
+We provide a supportive environment for research and we have a vibrant
+postgraduate population. We encourage our students to engage with the wider
+research community through attending conferences and taking internships with
+leading industrial companies. We are located in Canterbury, a lively and
+cosmopolitan historic town with convenient travel links to London and Europe.
+
+You can apply to study for a PhD in any topic that falls within our range of
+expertise. We have studentships up to a value of £19,945 per annum that are
+available by competition.
+
+Application process:
+
+Select a potential supervisor (see below) and send them an informal project
+proposal as well as a brief CV (preferably by the first week of April 2019).
+Staff contact details can be found on their web pages. Submit your formal
+applications through the university admission system by the 26th April 2019.
+Your application should include a completed online admission form; the name and
+contact details of two referees; an original document providing confirmation of
+your degree (or a transcript if the degree is not yet awarded). For non-native
+English speakers, a certificate of competence in English is required at IELTS
+6.5 or higher, with no element less than 6.0 (or equivalent).
+
+Programming Languages and Systems Group:
+https://www.cs.kent.ac.uk/research/groups/plas/index.html
+
+Topics suggested by our group
+https://www.cs.kent.ac.uk/research/groups/plas/pgprojects.html
+
+Applications process:
+https://www.cs.kent.ac.uk/research/studyingforaphd/howtoapply.html
+
+For general inquiries about the process, please e-mail: cs-phd-plas at kent.ac.uk.
+
+PLAS is a large research group with potential supervisors who work across the
+breadth of programming languages and systems research.
+
+*Dr Mark Batty*
+(Additional scholarship:
+https://www.cs.kent.ac.uk/people/staff/mjb211/studentship/studentship.htm)
+Concurrency; software verification; systems; relaxed memory; programming
+language semantics; GPU concurrency.
+
+*Dr Laura Bocchi*
+Foundations and engineering of API with complex behaviour, verification of
+distributed concurrent systems; behavioural types; real-time systems;
+transactions and transaction protocols.
+
+*Dr Olaf Chitil*
+Tracing, semantics, algorithmic debugging, type error debugging, compilation
+and functional programming.
+
+*Dr Radu Grigore*
+Program analysis; runtime verification; probabilistic models of computation.
+
+*Dr Rogerio de Lemos*
+Software engineering for self-adaptive systems: assurances and resilience
+evaluation; architecting resilient systems.
+
+*Prof. Richard Jones*
+Language implementation; memory management; garbage collection; object
+demographics; program analysis for improved memory management; program
+visualisation, rigorous performance evaluation.
+
+*Dr Stefan Kahrs*
+Expressiveness of programming languages, type systems, term rewriting,
+infinitary rewriting.
+
+*Dr Stephen Kell*
+Language implementation, tools, interoperability, runtimes and operating
+systems.
+
+*Prof. Andy King*
+Abstract interpretation, logic programming, decompilation and reverse
+engineering
+
+*Dr Julien Lange*
+Process calculi, automata theory, behavioural types, model checking and their
+application to the implementation and verification of concurrent and
+distributed systems.
+
+*Dr Stefan Marr*
+Language implementation techniques, concurrency, parallel programming,
+optimizations, tooling, debugging, virtual machines, interpreters, compilation.
+
+*Dr Matteo Migliavacca*
+On-line data processing, distributed publish-subscribe, and high-performance
+event processing in large scale and cloud scenarios.
+
+*Dr Dominic Orchard*
+Mathematical structure of programs; logical foundations of programming;
+categorical semantics; behavioural type theories; programming language design;
+program verification for computational science.
+
+*Dr Scott Owens*
+Semantics of shared memory concurrency; design of programming languages; formal
+verification for software and interactive theorem proving, especially for
+CakeML (https://cakeml.org).
+
+*Dr Tomas Petricek*
+Programming languages and tools, especially for data science, studying
+interactions of programming, bridging the gap between data and types;
+foundations of programming in a broad sense, including design and human
+experience; philosophy and history of computing and programming.
+
+*Prof. Simon Thompson*
+Functional programming in Haskell, Erlang and OCaml; refactoring functional
+programs: tool building. theory and practice: dependently-typed functional
+programming; DLT: languages for smart contracts on blockchains, including
+Marlowe on Cardano.
+
+
+-- 
+Stefan Marr
+School of Computing, University of Kent
+https://stefan-marr.de/research/
+
+
+
+
+From mob at inf.ed.ac.uk  Mon Mar 25 16:59:18 2019
+From: mob at inf.ed.ac.uk (Michael O'Boyle)
+Date: Mon, 25 Mar 2019 16:59:18 +0000
+Subject: [Marionet] Welcome to HiPEAC  CSW  Edinburgh April 16-18
+Message-ID: <20190325165918.634430xyj27e7pyc@www.staffmail.ed.ac.uk>
+
+Dear all
+
+     HiPEAC is the European  network for parallelism and systems and
+     will be here in the Forum on April 16-18.
+
+https://www.hipeac.net/csw/2019/edinburgh/#/schedule/
+
+     Why you should sign up (Academics/Researchers):
+
+     - Marionet Event: Micro-Clusters for High-Performance Computing  
+at the Edge
+
+     - Great technical sessions/speakers in heterogeneity, AI, HPC,  
+TechTransfer
+     - Investors and spinouts describe how to spinout your company
+     - Network with leading researchers and industrialist
+
+     Why you should sign up (MSc/PhD students)
+
+     - the above
+     - 500 euros for the best poster/60 second talk
+     - 2 all in travel award to Austin Texas to attend ARM research summit
+       in September  for top 2 poster/60 second talk
+     - Free drinks reception and banquet at Playfair library
+     - Prizes for student participants in the AI for humanity challenge
+
+     The catch?
+
+     - You have to spend 45 secs signing up  (otherwise free) at
+https://www.hipeac.net/accounts/signup/
+
+     - then registering at
+https://www.hipeac.net/csw/2019/edinburgh/#/registration/
+
+     Once signed up, you can participate in ALL other HiPEAC events and meet
+     your international peers and  students can meet their future employer.
+
+     Any questions - just ask!
+
+     Please pass on to anyone else who may be interested
+
+Cheers
+
+Mike
+
+
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+
+From Paul.Keir at uws.ac.uk  Tue Mar 26 17:50:42 2019
+From: Paul.Keir at uws.ac.uk (Paul Keir)
+Date: Tue, 26 Mar 2019 17:50:42 +0000
+Subject: [Marionet] APPMM 2019 Workshop submission deadline extension
+Message-ID: <DB7PR01MB453725A47A3208141F25BE82A45F0@DB7PR01MB4537.eurprd01.prod.exchangelabs.com>
+
+Hi everyone,
+
+The APPMM 2019 Workshop submission deadline has been extended to April 10. The event takes place in Dublin (July 15-19) as part of HPCS 2019.
+
+http://hpcs2019.cisedu.info/2-conference/workshops/workshop06-appmm
+
+Best regards,
+Paul
+
+Dr. Paul Keir
+Lecturer
+B.Sc. (Hons.) Computer Games Technology Programme Leader
+School of Computing, Engineering and Physical Sciences
+University of the West of Scotland
+High Street
+Paisley
+PA1 2BE
++44 (0)141 848 3421
+paul.keir at uws.ac.uk<mailto:paul.keir at uws.ac.uk>
+https://pkeir.github.io<https://pkeir.github.io/>
+
+
+
+Please consider the environment and think before you print.
+
+The University of the West of Scotland is a registered Scottish charity. Charity number SC002520.
+
+This e-mail and any attachment is for authorised use by the intended recipient(s) only. It may contain proprietary material, confidential information and/or be subject to legal privilege. It should not be copied, disclosed to, retained or used by, any other party. If you are not an intended recipient then please promptly delete this e-mail and any attachment and all copies and inform the sender.
+
+Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the University of the West of Scotland.
+
+As a public body, the University of the West of Scotland may be required to make available emails as well as other written forms of information as a result of a request made under the Freedom of Information (Scotland) Act 2002.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190326/a2de69cf/attachment.html>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: cfp-workshop-APPMM19-extended.txt
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190326/a2de69cf/attachment.txt>
+
+From Jeremy.Singer at glasgow.ac.uk  Thu Mar 28 13:34:29 2019
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Thu, 28 Mar 2019 13:34:29 +0000
+Subject: [Marionet] =?windows-1252?q?2nd_UK_OpenMP_Users_Conference_=96_EP?=
+ =?windows-1252?q?CC_June_4-5_-_Submissions_Deadline_April_9=2C_2019?=
+Message-ID: <LNXP265MB0843DB437271445CAFA160AAA6590@LNXP265MB0843.GBRP265.PROD.OUTLOOK.COM>
+
+Hi,
+
+If you are developing High Performance Computing solutions using OpenMP (or are thinking of using OpenMP / OpenACC), then join us for the 2nd UK OpenMP Users Conference taking place at EPCC in Edinburgh on 4-5 June, 2019 .  This two day conference, which is supported by MaRIONet, includes talks, tutorials, posters and panel discussions aimed at furthering collaboration and knowledge sharing among the UK community of HPC specialists using OpenMP.
+
+Call for Submissions
+
+If you are interested in sharing your latest OpenMP-related work and experiences via a short talk or poster then please submit an abstract for consideration by Sunday April 7, 2019.  Final materials are required by June 2.  All abstracts will be evaluated on their merit by the review committee based on their relevance to OpenMP users. Submissions don't have to cover new or un-published work, but should be topical and appropriate for a technical audience of OpenMP users.
+
+* For more details visit: https://ukopenmpusers.co.uk/call-for-submissions/
+
+*  View the 2018 presentations: https://ukopenmpusers.co.uk/conf2018/program/
+
+
+Discounted Passes
+
+Early Bird and Research Software Engineers (RSE) Discounted passes (40%) are available.  Please email tim.lewis at ukopenmpusers.co.uk for details and to request a Promotional Code.  A limited number of travel bursaries are also available.
+
+ 
+
+Invited Tutorial Program
+
+The following invited tutorials will take place on Tuesday June 4, 2019.
+
+*  Programming Your GPU with OpenMP: A Hands-On Introduction
+         - Presented by: Simon McIntosh-Smith, Professor of High Performance Computing, University of Bristol
+
+*  Advanced OpenMP: Performance and 5.0 Features
+         - Presented by: Jim Cownie, Intel and Michael Klemm, Intel and OpenMP ARB CEO
+
+*  A Hands-On-Introduction to OpenMP
+         - Presented by: Dr. Mark Bull, EPCC
+
+Questions?
+
+If you have any questions please email: tim.lewis at ukopenmpusers.co.uk
+
+Best Regards
+Tim
+
+2nd UK OpenMP Users Conference | EPCC in Edinburgh | 4-5 June, 2019 | https://ukopenmpusers.co.uk/  
+

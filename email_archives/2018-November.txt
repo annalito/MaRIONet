@@ -1,0 +1,213 @@
+From S.Marr at kent.ac.uk  Mon Nov 19 13:26:22 2018
+From: S.Marr at kent.ac.uk (Stefan Marr)
+Date: Mon, 19 Nov 2018 13:26:22 +0000
+Subject: [Marionet] Call for Papers - PLACES 2019 at ETAPS
+References: <6207f680-58c4-15e4-4241-7d42624d7444@kent.ac.uk>
+Message-ID: <18587BC9-78C4-4660-97A8-60ACCAF3A6AB@kent.ac.uk>
+
+The 11th edition of PLACES (Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software) will be co-located with ETAPS 2019 in Prague, Czech Republic on 7th April 2019.
+
+Workshop website: https://conf.researchr.org/track/etaps-2019/places-2019-papers
+
+For over a decade, PLACES has been a popular forum for researchers from different fields to exchange new ideas about challenges to modern and future programming, where concurrency and distribution are the norm rather than a marginal concern.
+
+Submissions are invited in the general area of programming language approaches to concurrency, communication, and distribution, ranging from foundational issues, through language implementations, to applications and case studies. Submissions will be peer-reviewed by a minimum of three reviewers, with the aim of allocating at least one expert reviewer. Papers are reviewed based on their novelty, clarity, and technical soundness. Submission must not be submitted elsewhere and must be formatted in EPTCS format, containing a maximum of 8 pages (with no restriction on bibliography or appendices, which the reviewers need not read). The proceedings of PLACES 2019 will be published as a volume of EPTCS.
+
+Key dates:
+- Submission deadline: 24th January 2019 (AoE)
+- Author notification: 21st February 2019
+- Camera ready: 7th March 2019
+- Workshop: 7th April 2019
+- ETAPS: 6th-11th April 2019
+
+Relevant topics include, but are not limited to:
+
+- Design and implementation of programming languages with first class concurrency and communication
+- Models, such as process algebra and automata
+- Behavioural types, including session types
+- Concurrent data types, objects and actors
+- Verification and program analysis methods for concurrent and distributed software
+- Memory models for concurrent programming on relaxed-memory architectures
+- Interface languages for communication and distribution
+- Applications in web services, sensor networks, scientific computing, HPC.
+- Concurrency and communication in event processing and business process management
+
+Chairs for 2019:
+- Francisco Martins (University of the Azores)
+- Dominic Orchard (University of Kent)
+
+Programme Commitee:
+- Tiago Cogumbreiro (University of Massachusetts Boston)
+- Ornela Dardha (University of Glasgow)
+- Simon Fowler (University of Edinburgh)
+- Adrian Francalanza (University of Malta)
+- Hai Liu (DFINITY)
+- Michele Loreti (University of Florence)
+- Stefan Marr (University of Kent)
+- Francisco Martins (University of the Azores)
+- Rumyana Neykova (Brunel University London)
+- Dominic Orchard (University of Kent)
+- Antonio Ravara (New University of Lisbon)
+- Malavika Samak (MIT)
+
+https://conf.researchr.org/track/etaps-2019/places-2019-papers
+
+-- 
+Stefan Marr
+School of Computing, University of Kent
+http://stefan-marr.de/research/
+
+
+
+
+From Mikel.Lujan at manchester.ac.uk  Tue Nov 20 11:18:17 2018
+From: Mikel.Lujan at manchester.ac.uk (Mikel Lujan)
+Date: Tue, 20 Nov 2018 11:18:17 +0000
+Subject: [Marionet] Two academic positions at the University of Manchester
+Message-ID: <9FFFA40598AB3B419940910DA0021D3ED7381025@MBXP02.ds.man.ac.uk>
+
+Dear colleagues,
+
+The School of Computer Science at the University of Manchester invites application for two full-time faculty member at the Lecturer level. The School is further strengthening its presence in innovative computer architectures and systems, both in the fundamentals of the discipline and its application in a variety of areas.
+
+Applications are welcomed from any branch of Computer Engineering, Architecture, Reconfigurable Computing, Networks, and Systems, though we are particularly seeking to make one appointment in the area of neuromorphic-computing; to complement the SpiNNaker team in the EU Human Brain Project.
+
+Deadline Nov 30, 2018
+
+Further information and how to apply: https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=16334
+
+Best regards,
+
+Prof Mikel Lujan
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20181120/ae6e6698/attachment.html>
+
+From Mikel.Lujan at manchester.ac.uk  Tue Nov 20 11:45:16 2018
+From: Mikel.Lujan at manchester.ac.uk (Mikel Lujan)
+Date: Tue, 20 Nov 2018 11:45:16 +0000
+Subject: [Marionet] Dame Kathleen Ollerenshaw Fellowship at the University
+	of Manchester
+Message-ID: <9FFFA40598AB3B419940910DA0021D3ED73810B0@MBXP02.ds.man.ac.uk>
+
+Dear colleagues,
+
+The flagship Dame Kathleen Ollerenshaw Research Fellowships are aimed at outstanding scientists and engineers at an early stage in their academic careers. Fellows should show a high level of creativity and ambition in their ideas and want to develop potentially transformative research. We anticipate up to 12 of these prestigious Fellowships to be offered annually. Each Fellowship is for an initial 5 year period, leading to full academic tenure on completion, subject to performance and probation.
+
+Applications in the School of Computer Science at The University of Manchester are welcomed from any branch of Neuromorphic computing, Robots/Computer Vision, Machine Learning, Computer Engineering, Architecture, Reconfigurable Computing, Networks, Compilers and Runtime Systems, Quantum Accelerators and Computer Security. Fellowship proposals need to be seeking to do exciting, disruptive, transformatory research.
+
+Deadline: 23 Nov, 2018
+
+Further details and how to apply: https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=16284
+
+Best regards,
+
+Mikel
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20181120/a4d59cf2/attachment.html>
+
+From somdip.dey at essex.ac.uk  Tue Nov 20 11:54:59 2018
+From: somdip.dey at essex.ac.uk (Dey, Somdip)
+Date: Tue, 20 Nov 2018 11:54:59 +0000
+Subject: [Marionet] Two academic positions at the University of
+	Manchester
+In-Reply-To: <9FFFA40598AB3B419940910DA0021D3ED7381025@MBXP02.ds.man.ac.uk>
+References: <9FFFA40598AB3B419940910DA0021D3ED7381025@MBXP02.ds.man.ac.uk>
+Message-ID: <VI1PR06MB39507E2B412B868708E2141AC4D90@VI1PR06MB3950.eurprd06.prod.outlook.com>
+
+Dear Dr Singh,
+
+
+Please have a look at the attached email. There's two full-time Lecturer position opening with University of Manchester. Maybe it's our time now after all.
+
+
+Yours sincerely,
+
+
+Somdip Dey
+
+CSEE Doctoral Scholar | University of Essex
+
+Website: www.somdipdey.co.uk<http://www.somdipdey.co.uk>
+
+ResearchGate: https://www.researchgate.net/profile/Somdip_Dey
+
+<https://www.researchgate.net/profile/Somdip_Dey>Google Scholar: https://scholar.google.co.uk/citations?user=KaCa2MgAAAAJ
+
+
+WE ARE ESSEX
+
+TOP 20 FOR RESEARCH EXCELLENCE
+
+TEF GOLD 2017
+
+Green Impact Gold Award achieved 2018
+
+
+
+
+________________________________
+From: Marionet <marionet-bounces at dcs.gla.ac.uk> on behalf of Mikel Lujan <Mikel.Lujan at manchester.ac.uk>
+Sent: 20 November 2018 11:18:17
+To: marionet at dcs.gla.ac.uk
+Subject: [Marionet] Two academic positions at the University of Manchester
+
+Dear colleagues,
+
+The School of Computer Science at the University of Manchester invites application for two full-time faculty member at the Lecturer level. The School is further strengthening its presence in innovative computer architectures and systems, both in the fundamentals of the discipline and its application in a variety of areas.
+
+Applications are welcomed from any branch of Computer Engineering, Architecture, Reconfigurable Computing, Networks, and Systems, though we are particularly seeking to make one appointment in the area of neuromorphic-computing; to complement the SpiNNaker team in the EU Human Brain Project.
+
+Deadline Nov 30, 2018
+
+Further information and how to apply: https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=16334
+
+Best regards,
+
+Prof Mikel Lujan
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20181120/11ea307a/attachment-0001.html>
+
+From mic at inf.ed.ac.uk  Wed Nov 21 13:55:11 2018
+From: mic at inf.ed.ac.uk (Murray Cole)
+Date: Wed, 21 Nov 2018 13:55:11 +0000
+Subject: [Marionet] Multiple faculty positions in Computer Systems at Univ.
+	Edinburgh
+Message-ID: <20181121135511.41135iktknss6d0c@www.staffmail.ed.ac.uk>
+
+The School of Informatics at the University of Edinburgh has multiple  
+faculty positions in the broad area of Systems. Priority areas  
+include, but are not limited to:
+
+- Data-centric systems, particularly applied databases
+
+- Networked systems
+
+- Operating systems
+
+- Systems and hardware security
+
+The School is one of the largest computer science departments in all  
+of Europe, with more than 120 academics and over 500 post-doctoral  
+researchers, PhD students and support staff. The School features  
+prominently in international rankings of computer science departments  
+and was rated highest on Research Power in UK in the most recent  
+Research Excellence Framework. The School has strong links with  
+industry, with a dedicated business incubator space and  
+well-established enterprise and business development programs.  
+Appointments for these positions will be held within the School?s  
+Institute for Computing Systems Architecture (ICSA), which focuses on  
+all aspects of systems including architecture, networking, compilers,  
+systems software, applied databases and security.
+For more information and to apply, visit  
+https://www.ed.ac.uk/informatics/about/work-with-us/vacancies/academic-recruitment/vacancies-icsa
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+

@@ -1,0 +1,74 @@
+From Jeremy.Singer at glasgow.ac.uk  Mon Dec 11 12:18:53 2017
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Mon, 11 Dec 2017 12:18:53 +0000
+Subject: [Marionet] Manycore Newsletter #2 - Dec 2017
+Message-ID: <E2CADA90-6127-4952-9770-B712195BDCD9@glasgow.ac.uk>
+
+Dear MaRIONet member,
+
+This is the second of our regular network newsletters to update you
+about activities in the UK manycore network.
+
+
+=========
+1) MaRIONet at HiPEAC '18
+=========
+
+The HiPEAC network is holding its annual conference in Manchester, 22-24 Jan 2018. We have a MaRIONet workshop on Wed 24 Jan.
+* We want to showcase UK manycore research at HiPEAC. Please volunteer to give a 30 min presentation about your project by emailing jeremy.singer at glasgow.ac.uk
+* Remember to sign up for the MaRIONet workshop when you register for the HiPEAC conference.
+* There will be a dragon's den style pitching competition at the workshop. We are looking for volunteers to pitch their wild and crazy ideas to the dragons!
+
+
+========
+2) Manycore Summer School
+========
+
+The flagship activity of MaRIONet will be a PhD and Early Career Summer School, to be held in Glasgow, Mon 16 to Fri 20 July 2018. We are delighted to announce that several guest lecturers have already confirmed their participation, including Matt Horsnell (Arm), Mario Wolczko (Oracle Labs), OpenPiton Open Source Research Processor team (Princeton), and Hans Vandierendonck (Queen's Belfast).
+
+Registration will go live in March 2018. Thanks to generous funding from EPSRC and SICSA, we will offer free registration and accommodation for UK PhD students. Please encourage your colleagues and students to attend!
+
+
+===========
+3) Christmas cards
+===========
+
+If we have your snail-mail address, you may shortly receive a seasonal missive from MaRIONet HQ at Glasgow. If not, happy holidays and best wishes for 2018.
+
+
+============
+4) Future events
+============
+
+There is a list of upcoming manycore research events at
+http://manycore.org.uk/events.html
+If you would like to add an event to our list, please get in touch.
+We also provide funding to cover expenses (catering, room hire,
+speaker travel) if you want to host your own event. Again, please
+get in touch for more details.
+
+
+5) News updates
+============
+
+If you have any news items for the next edition of the MaRIONet
+newsletter, please send them directly to
+natascha.harth at glasgow.ac.uk
+or tweet us on @UKManycore
+
+
+
+Many thanks,
+Jeremy (MaRIONet coordinator)
+and
+Natascha (Network administrator)
+
+
+---
+http://manycore.org.uk
+Follow us on twitter at @UKManycore
+
+
+[University of Glasgow: The Times Scottish University of the Year 2018]
+
+

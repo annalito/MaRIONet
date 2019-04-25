@@ -1,0 +1,185 @@
+From Phil.Trinder at glasgow.ac.uk  Wed Dec  5 11:59:38 2018
+From: Phil.Trinder at glasgow.ac.uk (Phil Trinder)
+Date: Wed, 5 Dec 2018 11:59:38 +0000
+Subject: [Marionet] Four Lectureships in Understandable Autonomous Systems
+	at Glasgow
+Message-ID: <9FA592BC1DE81E4CAAC9F278ED754C88150680E6@CMS08-02.campus.gla.ac.uk>
+
+Folks,
+
+The School of Computing Science at the University of Glasgow has four lectureships in Understandable Autonomous Systems: Ethics, Transpareny, Trust
+  https://www.gla.ac.uk/schools/computing/worldchangerswelcome/
+
+Please circulate.
+
+Best Regards,
+
+Phil
+
+--------------------------------------------------
+Phil Trinder
+Glasgow Parallelism Group (GPG)
+Glasgow Systems Section (GLASS)
+School of Computing Science
+Glasgow University
+Glasgow G12 8QQ
+Scotland
+
+E:   Phil.Trinder at glasgow.ac.uk<mailto:Phil.Trinder at glasgow.ac.uk>
+P:   +44 (141) 330 3627
+W:  www.dcs.gla.ac.uk/~trinder/
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20181205/915219c8/attachment.html>
+
+From S.Marr at kent.ac.uk  Tue Dec 11 14:07:03 2018
+From: S.Marr at kent.ac.uk (Stefan Marr)
+Date: Tue, 11 Dec 2018 14:07:03 +0000
+Subject: [Marionet] Call for Extended Abstracts: MoreVMs'19
+Message-ID: <6CE6F2E4-C2DA-419E-BBDA-60333DF0B3AD@kent.ac.uk>
+
+============================================================================
+                 Call for Extended Abstracts: MoreVMs'19
+
+                             3rd Workshop on
+                 Modern Language Runtimes, and Ecosystems
+
+                     Co-located with <Programming>'19
+                   April 1st or 2nd, 2019, Genova, Italy
+
+       https://2019.programming-conference.org/track/MoreVMs-2019
+============================================================================
+
+Following two previous successful editions, the MoreVMs'19 workshop aims to
+bring together industrial and academic programmers to discuss the design,
+implementation, and usage of modern languages and runtimes. This includes
+aspects such as reuse of language runtimes, modular implementation, language
+design and compilation strategies. By bringing together both researchers and
+practitioners, the workshop aims to enable a diverse discussion on how
+languages and runtimes are currently being utilized, and where they need to
+improve further.
+
+Relevant topics include, but are definitely not limited to, the following:
+
+- Extensible VM design (compiler- or interpreter-based VMs)
+- Reusable components (e.g. interpreters, garbage collectors, ...)
+- Static and dynamic compilation techniques
+- Techniques for targeting high-level languages such as JavaScript
+- Interoperability between languages
+- Tooling support (e.g. debugging, profiling, etc.)
+- Programming language development environments
+- Case studies of existing language implementation approaches
+- Language implementation challenges and trade-offs
+- Surveys and usage reports to understand usage in the wild
+- Ideas for more predictable performance
+- Ideas for how VMs could take advantage of new hardware features
+- Ideas for how we should build languages in the future
+
+Workshop Format and Submissions
+-------------------------------
+
+We welcome presentation proposals in the form of extended abstracts (1 to 2
+pages long) discussing experiences, work-in-progress, as well as future
+visions, from either an academic or industrial perspective.
+
+The extended abstracts, and if the speakers wish, their slides, will be
+published on the workshop's web site. Alternatively, the abstracts can be
+published as part of the companion of <Programming>'19 in the ACM DL.
+Publication in the ACM DL is conditional on the acceptance by the program
+committee.
+
+Please note that MoreVMs'19 is organized as an academic workshop, and as such,
+speakers will be required to register for the workshop.
+
+Author Instructions
+-------------------
+
+Submissions should use the ACM Conference 'acmart' Format with the 'sigconf'
+option and with a font size of 9 point and the font family Libertine/Biolinum.
+All submissions should be in PDF format. If you use LaTeX or Word, please use
+the provided ACM acmart templates. Otherwise, please follow the ACM author
+instructions.
+
+If you are formatting your paper using Word, you may wish to use the provided
+Word template that supports this font size. Please include page numbers in your
+submission for review using the LaTeX command '\settopmatter{printfolios=true}'
+(see examples in template).
+
+Please also ensure that your submission is legible when printed on a black and
+white printer. In particular, please check that colors remain distinct and font
+sizes are legible.
+
+Submission Site: https://easychair.org/conferences/?conf=morevms19
+
+Important Dates
+---------------
+
+Extended abstract submissions:  2019-01-11
+Author notification:            2019-02-10
+Camera Ready:                   2019-02-22
+Workshop:                       2019-04-01 or 2019-04-02
+
+All deadlines are Anywhere on Earth (AoE), i.e. GMT/UTC-12:00 hour.
+
+Program Committee
+-----------------
+
+Nicolas B. Pierron, Mozilla, France
+Walter Binder, University of Lugano, Switzerland
+Eduard-Mihai Burtescu, Lyken Software Solutions
+Vyacheslav Egorov, Google, Denmark
+Tony Hosking, Australian National University / Data61, Australia
+Christoph Kirsch, University of Salzburg, Austria
+Lun Liu, University of California at Los Angeles, USA
+Fabio Niephaus, Hasso Plattner Institute, Germany
+Luís Pina, George Mason University, USA
+Manuel Rigger, Johannes Kepler University Linz, Austria
+Jennifer B. Sartor, Ghent University, Belgium
+Andy Wingo, Igalia, S.L., France
+
+Organizers
+----------
+
+Edd Barrett, King's College London, UK
+Stefan Marr, University of Kent, UK
+Adam Welc, Uber Technologies, USA
+
+-- 
+Stefan Marr
+School of Computing, University of Kent
+http://stefan-marr.de/research/
+
+
+
+
+From kevin at kevinhammond.net  Fri Dec 21 12:59:48 2018
+From: kevin at kevinhammond.net (Kevin Hammond)
+Date: Fri, 21 Dec 2018 12:59:48 +0000
+Subject: [Marionet] Postdoctoral Position at St Andrews
+Message-ID: <F07D96DA-3F03-4139-B1F6-DE941457BF50@kevinhammond.net>
+
+[Please pass on to anyone suitable.  Happy Christmas! Kevin]
+
+The Functional Programming Group seeks a Post Doctoral Research Fellow to work on the recent funded 3-year EU Horizon 2020 Serums project, and the ongoing EU Horizon 2020 TeamPlay project (https://www.teamplay-h2020.eu) <https://www.teamplay-h2020.eu)/>. The TeamPlay project aims to develop new, formally-motivated, techniques that will allow execution time, energy usage, security, and other important non-functional properties of parallel software to be treated effectively, and as first-class citizens. We will build this into a toolbox for developing highly parallel software for low-energy systems, as required by the internet of things, cyber-physical systems etc.
+
+The TeamPlay approach will allow programs to reflect directly on their own time, energy consumption, security, etc., as well as enabling the developer to reason about both the functional and the non-functional properties of their software at the source code level.
+
+The post will require skills in the development and application of lightweight formal methods to non-functional properties, including time, energy and/or security.
+
+Informal enquiries can be directed to Professor Kevin Hammond (kevin at kevinhamond.net <mailto:kevin at kevinhamond.net>). 
+
+The role may be offered on either a full-time or part-time basis, and flexible working may be available to suit the right candidate(s).  More than one appointment may be made, with a suitable division of responsibilities.*Appointment at grade 7 (salary £40,792 - £50,132 per annum) will be considered for candidate with enhanced skills/knowledge of the area with the job description to be amended accordingly. 
+
+Applications are particularly welcome from women and other groups who are under-represented in Computer Science posts at the University.
+Please contact Kevin Hammond (kevin at kevinhammond.net <mailto:kevin at kevinhammond.net>) if you would like to discuss the position. 
+Deadline for applications is 11/1/19. 
+
+
+https://www.vacancies.st-andrews.ac.uk/Vacancies/W/5134/0/212163/889/research-fellow-ar2168sb <https://www.vacancies.st-andrews.ac.uk/Vacancies/W/5134/0/212163/889/research-fellow-ar2168sb>
+
+The University of St Andrews is a charity registered in Scotland : No SC013532
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20181221/bf980e77/attachment.html>
+

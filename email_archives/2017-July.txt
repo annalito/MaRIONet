@@ -1,0 +1,20 @@
+From Jeremy.Singer at glasgow.ac.uk  Wed Jul  5 12:59:31 2017
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Wed, 5 Jul 2017 11:59:31 +0000
+Subject: [Marionet] UKMAC 2017 event
+Message-ID: <2F423924-A214-4EFD-976D-ADDD415F5386@glasgow.ac.uk>
+
+Hi MaRIONet members,
+
+We are holding the annual UK Manycore Developer Conference (UKMAC 2017) at the University of Warwick on Tuesday 11 July. 
+
+* Details at http://manycore.org.uk/ukmac2017.html
+* Free registration at http://manycore.org.uk/form.html
+
+Please come along if you are available.
+Best regards,
+Jeremy
+
+
+
+

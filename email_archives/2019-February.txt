@@ -1,0 +1,135 @@
+From S.Marr at kent.ac.uk  Fri Feb 22 13:48:53 2019
+From: S.Marr at kent.ac.uk (Stefan Marr)
+Date: Fri, 22 Feb 2019 13:48:53 +0000
+Subject: [Marionet] 12 PhD scholarships at Kent
+Message-ID: <B14CFBFC-C425-44F7-B22E-B9FE9C099978@kent.ac.uk>
+
+The Programming Languages and Systems (PLAS) group at the University of Kent's
+School of Computing invites applications for 12 fully-funded 3-year PhD
+scholarships (for UK/EU students).
+
+Applications are due by the 26th April 2019.
+
+The PLAS group is one of the largest programming languages research groups in
+Europe. It is currently ranked 17th worldwide by the independent CSrankings
+website: http://csrankings.org/#/index?plan&world.
+
+We provide a supportive environment for research and we have a vibrant
+postgraduate population. We encourage our students to engage with the wider
+research community through attending conferences and taking internships with
+leading industrial companies. We are located in Canterbury, a lively and
+cosmopolitan historic town with convenient travel links to London and Europe.
+
+You can apply to study for a PhD in any topic that falls within our range of
+expertise. We have studentships up to a value of £19,945 per annum that are
+available by competition.
+
+Application process:
+
+Select a potential supervisor (see below) and send them an informal project
+proposal as well as a brief CV (preferably by the first week of April 2019).
+Staff contact details can be found on their web pages. Submit your formal
+applications through the university admission system by the 26th April 2019.
+Your application should include a completed online admission form; the name and
+contact details of two referees; an original document providing confirmation of
+your degree (or a transcript if the degree is not yet awarded). For non-native
+English speakers, a certificate of competence in English is required at IELTS
+6.5 or higher, with no element less than 6.0 (or equivalent).
+
+Programming Languages and Systems Group:
+https://www.cs.kent.ac.uk/research/groups/plas/index.html
+
+Topics suggested by our group
+https://www.cs.kent.ac.uk/research/groups/plas/pgprojects.html
+
+Applications process:
+https://www.cs.kent.ac.uk/research/studyingforaphd/howtoapply.html
+
+For general inquiries about the process, please e-mail: cs-phd-plas at kent.ac.uk.
+
+PLAS is a large research group with potential supervisors who work across the
+breadth of programming languages and systems research.
+
+*Dr Mark Batty*
+(Additional scholarship:
+https://www.cs.kent.ac.uk/people/staff/mjb211/studentship/studentship.htm)
+Concurrency; software verification; systems; relaxed memory; programming
+language semantics; GPU concurrency.
+
+*Dr Laura Bocchi*
+Foundations and engineering of API with complex behaviour, verification of
+distributed concurrent systems; behavioural types; real-time systems;
+transactions and transaction protocols.
+
+*Dr Olaf Chitil*
+Tracing, semantics, algorithmic debugging, type error debugging, compilation
+and functional programming.
+
+*Dr Radu Grigore*
+Program analysis; runtime verification; probabilistic models of computation.
+
+*Dr Rogerio de Lemos*
+Software engineering for self-adaptive systems: assurances and resilience
+evaluation; architecting resilient systems.
+
+*Prof. Richard Jones*
+Language implementation; memory management; garbage collection; object
+demographics; program analysis for improved memory management; program
+visualisation, rigorous performance evaluation.
+
+*Dr Stefan Kahrs*
+Expressiveness of programming languages, type systems, term rewriting,
+infinitary rewriting.
+
+*Dr Stephen Kell*
+Language implementation, tools, interoperability, runtimes and operating
+systems.
+
+*Prof. Andy King*
+Abstract interpretation, logic programming, decompilation and reverse
+engineering
+
+*Dr Julien Lange*
+Process calculi, automata theory, behavioural types, model checking and their
+application to the implementation and verification of concurrent and
+distributed systems.
+
+*Dr Stefan Marr*
+Language implementation techniques, concurrency, parallel programming,
+optimizations, tooling, debugging, virtual machines, interpreters, compilation.
+
+*Dr Matteo Migliavacca*
+On-line data processing, distributed publish-subscribe, and high-performance
+event processing in large scale and cloud scenarios.
+
+*Dr Dominic Orchard*
+Mathematical structure of programs; logical foundations of programming;
+categorical semantics; behavioural type theories; programming language design;
+program verification for computational science.
+
+*Dr Scott Owens*
+Semantics of shared memory concurrency; design of programming languages; formal
+verification for software and interactive theorem proving, especially for
+CakeML (https://cakeml.org).
+
+*Dr Tomas Petricek*
+Programming languages and tools, especially for data science, studying
+interactions of programming, bridging the gap between data and types;
+foundations of programming in a broad sense, including design and human
+experience; philosophy and history of computing and programming.
+
+*Prof. Simon Thompson*
+Functional programming in Haskell, Erlang and OCaml; refactoring functional
+programs: tool building. theory and practice: dependently-typed functional
+programming; DLT: languages for smart contracts on blockchains, including
+Marlowe on Cardano.
+
+
+-- 
+Stefan Marr
+School of Computing, University of Kent
+https://stefan-marr.de/research/
+
+
+
+

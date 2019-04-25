@@ -1,0 +1,117 @@
+From Jeremy.Singer at glasgow.ac.uk  Fri Nov 11 17:15:43 2016
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Fri Nov 11 17:16:26 2016
+Subject: [Marionet] Launch meeting date
+Message-ID: <B1F717AF-DF7D-4C59-8ABD-3BCFC24BABBD@glasgow.ac.uk>
+
+Hi network members,
+
+We want to run our MaRIONet launch meeting in London early 2017. Please fill in the doodle poll below to indicate when you are free to attend this event. At the launch meeting we will introduce the manycore network, outline the schedule of activities, and run the first industrial/academic "speed dating" session. We also hope to have a "New Cross-ICT Priorities" overview from the EPSRC ICT team.
+
+Please doodle at http://doodle.com/poll/p2crvxhc6q5shecs
+
+Many thanks,
+Jeremy
+
+
+From Jeremy.Singer at glasgow.ac.uk  Fri Nov 18 13:16:27 2016
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Fri Nov 18 13:17:10 2016
+Subject: [Marionet] Re: MaRIONet manycore network meeting - Save the Date!
+Message-ID: <C15961FB70BA6F4EA55A1FAAB461DAC1629E6B18@CMS08-02.campus.gla.ac.uk>
+
+Hi network members,
+
+The MaRIONet manycore network launch meeting will be at Imperial College London on Wed 11 Jan. Please save the date! We'll aim to start at 10am, I'll post a full schedule and precise location details to the list shortly.
+
+Meanwhile
+1) please make arrangements to attend this launch meeting
+2) encourage other people to sign up for the network - the signup process is simple - wannabe members just send an email to me [ jeremy.singer@glasgow.ac.uk ]
+
+See you all soon!
+Jeremy
+
+
+________________________________________
+From: Jeremy Singer
+Sent: 17 November 2016 18:36
+To: Alastair Donaldson
+Subject: Re: MaRIONet manycore network meeting
+
+Hi Ally,
+according to our poll at
+
+http://doodle.com/poll/p2crvxhc6q5shecs
+
+Wed 11 Jan is looking like a good date. Please could we go ahead and arrange the MaRIONet launch meeting at Imperial for this date?
+
+Many thanks
+Jeremy
+
+---
+
+On 8 Nov 2016, at 19:45, Alastair Donaldson <alastair.donaldson@imperial.ac.uk> wrote:
+
+> Hi Jeremy
+>
+> It was good to see you at SPLASH last week.
+>
+> I'm excited about our kick-off meeting!
+>
+> The following dates in February would be great from my point of view:
+>
+> 1, 8, 15, 16, 21, 22, 23, 24, 28 Feb
+>
+> The following would also be possible:
+>
+> 2, 3, 9, 10, 17 Feb
+>
+> If you're keen to do it earlier then we could look at January, in which case I could do:
+>
+> 10, 11, 12, 13 Jan
+>
+> Feb would be slightly preferable for me, however.
+>
+> Can you setup a Doodle poll based on the above?  Then once we have some preferable dates I'll look into venue availability.
+>
+> Cheers
+>
+> Ally
+>
+>
+>
+>
+> On 19/10/2016 17:09, Jeremy Singer wrote:
+>> Hi Ally,
+>>
+>>> Absolutely - I'm keen to do this.
+>> thanks!
+>>
+>>> Can you give me a maximum budget for room hire and tea/coffee/lunch catering?
+>> For this initial meeting, I think it's fine to splash out. So say max budget 2500 GBP? If you can send me a draft invoice, then we can raise a purchase order - hopefully our respective finance offices will talk nicely to each other.
+>>
+>>> I'll then get back to you with potential dates.
+>> Great. I think we should probably avoid POPL (18-20 Jan) and HiPEAC (23-25 Jan). Any other constraints?
+>>
+>> Thanks,
+>> Jeremy
+>>
+>>
+>>> On 17/10/2016 15:32, Jeremy Singer wrote:
+>>>> Hi Ally,
+>>>> Thanks for volunteering to host our first manycore network meeting at Imperial.
+>>>> Please could you propose a list of potential dates in Jan/Feb when we could hold the one-day launch meeting? I will set up a doodle poll, because we want to ensure
+>>>> a) as many initial network members
+>>>> b) a representative from EPSRC
+>>>> can attend the meeting.
+>>>>
+>>>> Many thanks,
+>>>> Jeremy
+>>>>
+>>>> PS - sorry - I realise I twisted your arm to host the first meeting. Imperial is a very convenient location - hope you don't mind :-)
+>>>>
+>>>>
+>>>>
+>
+
+

@@ -1,0 +1,44 @@
+From Phil.Trinder at glasgow.ac.uk  Wed Sep 20 13:01:45 2017
+From: Phil.Trinder at glasgow.ac.uk (Phil Trinder)
+Date: Wed, 20 Sep 2017 12:01:45 +0000
+Subject: [Marionet] Reliable Scalable and Secure Software (RS4) Workshop
+	Summary
+Message-ID: <9FA592BC1DE81E4CAAC9F278ED754C880FEA936F@CMS08-01.campus.gla.ac.uk>
+
+Folks,
+
+We had a very productive workshop in Glasgow on the 1st September with 7 talks and some plenary discussion. It was attended by some 50 people with a good mix of industrial and academic speakers and participants. There were presentations from high profile industrialists: Alastair Reid (ARM), Alastair Murray (Codeplay Software), Michele Weiland (EPCC), David Irvine (Maidsafe) and Tony Printezis (Twitter), and participation from leading universities: including Bristol, Cambridge, Edinburgh, Glasgow, and Heriot-Watt.
+
+We discussed the challenges of engineering reliable scalable and secure software (RS4) for emergent platforms, and some possible approaches to solving them.
+
+Attached is a summary of the workshop, and the full materials, including most sets of presentation slides are available from the workshop pages:
+  http://www.dcs.gla.ac.uk/research/gpg/RS4/
+
+Best Regards,
+
+Inah and Phil
+
+--------------------------------------------------
+Phil Trinder
+Glasgow Parallelism Group (GPG)
+Glasgow Systems Section (GLASS)
+School of Computing Science
+Glasgow University
+Glasgow G12 8QQ
+Scotland
+
+E:   Phil.Trinder at glasgow.ac.uk<mailto:Phil.Trinder at glasgow.ac.uk>
+P:   +44 (141) 330 3627
+W:  www.dcs.gla.ac.uk/~trinder/
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20170920/3325421e/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: RS4 2017 Workshop Summary.pdf
+Type: application/pdf
+Size: 548522 bytes
+Desc: RS4 2017 Workshop Summary.pdf
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20170920/3325421e/attachment-0001.pdf>
+

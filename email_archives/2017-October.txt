@@ -1,0 +1,46 @@
+From V.S.Getov at westminster.ac.uk  Wed Oct 25 11:07:43 2017
+From: V.S.Getov at westminster.ac.uk (Vladimir Getov)
+Date: Wed, 25 Oct 2017 10:07:43 +0000
+Subject: [Marionet] FST Research Colloquia - Lecture on 27 Oct at 1:00 PM in
+ the Pavilion, 115 New Cavendish St, London W1W 6UW
+In-Reply-To: <AM5PR0701MB249713F315675567621B7049E3440@AM5PR0701MB2497.eurprd07.prod.outlook.com>
+References: <VI1PR07MB1328A68F8A8797B70144BFD2E3F40@VI1PR07MB1328.eurprd07.prod.outlook.com>,
+ <VI1PR07MB13288510E16F63020B40B7B9E3C10@VI1PR07MB1328.eurprd07.prod.outlook.com>,
+ <VI1PR07MB132851DEE16C69CF94A5255FE3C40@VI1PR07MB1328.eurprd07.prod.outlook.com>,
+ <DB6PR0701MB250165677D7B36A5B15D458DE3880@DB6PR0701MB2501.eurprd07.prod.outlook.com>,
+ <DB6PR0701MB2501C24C0437D80C5CA613B6E38A0@DB6PR0701MB2501.eurprd07.prod.outlook.com>,
+ <AM5PR0701MB249713F315675567621B7049E3440@AM5PR0701MB2497.eurprd07.prod.outlook.com>
+Message-ID: <AM5PR0701MB249790B295E88638BB204109E3440@AM5PR0701MB2497.eurprd07.prod.outlook.com>
+
+Hi All:
+
+We are delighted to announce the next lecture from the FST Research Colloquia series, which will take place from 1:00 pm in the Pavilion (C1.18), 115 New Cavendish Street on Friday 27 October.
+https://www.westminster.ac.uk/about-us/our-locations/maps-and-directions/cavendish
+
+The seminar, hosted by the Distributed and Intelligent Systems Research Group, will feature a distinguished speaker - Professor Soumitra K. Nandy (Indian Institute of Science Bangalore) - on "Reconfigurable Many-Core Architecture of a Supercomputing System-on-Chip" (details below). Please do come along if you are able to - all welcome.
+
+Kind regards,
+
+Vladimir Getov
+
+[cid:70613724-0aa5-4cdf-b6ea-5a0e50a5702e]
+
+Abstract: Many-core architectures are projected as the vehicle to extend the computing performance of a processor within a power envelope. Achieving hardware scalability and performance are the primary challenges in building a many-core processor, especially when such a processor is to be realized as a SoC. There is a growing consensus that dataflow based execution models can improve productivity and performance of many-core architectures. Dataflow based execution models are attractive for their deterministic behaviour and ability to express arbitrary parallelism. REDEFINE from Morphing Machines is a massively parallel, runtime reconfigurable many-core processor that supports the dataflow model of execution. With REDEFINE as a case in point, we will discuss how arbitrary parallelism is exploited in REDEFINE through hardware-defined programming. In conclusion, we will play a recording of concurrent application kernels running on a 256 Compute Element REDEFINE emulated on 6 Virtex 7 2000T FPGA devices.
+
+Short Bio: Soumitra K. Nandy holds the position of a Senior Professor in the Department of Computational and Data Sciences, Indian Institute of Science, Bangalore (IISB). He graduated from I.I.T. Kharagpur in 1974 with a B.Sc. (Honours) degree in Physics, and then obtained his B.E. (Honours) degree in Electronics and Communication Engineering in 1980, M.Sc.(Eng.) degree in Computer Science and Engineering in 1986, and Ph.D. degree in Computer Science and Engineering in 1989, all from IISB. Prof. S. K. Nandy was instrumental in setting up a state-of-the-art laboratory for Computer Aided Design at the institute in 1983 with the assistance of the United Nations Development Programme and the Government of India. This laboratory has active collaborations with Massachusetts Institute of Technology, Cambridge, USA, Technical University of Delft, The Netherlands, Leiden Institute of Advanced Computer Science, The Netherlands, Tokyo University and Waseda University, Japan, KTH Royal Institute of Technology, Sweden, and RWTH Aachen University, Germany. Nowadays, the laboratory is engaged in state-of-the-art research in Reconfigurable System-on-Chip architectures for next generation desktop supercomputing platforms. Over the years, he has graduated 20 PhD, and over 100 Master students who have worked for their theses in the laboratory. His current research addresses important issues in micro-architectural and compiler optimizations for power and performance in Chip Multiprocessors (CMPs), and Runtime Reconfigurable SoCs. All his research targets massively parallel architectures and platforms for accelerating computations for Next Generation Sequence Alignment, Numerical Linear Algebra, Real-time Face Recognition, Cognition Engines, Genomics, and Molecular Dynamics. Prof. Nandy has over 175 research publications in International Journals and Proceedings of International Conferences that highlight his research contributions, and 5 patents to his credit.
+
+
+The University of Westminster is a charity and a company limited by guarantee. Registration number: 977818 England. Registered Office: 309 Regent Street, London W1B 2UW.
+
+This message and its attachments are private and confidential. If you have received this message in error, please notify the sender and remove it and its attachments from your system.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20171025/015a9414/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: pastedImage.png
+Type: image/png
+Size: 970199 bytes
+Desc: pastedImage.png
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20171025/015a9414/attachment-0001.png>
+

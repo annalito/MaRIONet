@@ -1,0 +1,99 @@
+From Jeremy.Singer at glasgow.ac.uk  Mon Mar 12 09:19:43 2018
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Mon, 12 Mar 2018 09:19:43 +0000
+Subject: [Marionet] Manycore Newsletter #3 - Mar 2018
+Message-ID: <FCAE05A6-33A0-4388-B2EA-56F10E4017A3@glasgow.ac.uk>
+
+Dear MaRIONet member,
+
+This is the third in our series of network newsletters to update you
+about activities in the UK manycore network.
+
+Regards,
+Jeremy Singer
+
+
+-----------------------
+Pervasive and UbiComp workshop in Cardiff, 14-15 March
+-----------------------
+
+The EPSRC-sponsored Pervasive And Ubiquitous Computing Challenge
+Workshop is running in Cardiff later this week, 14-15 March 2018, with
+the objectives to strengthen and focus UK research activity in
+this area. MaRIONet will be well represented at this event. If
+you want us to raise any issues and lobby on behalf of the
+manycore community, please contact jeremy.singer at glasgow.ac.uk
+directly.  More details at
+https://www.epsrc.ac.uk/funding/calls/puccommunityworkshopeoi/
+
+
+-------------------
+MaRIONet workshop in Belfast, 5 April
+-------------------
+
+The ISPASS conference is hosted at Queen's University Belfast -
+see http://ispass.org/ispass2018/ for details. A MaRIONet
+workshop is running at Queen's the day afterwards, on Thu 5
+April. Our plan is to spend time drawing up a list of Grand
+Challenges for manycore research, with the aim of producing a
+technical report to present to funding agencies. This workshop is
+an free, open event - please attend if you are available. Sign up
+via doodle at https://doodle.com/poll/6a6swhxxpwin62ft and start
+thinking about your grand challenge proposal. We will set up
+online access to the workshop, via Google hangouts or similar,
+for network members who cannot attend in person.
+
+
+-------------------
+Summer school in Glasgow, 16-20 July - save the date.
+-------------------
+
+The Manycore Summer School will be held in Glasgow, Mon 16 to Fri
+20 July 2018. We have an exciting lineup of speakers, including
+researchers from Arm, Oracle, and Women in HPC, along with
+academics from Southampton, Bristol, Belfast and Princeton. The
+sign-up page will go live very soon - please encourage your PhD
+students to come along!  UK-based PhD students will be granted
+free registration and accommodation for the week, on a
+first-come-first-served basis.
+
+
+-----------------------
+Network stats
+-----------------------
+
+We now have around 120 members on our mailing list, from a range
+of industry and academic partners. This exceeds our original
+target by some way, and we are still growing! Please encourage
+your manycore collaborators to join our network too. Ask them to
+mail natascha.hart at glasgow.ac.uk to subscribe to this low-traffic
+list.
+
+
+-----------------------
+Industrial Strategy Challenge Fund
+-----------------------
+
+Adam Luqmani from EPSRC writes:
+> The UK Government is now inviting suggestions to
+> identify the third wave of industry-led challenges in
+> the Industrial Strategy Challenge Fund.
+>
+> The expression of interest for challenges opens on
+> 28 February 2018, and the deadline is 18 April 2018.
+> This is an opportunity to influence the UK research
+> landscape and is well worth circulating within your networks.
+>
+> https://www.gov.uk/government/news/industrial-strategy-challenge-fund-tell-us-what-to-support
+
+
+
+
+---
+http://manycore.org.uk
+Follow us on twitter at @UKManycore
+
+
+[University of Glasgow: The Times Scottish University of the Year 2018]
+
+

@@ -1,0 +1,210 @@
+From Jeremy.Singer at glasgow.ac.uk  Fri Aug  3 10:56:56 2018
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Fri, 3 Aug 2018 09:56:56 +0000
+Subject: [Marionet] Manycore Newsletter #6 - Aug 2018
+Message-ID: <C15961FB70BA6F4EA55A1FAAB461DAC177070D89@CMS08-02.campus.gla.ac.uk>
+
+Hi all,
+
+Our network is now more than half-way through its EPSRC funding
+duration. We have organized a range of events across the country over
+the past two years, with further upcoming events announced below. Do
+get in touch if you would like to host your own Manycore workshop.
+
+In other news, we have produced some MaRIONet laptop stickers. Email
+jeremy.singer at glasgow.ac.uk with your snail mail address if you want
+us to post you a laptop sticker.
+
+Best regards,
+Jeremy
+
+---
+
+Network member Jose Nunez-Yanez from Bristol is organizing a workshop
+on Next-Generation Hardware for High-Performance Computing, to be held
+in Bristol, 11 Sep 2018. Lots of great speakers and interesting talks.
+Check out https://seis.bristol.ac.uk/~eejlny/nghpc/eehco.htm for
+registration and further details.
+
+---
+
+Network coordinator Jeremy Singer writes:
+
+The UK Manycore summer school was held at the School of Computing
+Science, 16-20 July. We welcomed over 40 visitors, most of them were
+UK-based PhD students but we had some delegates from exotic places
+like ETHZ and Princeton. Speakers included representatives from
+industry and academia.
+
+Over the week, students found out about various aspects of manycore
+technology, from low-level processor architecture, through virtual
+machines and programming languages, up to high-level applications. We
+also enjoyed an excursion to Loch Lomond and a ceilidh at the student
+union, to give our visitors an authentic taste of Scotland.
+
+The summer school was possible thanks to generous sponsorship from
+EPSRC and SICSA. Slides and photos are archived at
+https://manycore.org.uk/summerschool.html
+
+---
+
+Ghaithaa Manla at Southampton writes:
+
+PRiME is pleased to announce the release of PRiME Framework which
+enables application- and platform-agnostic runtime management.  Being
+able to balance the competing needs of application performance with
+the minimisation of system power is essential for future systems and
+one way to achieve this is with application-aware runtime management
+of system behaviour. There are many runtime management approaches;
+however, many are tied to specific hardware or applications, this
+makes direct comparison challenging and complicates implementation
+with new platforms and applications.  PRiME researchers have developed
+a tool, Prime Framework, for application and platform agnostic runtime
+management that enables portability of runtime management
+approaches. We achieve this by considering a system as three distinct
+layers with abstracted communication between them.  The PRiME
+Framework has two main features: It allows users, who are developing
+runtime managers for new systems, to directly compare different
+approaches to identify the best one or check how well their approach
+compares to the state of the art. It simplifies development effort as
+runtime managers don't need device or application specific code
+allowing the users to quickly prototype and test an idea in a few
+lines of code. "The PRiME Framework is a step change in cross-layer
+system optimisation of future many-core and heterogeneous systems. It
+benefits runtime management researchers and developers by reducing
+development overhead and enabling the direct comparison of
+approaches," said Professor Bashir Al-Hashimi. Details of the tool
+methodology have been accepted for publication in ReCoSoC 2018 and PEC
+2018 both of which will be published shortly.  PRiME Framework is
+available to download on:
+https://github.com/PRiME-project/PRiME-Framework
+
+
+---
+https://manycore.org.uk
+Follow us on twitter at @UKManycore
+
+
+
+
+
+[University of Glasgow: The Times Scottish University of the Year 2018]
+
+
+From S.Marr at kent.ac.uk  Wed Aug 22 19:06:02 2018
+From: S.Marr at kent.ac.uk (Stefan Marr)
+Date: Wed, 22 Aug 2018 19:06:02 +0100
+Subject: [Marionet] =?utf-8?q?Call_for_Workshop_Proposals_for_=3CProgrammi?=
+ =?utf-8?b?bmc+4oCZMTk=?=
+Message-ID: <8C6BDC89-3109-45CC-892B-EA54533C0AA6@kent.ac.uk>
+
+<Programming> 2019 : The Art, Science, and Engineering of Programming
+
+April 1-4, 2019, Genova, Italy
+http://2019.programming-conference.org
+
+********************************************************
+CALL FOR WORKSHOPS
+********************************************************
+
+https://2019.programming-conference.org/track/programming-2019-Workshops
+
+To build a community and to foster an environment where participants can 
+exchange ideas and experiences related to practical software 
+development, ‹Programming› will host a number of workshops, during the 
+days before the main conference. The workshops will provide a 
+collaborative forum to exchange recent and/or preliminary results, to 
+conduct intensive discussions on a particular topic, or to coordinate 
+efforts between representatives of a technical community. They are 
+intended as a forum for lively discussion of innovative ideas, recent 
+progress, or practical experience on programming and applied software 
+development in general for specific aspects, specific problems, or 
+domain-specific needs. We also encourage practical, hands-on workshops 
+in which participants actually experience one or several aspects of 
+practical software development. 
+
+The duration of workshops is in general one day, but we encourage the 
+submission of half-day workshop proposals on focused topics as well. In 
+exceptional situations, e.g., for workshops that involve actual practice 
+of programming-related activities, workshop organizers can request a 2 
+day workshop slot. If desired, the workshop proceedings can be published 
+in the ACM Digital Library. 
+
+
+### Submission Deadlines
+
+Deadline: September 1st, 2018
+
+Notifications will go out as soon as possible, about a week after the deadline.
+
+### Workshop Selection Committee
+
+Walter Cazzola (Università degli Studi di Milano, Italy)  
+Stefan Marr (University of Kent, UK)
+
+### Submission and Workshop Process
+
+Please submit your workshop proposal electronically via the submission system:
+https://2019.programming-conference.org/createProposal/b8c42d64-0e25-4255-ab8e-dceb6acd53db
+Please adhere to the workshop proposal guidelines given below and provide all requested information about the proposed workshop.
+
+Please keep it brief and use the provided form. The intention is not to spend time proposal writing, but preparing the organization of the workshop.
+
+To coordinate with the deadlines of the main conference, the following deadlines have to be respected by workshops:
+
+**Workshop web site and CFP:** September 17th.  
+
+**Deadline for submissions to the workshops:**
+
+ - after December 1st 2018 (first notification issue 3)
+ - possibly after January 7th 2019 (final notification issue 3), if this is feasible
+ - no later than January 15th 2019
+
+**Notification of authors:** February 15th, the latest. Needs to be before the early registration deadline around February 25th 2018.  
+
+**Deadline for Camera-Ready Papers (ACM DL):**
+
+ - for pre-proceedings before March 1st
+ - for post-proceedings before May 1st
+
+**Workshop dates:** April 1st or 2nd 2019
+
+### Workshop Proposal Guidelines
+
+Please include the following information either directly in the proposal, or CFP.
+The submission system has a form that includes an abstract (for the website), the CFP, and the remaining proposal.
+CFPs often cover the same information, duplication is not necessary for such cases.
+
+1. What is the motivation for the workshop?
+   - Objectives
+   - Intended audience
+   - Relevance (with respect to the topics of the <Programming> conference)
+2. Who organizes the workshop?
+   - Organizers and primary contact (name / affiliation / email)
+   - Brief details on the organizers (previous workshop organizing experience, etc.)
+   - Data on potential previous iterations of the workshop
+       - How many participants do you expect (please make at least an educated guess)
+       - What kind of equipment do you need (e.g., data projector, computer, whiteboard)
+   - Advertisement: Planed advertisement strategy to ensure sufficient participation
+3. Is there going to be a workshop program committee?
+   - if so, please list the members (indicated as finalized or expected)
+4. What is the planed workshop format?
+   - Planned deadlines
+   - Intended paper format
+   - Evaluation process
+   - Intended publication of accepted papers (printed proceedings or website)
+       - either as pre or post proceedings
+   - Intended workshop format (including duration, number of presentations, and planned keynotes)
+
+### Notes on Proceedings
+
+Workshops that wish to have their proceedings published in the ACM DL will have the opportunity to have either a pre or post proceedings. However, chairs will be responsible for collecting and verifying final copies, including PDFs and their source files, as well as paper metadata, in a format required by the publisher. The deadlines mentioned above are **strict** and we won't be able to extend them. Please consider them carefully when determining your deadlines for the workshop.
+
+-- 
+Stefan Marr
+School of Computing, University of Kent
+http://stefan-marr.de/research/
+
+
+
+

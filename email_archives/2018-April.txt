@@ -1,0 +1,194 @@
+From Jeremy.Singer at glasgow.ac.uk  Wed Apr  4 14:05:03 2018
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Wed, 4 Apr 2018 13:05:03 +0000
+Subject: [Marionet] Manycore Grand Challenges meeting in Belfast
+Message-ID: <C15961FB70BA6F4EA55A1FAAB461DAC165DEDA73@CMS08-02.campus.gla.ac.uk>
+
+Hi all,
+
+Tomorrow (Thu 5 Apr) we are convening a Manycore Network Grand Challenges workshop in Belfast, 10am-3pm. Please join this meeting remotely if you are available for some/all of the time. We will post a Google Hangouts link on this mailing list tomorrow morning.
+
+Agenda:
+
+10-11: Deconstructing Grand Challenges.
+What is a grand challenge, or moonshot? Why do we need them? We review similar exercises in the past, and highlight successes and failures.
+
+11-12: Discussion about Manycore Grand Challenges.
+We aim to construct a list of 10 to 20 challenges, which will be whittled down through the day. These are research problems / real-world challenges that we want the manycore community to address. Bring Your Own Challenge!
+
+12-1230: Discussion about Grand Challenge Activities.
+Should we run hackathons? Workshops? Curate an interactive website? Publish a journal special issue?
+
+1230-1330: lunch
+
+1330-1400: Interactive Voting Exercise
+We aim to identify the top N grand challenges.
+
+14-15: Moving Forward.
+Discussion about timeline for activities, champions for grand challenges. Strategy for community engagement.
+
+
+
+Hope you can join us for some of these sessions online. We will post the google hangouts link tomorrow, before we start at 10.
+
+Many thanks,
+Jeremy
+
+
+[University of Glasgow: The Times Scottish University of the Year 2018]
+
+
+From Jeremy.Singer at glasgow.ac.uk  Thu Apr  5 09:50:38 2018
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Thu, 5 Apr 2018 08:50:38 +0000
+Subject: [Marionet] Manycore Grand Challenges meeting in Belfast
+In-Reply-To: <C15961FB70BA6F4EA55A1FAAB461DAC165DEDA73@CMS08-02.campus.gla.ac.uk>
+References: <C15961FB70BA6F4EA55A1FAAB461DAC165DEDA73@CMS08-02.campus.gla.ac.uk>
+Message-ID: <C15961FB70BA6F4EA55A1FAAB461DAC165DEDE10@CMS08-02.campus.gla.ac.uk>
+
+Hi all,
+
+>  post a Google Hangouts link on this mailing list tomorrow morning.
+
+hangout at
+
+https://hangouts.google.com/call/dmK0vHJfOQ-C4X0tle9yAAEI
+
+Thanks,
+Jeremy
+
+
+Agenda:
+
+10-11: Deconstructing Grand Challenges.
+What is a grand challenge, or moonshot? Why do we need them? We review similar exercises in the past, and highlight successes and failures.
+
+11-12: Discussion about Manycore Grand Challenges.
+We aim to construct a list of 10 to 20 challenges, which will be whittled down through the day. These are research problems / real-world challenges that we want the manycore community to address. Bring Your Own Challenge!
+
+12-1230: Discussion about Grand Challenge Activities.
+Should we run hackathons? Workshops? Curate an interactive website? Publish a journal special issue?
+
+1230-1330: lunch
+
+1330-1400: Interactive Voting Exercise
+We aim to identify the top N grand challenges.
+
+14-15: Moving Forward.
+Discussion about timeline for activities, champions for grand challenges. Strategy for community engagement.
+
+
+
+From Jeremy.Singer at glasgow.ac.uk  Mon Apr  9 11:28:56 2018
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Mon, 9 Apr 2018 10:28:56 +0000
+Subject: [Marionet] Manycore Grand Challenges meeting in Belfast
+In-Reply-To: <C15961FB70BA6F4EA55A1FAAB461DAC165DEDE10@CMS08-02.campus.gla.ac.uk>
+References: <C15961FB70BA6F4EA55A1FAAB461DAC165DEDA73@CMS08-02.campus.gla.ac.uk>,
+ <C15961FB70BA6F4EA55A1FAAB461DAC165DEDE10@CMS08-02.campus.gla.ac.uk>
+Message-ID: <C15961FB70BA6F4EA55A1FAAB461DAC165DEE490@CMS08-02.campus.gla.ac.uk>
+
+Hi all,
+
+We held a manycore workshop on Grand Challenges last week in Belfast. Apologies - the google hangout did not work well. However we had a useful discussion. 
+
+Slides at https://manycore.org.uk/belfast_gc_slides.pdf (12MB pdf)
+Notes at https://manycore.org.uk/belfast_gc_notes.txt (0MB txt)
+
+We agreed to progress with application-focused grand challenges for manycore, possibly using the Industrial Strategy Challenge Fund as a vehicle for engagement.
+
+Best regards,
+Jeremy
+
+
+From many-core-workshop at york.ac.uk  Mon Apr 16 15:07:00 2018
+From: many-core-workshop at york.ac.uk (Many Core Workshop)
+Date: Mon, 16 Apr 2018 15:07:00 +0100
+Subject: [Marionet] Adaptive Many-Core Architectures and Systems Workshop
+Message-ID: <CADfTe4kZs-wnZ1v41_K2EHJ3AVryi-zEwfVSdKszhyCJE1NcyQ@mail.gmail.com>
+
+Dear Colleagues,
+
+'Adaptive Many-Core Architectures and Systems' is an informal workshop
+which will be held in the historic city of York from the 13th to the 15th
+of June 2018. The workshop aims to highlight and discuss emerging trends
+and future directions in the field of many-core system design (and beyond),
+and will feature invited position papers from world-leading researchers and
+industrialists across the field.
+
+Confirmed keynote speakers at the event include Steve Furber (University of
+Manchester), Nikil Dutt (University of California, Irvine, USA), Alan Burns
+(University of York, UK), and Jürgen Teich (Friedrich-Alexander-Universität
+Erlangen-Nürnberg, Germany), with more to come!
+
+We are currently soliciting extended abstracts from members of the
+community who are interested in presenting at this workshop. Abstracts
+should be no longer than three pages of A4 in standard IEEE conference
+format, and should focus upon the potential for future developments within
+the field of adaptive many-core systems.
+
+The workshop website, which includes information on submission and an
+up-to-date list of invited speakers can be found at
+http://www.york.ac.uk/many-core-workshop
+
+There is no attendance or registration fee for a limited number of places,
+for which authors of accepted submissions will get priority. We also have a
+number of student bursaries available, which will contribute towards the
+travel and accommodation costs of registered students. Deadline for
+submissions is Tuseday 8th May 2018.
+
+Best regards,
+Gianluca Tempesti
+Andy Tyrrell
+Martin Trefzer
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20180416/1a2e101d/attachment.html>
+
+From Jeremy.Singer at glasgow.ac.uk  Wed Apr 25 20:01:27 2018
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Wed, 25 Apr 2018 19:01:27 +0000
+Subject: [Marionet] Manycore Newsletter #4 - Apr 2018
+Message-ID: <EE4876E8-0AB8-4910-8F4A-973554EC78E8@glasgow.ac.uk>
+
+Hi Manycore network member,
+
+There are two great events happening soon ...
+1) Adaptive Manycore Architectures and Systems workshop, 13-15 June, York
+       http://www.york.ac.uk/many-core-workshop
+2) Manycore Summer School, 16-20 July, Glasgow
+       https://manycore.org.uk/summerschool.html
+
+Please see below for full details.
+Best regards,
+Jeremy
+
+
+=================
+1) WORKSHOP in York
+=================
+
+'Adaptive Many-Core Architectures and Systems' is an informal workshop which will be held in the historic city of York from the 13th to the 15th of June 2018. The workshop aims to highlight and discuss emerging trends and future directions in the field of many-core system design (and beyond), and will feature invited position papers from world-leading researchers and industrialists across the field.
+
+Confirmed keynote speakers at the event include Steve Furber (University of Manchester), Nikil Dutt (University of California, Irvine, USA), Alan Burns (University of York, UK), and Jürgen Teich (Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany), with more to come!
+
+We are currently soliciting extended abstracts from members of the community who are interested in presenting at this workshop. Abstracts should be no longer than three page of A4 in standard IEEE conference format, and should focus upon the potential for future developments within the field of adaptive many-core systems.
+
+The workshop website, which includes information on submission and an up-to-date list of invited speakers can be found athttp://www.york.ac.uk/many-core-workshop
+
+There is no attendance or registration fee for a limited number of places, for which authors of accepted submissions will get priority. We also have a number of student bursaries available, which will contribute towards the travel and accommodation costs of registered students. Deadline for submissions is Tuseday 8th May 2018.
+
+
+=================
+2) SUMMER SCHOOL in Glasgow
+=================
+
+Please could you encourage PhD students and early career postdocs to sign up for the Manycore Summer School at https://manycore.org.uk/summerschool.html
+
+A range of speakers from academia and industry will be giving talks and hands-on lab sessions. We have 30 free places remaining for students from UK universities (20 already gone!) The event runs 16-20 July 2018 (week after ACACES/HiPEAC). Participants only have to fund their own travel to Glasgow - we are providing accommodation, courtesy of sponsorship from EPSRC and SICSA. This is the flagship event of the Manycore network.
+
+
+
+[University of Glasgow: The Times Scottish University of the Year 2018]
+
+
