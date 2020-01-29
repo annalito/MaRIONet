@@ -1,0 +1,77 @@
+From vijay.nagarajan at ed.ac.uk  Thu Jun 13 10:44:57 2019
+From: vijay.nagarajan at ed.ac.uk (Vijay Nagarajan)
+Date: Thu, 13 Jun 2019 10:44:57 +0100
+Subject: [Marionet] Call for Papers: PPoPP 2020
+Message-ID: <CAMYczZeUjk0=cxM2p1tqo=tc5gj5AP9ayRDdU=RWWa-RaDp5Eg@mail.gmail.com>
+
+/* Apologies if you are receiving this more than once */
+
+Call for Papers
+PPoPP 2020: 25th ACM SIGPLAN Annual Symposium on Principles and Practice of
+Parallel Programming
+San Diego, California, USA. (collocated with HPCA-2020 and CGO-2020)
+Dates: Sat 22 - Wed 26 February 2020.
+Conference URL: https://ppopp20.sigplan.org
+
+Important dates:
+*  Paper registration and abstract submission: July 31, 2019
+*  Full paper submission: August 6, 2019
+*  Author response period: October 28â€“31, 2019
+*  Author Notification: November 19, 2019
+*  Artifact submission to AE committee: November 25, 2019
+*  Artifact notification by AE committee: December 20, 2019
+*  Final paper due: January 2, 2020
+
+All deadlines are at midnight anywhere on earth (AoE), and are firm.
+
+PPoPP is the premier forum for leading work on all aspects of parallel
+programming, including theoretical foundations, techniques, languages,
+compilers, runtime systems, tools, and practical experience. In the
+context of the symposium, â€œparallel programmingâ€ encompasses work on
+concurrent and parallel systems (multicore, multi-threaded,
+heterogeneous, clustered, and distributed systems; grids; data
+centers; clouds; and large scale machines). Given the rise of parallel
+architectures in the consumer market (desktops, laptops, and mobile
+devices) and data centers, PPoPP is particularly interested in work
+that addresses new parallel workloads and issues that arise out of
+extreme-scale applications or cloud platforms, as well as techniques
+and tools that improve the productivity of parallel programming or
+work towards improved synergy with such emerging architectures.
+Specific topics of interest include (but are not limited to):
+
+* Compilers and runtime systems for parallel and heterogeneous systems
+* Concurrent data structures
+* Development, analysis, or management tools
+* Fault tolerance for parallel systems
+* Formal analysis and verification
+* High-performance / scientific computing
+* Libraries
+* Middleware for parallel systems
+* Parallel algorithms
+* Parallel applications and frameworks
+* Parallel programming for deep memory hierarchies including
+nonvolatile memory
+* Parallel programming languages
+* Parallel programming theory and models
+* Parallelism in non-scientific workloads: web, search,
+analytics, cloud, machine learning
+* Performance analysis, debugging and optimization
+* Programming tools for parallel and heterogeneous systems
+* Software engineering for parallel programs
+* Software for heterogeneous architectures
+* Software productivity for parallel programming
+* Synchronization and concurrency control
+
+Paper Submission URL: https://ppopp20.hotcrp.com/
+
+For detailed submission requirements, please see PPOPPâ€™20 website:
+https://ppopp20.sigplan.org.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190613/d5e78431/attachment.html>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190613/d5e78431/attachment.ksh>
+
+

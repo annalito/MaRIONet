@@ -1,0 +1,241 @@
+From S.Marr at kent.ac.uk  Thu Aug  8 17:20:20 2019
+From: S.Marr at kent.ac.uk (Stefan Marr)
+Date: Thu, 8 Aug 2019 17:20:20 +0100
+Subject: [Marionet] Call for Papers, The Programming Journal, Volume 4,
+	Issue 3
+Message-ID: <68F734D9-833A-4777-B4BA-3901C2F8F432@kent.ac.uk>
+
+========================================================================
+                        The Programming Journal
+
+          The Art, Science, and Engineering of Programming
+
+
+                 Call for Papers for Volume 4, Issue 3
+
+                 http://programming-journal.org/cfp/
+                Follow us on Twitter: @programmingconf
+========================================================================
+
+The Art, Science, and Engineering of Programming was created with the
+goal of placing the wonderful art of programming on the map of scholarly
+works. Many academic journals and conferences exist that publish research
+related to programming, starting with programming languages, software
+engineering, and expanding to the whole Computer Science field. Yet, many
+of us feel that, as the field of Computer Science expanded, programming,
+in itself, has been neglected to a secondary role not worthy of scholarly
+attention. That is a serious gap, as much of the progress in Computer
+Science lies on the basis of computer programs, the people who write them,
+and the concepts and tools available to them to express computational tasks.
+
+The Art, Science, and Engineering of Programming aims at closing this
+gap by focusing primarily on programming: the art itself (programming
+styles, pearls, models, languages), the emerging science of understanding
+what works and what doesnâ€™t work in general and in specific contexts,
+as well as more established engineering and mathematical perspectives.
+
+
+We solicit papers describing work from one of the following perspectives:
+
+  Art: knowledge and technical skills acquired through practice and
+       personal experiences. Examples include libraries, frameworks,
+       languages, APIs, programming models and styles, programming
+       pearls, and essays about programming.
+
+  Science (Theoretical): knowledge and technical skills acquired
+       through mathematical formalisms. Examples include formal
+       programming models and proofs.
+
+  Science (Empirical): knowledge and technical skills acquired
+       through experiments and systematic observations. Examples
+       include user studies and programming-related data mining.
+
+  Engineering: knowledge and technical skills acquired through
+       designing and building large systems and through calculated
+       application of principles in building those systems.
+       Examples include measurements of artifactsâ€™ properties,
+       development processes and tools, and quality assurance methods.
+
+Independent of the type of work, the journal accepts submissions covering
+several areas of expertise, including but not limited to:
+
+ - General-purpose programming
+ - Data mining and machine learning programming, and for programming
+ - Database programming
+ - Distributed systems programming
+ - Graphics and GPU programming
+ - Interpreters, virtual machines, and compilers
+ - Metaprogramming and reflection
+ - Model-based development
+ - Modularity and separation of concerns
+ - Parallel and multi-core programming
+ - Program verification
+ - Programming education
+ - Programming environments
+ - Security programming
+ - Social coding
+ - Testing and debugging
+ - User interface programming
+ - Visual and live programming
+
+All details, including the selection process are described on
+  http://programming-journal.org/cfp/
+
+Details on the submission processed are available at
+  http://programming-journal.org/submission/
+
+Authors of accepted papers will be invited to present at the
+<Programming>â€™20 conference in Porto, Portugal from March 23-26:
+  https://2020.programming-conference.org/
+
+
+## Upcoming Deadlines
+
+We solicit submissions for the following upcoming deadlines:
+
+Submission:           October 1
+First notification:   December 1
+Revised submission:   January 1
+Final notification:   January 7
+Camera-ready:         January 15
+
+## Standing Review Committee Volume 4
+
+Christophe Scholliers, Ghent University
+Coen De Roover, Vrije Universiteit Brussel
+Craig Anslow, Victoria University of Wellington, New Zealand
+Didier Verna, EPITA / LRDE, France
+Diego Garbervetsky, University of Buenos Aires
+Edd Barrett, King's College London
+Erik Ernst, Google
+Felienne Hermans,  Leiden University
+Francisco Sant'Anna, Rio de Janeiro State University
+Friedrich Steimann, University of Hagen
+Gordana Rakic, University of Novi Sad
+Guido Salvaneschi, TU Darmstadt
+Hidehiko Masuhara, Tokyo Institute of Technology
+Jeremy Gibbons, University of Oxford
+Jonathan Edwards, US
+Jun Kato, AIST, Japan
+Luke Church, University of Cambridge
+Matthew Flatt, University of Utah
+Michael L. Van De Vanter, Cal Poly San Luis Obispo
+NicolÃ¡s Cardozo, Universidad de los Andes, Colombia
+Stephen Kell, University of Kent
+
+## Editors
+
+Stefan Marr (Editor Volume 4), University of Kent
+Cristina V. Lopes (Editor-in-Chief), University of California, Irvine
+
+
+-- 
+Stefan Marr
+School of Computing, University of Kent
+https://stefan-marr.de/research/
+
+
+
+
+From Phil.Trinder at glasgow.ac.uk  Fri Aug  9 17:16:32 2019
+From: Phil.Trinder at glasgow.ac.uk (Phil Trinder)
+Date: Fri, 9 Aug 2019 16:16:32 +0000
+Subject: [Marionet] Jobs: Assistant Professor  @ Heriot-Watt Univ
+In-Reply-To: <20190809160135.7e528f32@ran>
+References: <20190809160135.7e528f32@ran>
+Message-ID: <CWLP265MB122074BF00F95716AF016D71C1D60@CWLP265MB1220.GBRP265.PROD.OUTLOOK.COM>
+
+_______________________________________
+From:  Hans-Wolfgang <H.W.Loidl at hw.ac.uk>
+Sent: 09 August 2019 4:01 PM
+To: spls at dcs.gla.ac.uk
+Subject: [Spls] Jobs: Assistant Professor in Computer Science (Teaching Fellow) @ Heriot-Watt Univ
+
+Dear All,
+
+At the Computer Science Dept of Heriot-Watt Univ we are advertising for an Assistant Professor with expertise in computer systems, to cover our teaching areas such as
+computer architecture, hardware-software interface, OS, networking, low-level programming languages, high-performance computing, etc.
+
+Additional expertise in formal methods and verification is desirable and would link well with the research activities of the dependable systems group (DSG)
+in the department.
+
+This is a teaching & scholarship position with a focus on teaching and related administrative duties. Here is the link to the advertisement:
+
+https://www.jobs.ac.uk/job/BTX560/
+
+The closing date for applications is 20th August 2019.
+
+This is a one-year term position that would start as early as September (this is negotiable).
+
+If you have any questions, feel free to contact "Just, Mike" <M.Just at hw.ac.uk> or "Loidl, Hans-Wolfgang" <H.W.Loidl at hw.ac.uk> directly.
+
+Links:
+Dept of Computer Science: https://www.hw.ac.uk/schools/mathematical-computer-sciences/departments/computer-science.htm
+Top level page for our courses: http://www.macs.hw.ac.uk/students/cs/
+DSG group: http://www.macs.hw.ac.uk/~dsg/wp/
+
+Cheers,
+--
+  Hans-Wolfgang Loidl
+
+Room:   G51
+Tel:    +44 131 451 3421
+Fax:    +44 131 451 3327
+E-Mail: H.W.Loidl at hw.ac.uk
+Skype:  hwloidl
+URL:    http://www.macs.hw.ac.uk/~hwloidl
+
+School of Mathematical and
+Computer Sciences,
+Heriot-Watt University,
+Riccarton,
+Edinburgh EH14 4AS
+Scotland, U.K.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190809/eeb60d4a/attachment.html>
+
+From d.jacob.1 at research.gla.ac.uk  Thu Aug 29 16:59:47 2019
+From: d.jacob.1 at research.gla.ac.uk (Dejice Jacob (student))
+Date: Thu, 29 Aug 2019 15:59:47 +0000
+Subject: [Marionet] Manycore Newsletter #7 - Aug 2019
+Message-ID: <20190829160101.GA16816@sulabesi.dcs.gla.ac.uk>
+
+# Manycore Newsletter #7 - Aug 2019
+
+## Events
+
+The UK Manycore Network sponsored a couple of events over the summer months. These included the Scottish Programming Languages and Verification Summer School at Strathclyde University on 5â€“9 August. Topics covered were Probabilistic programming, Agda, Category theory, Session types, Domain specific languages and Parallel programming. Slides, photos and other resources are up at http://www.macs.hw.ac.uk/splv/splv19
+This was the first summer school in the series, but the organisers intend to run future events annually.
+
+The network also sponsored the 2nd UK OpenMP Users Conference at EPCC in Edinburgh on June 4-5. More details about the event are archived at https://ukopenmpusers.co.uk
+
+If you would like to host a manycore themed research workshop, please get in touch with Jeremy.Singer at glasgow.ac.uk soon (i.e. before we run out of event sponsorship money!)
+
+
+## Jobs
+
+### St Andrews 
+... hiring a Post-Doctoral Fellow to work on the EU H2020 TeamPlay project https://www.teamplay-h2020.eu
+If interested please get in touch with Chris Brown cmb21 at st-andrews.ac.uk
+
+### Imperial
+... advertising Four Academic Positions at Lecturer, Senior Lecturer, Reader or Professor Level. Deadline September 2nd 2019.
+For further details see https://www.imperial.ac.uk/jobs/description/ENG00918/four-academic-positions-lecturer-senior-lecturer-reader-or-professor-level
+
+### Cambridge
+... seeking to recruit a new faculty member at the Lecturer or Senior Lecturer level who can contribute to research and teaching in the broad area of Programming Languages. This includes (but is not limited to) Compilation, Program Analysis, Program Transformation, Type Systems, Semantics, Verification, Security, and Concurrency. See http://www.jobs.cam.ac.uk/job/21863/
+
+---
+https://manycore.org.uk
+Follow us on twitter at @UKManycore
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 473 bytes
+Desc: Digital signature
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190829/50388df4/attachment.sig>
+
+

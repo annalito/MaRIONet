@@ -1,0 +1,109 @@
+From Jeremy.Singer at glasgow.ac.uk  Tue Nov 12 19:05:26 2019
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Tue, 12 Nov 2019 19:05:26 +0000
+Subject: [Marionet] Manycore Newsletter #8 - Nov 2019
+Message-ID: <alpine.OSX.2.21.1911121902200.40589@saunders.dcs.gla.ac.uk>
+
+# Manycore Newsletter #8 - Nov 2019
+
+## Manycore network funding extended
+
+Brexit wasn't the only thing delayed past 31 Oct ... the UK
+Manycore Network funding from EPSRC was also due to finish on 31
+Oct. However we are delighted to announce we have received an
+extension till 31 March 2020 - which will allow us to run some
+more workshops and publish our final report next year.
+
+## EPSRC calls
+
+There are several highly relevant activities taking place at the
+moment. The Digital Security by Design challenge aims to increase
+the protection of software in the light of increased cyber-attack
+against various class of software vulnerabilities, through
+additional hardware protection capabilities architected around
+the containment of pointers, and the privilege by which regions
+of fine grain data can be accessed. See
+https://epsrc.ukri.org/funding/calls/iscf-digital-security-by-design-research-projects/
+for full details. Info workshop in London on 22 Nov. Outline
+proposal deadline on 7 Jan.
+
+The Trustworthy Autonomous Systems iniative is well
+underway. EPSRC hosted a town-hall style workshop in October. An
+call for outline proposals for a Trustworthy Autonomous Systems
+hub is now live, closing date 12 Dec. See
+https://epsrc.ukri.org/funding/calls/trustworthy-autonomous-systems-hub-outline-call/
+for details. A further funding call is due to be announced soon.
+
+## Research workshops
+
+We supported the Scottish Programming Languages Seminar in
+Glasgow on 30 Oct - see
+https://spls-series.github.io/meetings/2019/october/ for
+details. Over 60 researchers enjoyed a keynote talk from James
+Noble (New Zealand) who described how "programs don't just
+simulate the real world, but rise from the abyss replace it."
+Other hot topics included Session Types, Dependent Types and APL.
+
+We have significant amounts of funding left to support further
+academic workshops. We can pay for keynote speaker travel,
+catering and room hire for events. Please get in touch with
+d.jacob.1 at research.gla.ac.uk to apply for network funding to host
+an event.
+
+
+---
+https://manycore.org.uk
+Follow us on twitter at @UKManycore
+
+
+From Jeremy.Singer at glasgow.ac.uk  Wed Nov 13 10:24:30 2019
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Wed, 13 Nov 2019 10:24:30 +0000
+Subject: [Marionet] Manycore Newsletter #8 - Nov 2019 - Extra News
+In-Reply-To: <LO2P123MB22397E8D7987032B82232AE0A0760@LO2P123MB2239.GBRP123.PROD.OUTLOOK.COM>
+References: <alpine.OSX.2.21.1911121902200.40589@saunders.dcs.gla.ac.uk>
+ <LO2P123MB22397E8D7987032B82232AE0A0760@LO2P123MB2239.GBRP123.PROD.OUTLOOK.COM>
+Message-ID: <C10BF0A4-81B8-4CD1-BAEF-1E51B8123EA4@glasgow.ac.uk>
+
+Stop Press! Another item for the Manycore Newsletter #8 - this is just in...
+
+Rhys Perry from EPSRC writes...
+
+> Hello,
+> 
+> I am writing to invite you to a joint UK Computing Research Committee and EPSRC workshop on the 6th December in Edinburgh. 
+> 
+> The aims of the workshop are to:
+> *	Develop a strategy to rejuvenate and focus UK Computing Research for the next 5-10 years
+> *	Identify key technical and societal challenges that computing researchers can address in partnership with the EPSRC and lead government departments
+> 
+> The workshop programme will run from 9:45 - 16:00 and will include:
+> *	Talks from researchers from non-computing domains, discussing the challenges they face and identifying opportunities for how the computing research community could help overcome these challenges.
+> *	Formation of exciting, adventurous research ideas which could transform the computing research landscape with a view to development for EPSRC's Big Ideas initiative.
+> *	A presentation on consultations, outlining how you can effectively contribute to getting the voice of the computing research community heard.
+> *	Discussion on regulation - raising awareness and understanding of what regulation means in the computing research community, now and in the future.
+> *	The UKCRC AGM will be incorporated into the event, and will include discussion on the mission of UKCRC as well as an update on work streams.
+> 
+> Non-members of UKCRC and early career researchers are strongly encouraged to attend, as a diverse pool of attendees is desired.
+> This workshop follows on from a workshop organised by UKCRC and EPSRC in September 2019 held at Newcastle University. The report of this workshop will be published shortly on the UKCRC website.
+> 
+> Please use the Eventbrite link to register for the workshop: https://www.eventbrite.co.uk/e/ukcrcepsrc-workshop-tickets-80436607057 
+> 
+> Please can you circulate this information to any colleagues that you think would be interested in attending.
+> 
+> Many thanks,
+> Rhys
+> 
+> Rhys Perry
+> Portfolio Manager
+> Information and Communication Technologies (ICT) Theme
+> Engineering and Physical Sciences Research Council 
+> E-mail: rhys.perry at epsrc.ukri.org 
+> Tel: +44 (0)1793 444466
+
+---
+https://manycore.org.uk
+Follow us on twitter at @UKManycore
+
+
+

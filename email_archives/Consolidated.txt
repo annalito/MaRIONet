@@ -2379,4 +2379,1433 @@ Best Regards
 Tim
 
 2nd UK OpenMP Users Conference | EPCC in Edinburgh | 4-5 June, 2019 | https://ukopenmpusers.co.uk/  
+From z.wang at lancaster.ac.uk  Tue Apr  2 10:56:03 2019
+From: z.wang at lancaster.ac.uk (Wang, Zheng)
+Date: Tue, 2 Apr 2019 09:56:03 +0000
+Subject: [Marionet] Senior Research Associate at Lancaster
+Message-ID: <7222dfcb-854e-c5c7-0b33-5d01ccb196a2@lancaster.ac.uk>
+
+Dear colleagues,
+
+Applications are invited for the position of Senior Research Associate 
+to join â€œGEMâ€ (Generalized Epidemic Modelling), an exciting new project 
+funded by the Wellcome Trust, which is developing a domain-specific 
+modelling language (DSML) implementing statistical analysis and 
+forecasting for epidemics.
+
+We are aiming to provide a software environment for rapid development of 
+real-time epidemic models, with cutting-edge machine learning 
+implementations to improve the speed at which the epidemiological 
+community can respond to new outbreak threats.
+
+You will have a high level of competency in Python programming, with 
+experience of R and C++ being desirable.
+
+Part-time/job share/flexible working options will be considered for this 
+position.Â  This is a one year fixed term position.
+
+Deadline: 11 April 2019
+
+Further information on how to apply: 
+https://hr-jobs.lancs.ac.uk/Vacancy.aspx?ref=A2551-R
+
+Cheers,
+
+Zheng
+
+
+-- 
+Zheng Wang, PhD
+Senior Lecturer
+School of Computing and Communications
+Lancaster University LA1 4WA
+UK
+http://www.lancaster.ac.uk/staff/wangz3/
+
+
+From m.kabiri-chimeh at sheffield.ac.uk  Wed Apr  3 15:29:52 2019
+From: m.kabiri-chimeh at sheffield.ac.uk (Mozhgan Kabiri Chimeh)
+Date: Wed, 3 Apr 2019 15:29:52 +0100
+Subject: [Marionet] Call for Proposal: Sheffield GPU Hackathon 2019
+Message-ID: <CAB+JX=g9Gg4s1DzhBySy7dkgwX9wb=phRsFtjF_KWwuTXpXgQQ@mail.gmail.com>
+
+The University of Sheffield is pleased to announce that the GPU Hackathon
+in the UK (sponsored by Nvidia) will be held at the Halifax Hall, in
+Sheffield, United Kingdom.
+
+=================================================================
+August 19-23 2019 â€” Sheffield, United Kingdom
+
+Call for proposals
+
+http://gpuhack.shef.ac.uk/
+=================================================================
+
+We are looking for teams of 3-5 developers with a scalable** application to
+port to or optimize on a GPU accelerator. Collectively the team must have
+complete knowledge of the application. If the application is a suite of
+apps, no more than two per team will be allowed and a minimum of 2 people
+per app must attend. Space will be limited to 8 teams.
+
+** node-to-node communication implemented, but donâ€™t be discouraged from
+applying if your application is less than scalable. We are also looking for
+breadth of application areas.
+
+The goal of the GPU hackathon is for current or prospective user groups of
+large hybrid CPU-GPU systems to send teams of at least 3 developers along
+with either:
+
+- A (potentially) scalable application that could benefit from GPU
+accelerators, or
+- An application running on accelerators that needs optimization.
+
+There will be intensive mentoring during this 5-day hands-on workshop, with
+the goal that the teams leave with applications running on GPUs, or at
+least with a clear roadmap of how to get there.
+
+
+Full details on submissions are available here: http://gpuhack.shef.ac.uk/
+
+-- 
+Dr Mozhgan Kabiri *Chimeh*
+*R*esearch *A*ssociate / *RSE*
+
+Department of Computer Science,
+
+University of Sheffield
+
+0114 222 1896 | mkchimeh.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190403/ddc51fdf/attachment.html>
+
+From m.kabiri-chimeh at sheffield.ac.uk  Thu Apr  4 15:33:35 2019
+From: m.kabiri-chimeh at sheffield.ac.uk (Mozhgan Kabiri Chimeh)
+Date: Thu, 4 Apr 2019 15:33:35 +0100
+Subject: [Marionet] Call for papers - Workshop on HPC Education and Training
+ for Emerging Technologies (HETET19) @ ISC 19
+In-Reply-To: <CAB+JX=hA8UXJrEi14x3RJXM+OCE09938xXdmLUb59kVfjB7rFg@mail.gmail.com>
+References: <DM5PR2201MB1147317EBC005F390BEC81D3E95E0@DM5PR2201MB1147.namprd22.prod.outlook.com>
+ <DM5PR2201MB114769AFA79761E0369282DDE9560@DM5PR2201MB1147.namprd22.prod.outlook.com>
+ <DM5PR2201MB1147EC3B2E528F55F8815056E9500@DM5PR2201MB1147.namprd22.prod.outlook.com>
+ <BN6PR2201MB1138772C7AF4211B636523F4E9500@BN6PR2201MB1138.namprd22.prod.outlook.com>
+ <CAB+JX=hA8UXJrEi14x3RJXM+OCE09938xXdmLUb59kVfjB7rFg@mail.gmail.com>
+Message-ID: <CAB+JX=i04_sUABTj+M9uL6GGQw1FhPwJCkL6sOV5Q45nUL7kcg@mail.gmail.com>
+
+************************************************************
+*************************************
+
+*Call for Papers **(HETET19
+<https://sighpceducation.acm.org/events/HETET19.html>)*
+
+*ISC19 Conference (**Frankfurt, Germany)*
+
+*June 16-20, 2019    **https://www.isc-hpc.com/ <https://www.isc-hpc.com/>*
+
+*Submission Deadline:  April 20, 2019*
+
+*Paper submission is available online via: EasyChair for HETET19 website.
+<https://easychair.org/conferences/?conf=hetet19> *
+
+***************************************************************************************************
+
+
+*Workshop on HPC Education and Training for Emerging Technologies (HETET19
+<https://sighpceducation.acm.org/events/HETET19.html>)*
+
+The HETET19 workshop is an ACM SIGHPC Education Chapter
+<https://sighpceducation.acm.org/>coordinated effort aimed at fostering
+collaborations among the practitioners from traditional and emerging fields
+to explore strategies to enhance computational, data-enabled, AI and HPC
+educational needs. Attendees will discuss approaches for developing and
+deploying HPC education and training, as well as identifying new challenges
+and opportunities for keeping pace with the rapid pace of technological
+advances - from collaborative and online learning tools to new HPC
+platforms; advanced technology solutions supporting HPC, Accelerated
+Analytics, and AI applications. The workshop will provide opportunities
+for: learning about methods for conducting effective HPC education and
+training for emerging technologies; promoting collaborations among HPC
+educators, trainers and users; and for disseminating resources, materials,
+lessons learned and good/best practices.
+
+This half-day workshop is aimed at users, professionals, researchers,
+scholars, educators, and other interested community members with an active
+interest in training, educating, using and supporting the HPC community of
+developers, researchers, educators, and practitioners.
+
+*The workshop will include a panel, presentations and lightning talks.
+Topics of interest include but are not limited to:*
+
+   -
+
+   Pedagogical methods/tools for High performance data analytics and
+   cognitive computing
+   -
+
+   Best practices and models for teaching and learning HPC topics and
+   course materials
+   -
+
+   Sustainable educational strategies for HPC education and training
+   -
+
+   Emerging and scalable online environments and tools for HPC education
+   and training
+   -
+
+   Evaluation and assessment of training and instructional materials
+   -
+
+   Legal issues involved in training (e.g. ADA compliance, software
+   licenses, intellectual property rights, etc.)
+   -
+
+   Novel andragogical approaches for training and education
+   -
+
+   Pedagogical methods/tools for non-traditional HPC disciplines
+   - Pedagogical methods/tools enabling HPC, Accelerated Analytics, and AI
+   Applications
+
+We invite submissions for full papers and extended abstract lightning
+talks. * All accepted papers and extended abstracts will be considered for
+publication in a special issue of Journal of Computational Science
+Education <http://jocse.org/>.*
+
+
+*Important Dates:*
+
+Submission Deadline:  April 20, 2019
+
+Notification of acceptance: April 27, 2019
+
+Final camera ready submissions: June 1, 2019
+
+
+*Paper Submission*
+
+To be accepted for publication, each paper should describe:
+
+   -
+
+   the nature of the training or education program
+   -
+
+   strategy
+   -
+
+   assessment or evaluation technique
+   -
+
+   situations for which it is relevant or in which it was applied
+   -
+
+   an evaluation of its success
+   -
+
+   lessons learned
+   -
+
+   reproducibility of the processes and resources
+   -
+
+   relevance to the broad range of training or education topics associated
+   with the workshop
+
+*Paper Format*
+
+The submitted paper must follow the Journal of Computational Science
+Education templates to generate your PDF: MS Word
+<http://shodor.org/media/content//jocse/content/JOCSE_Word_Template.zip> and
+ Latex
+<http://shodor.org/media/content//jocse/content/JOCSE_LaTeX_Template.zip>.
+Papers that do not comply with ACM format and maximum 8 page length limit
+will be returned.
+
+
+*Paper submission is available online via: EasyChair for HETET19 website.
+<https://easychair.org/conferences/?conf=hetet19> *
+
+*Organizing Committee:*
+
+   -
+
+   Nitin Sukhija, Slippery Rock University of Pennsylvania
+   -
+
+   Scott Lathrop, NCSA, University of Illinois at Urbana-Champaign
+   -
+
+   Nia Alexandrov, Daresbury Laboratory, Sci-Tech Daresbury
+
+
+*About SIGHPC Education*
+
+The SIGHPC Education chapter has as its purpose the promotion of interest
+in and knowledge of applications of High Performance Computing (HPC)
+
+https://sighpceducation.acm.org
+
+-- 
+Dr Mozhgan Kabiri *Chimeh*
+*R*esearch *A*ssociate / *RSE*
+
+Department of Computer Science,
+
+University of Sheffield
+
+0114 222 1896 | mkchimeh.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190404/1a9aac66/attachment.html>
+
+From S.Marr at kent.ac.uk  Tue Apr 23 15:16:28 2019
+From: S.Marr at kent.ac.uk (Stefan Marr)
+Date: Tue, 23 Apr 2019 15:16:28 +0100
+Subject: [Marionet] Call for Papers, The Programming Journal, Volume 4,
+	Issue 2
+Message-ID: <B45AAB72-8798-4ED8-9332-3557DF21D1DA@kent.ac.uk>
+
+========================================================================
+                        The Programming Journal
+
+          The Art, Science, and Engineering of Programming
+
+
+                 Call for Papers for Volume 4, Issue 2
+
+                 http://programming-journal.org/cfp/
+                       Follow us @programmingconf
+========================================================================
+
+The Art, Science, and Engineering of Programming was created with the
+goal of placing the wonderful art of programming on the map of scholarly
+works. Many academic journals and conferences exist that publish research
+related to programming, starting with programming languages, software
+engineering, and expanding to the whole Computer Science field. Yet, many
+of us feel that, as the field of Computer Science expanded, programming,
+in itself, has been neglected to a secondary role not worthy of scholarly
+attention. That is a serious gap, as much of the progress in Computer
+Science lies on the basis of computer programs, the people who write
+Them, and the concepts and tools available to them to express
+computational tasks.
+
+The Art, Science, and Engineering of Programming aims at closing this
+gap by focusing primarily on programming: the art itself (programming
+styles, pearls, models, languages), the emerging science of understanding
+what works and what doesnâ€™t work in general and in specific contexts,
+as well as more established engineering and mathematical perspectives.
+
+
+We solicit papers describing work from one of the following perspectives:
+
+  Art: knowledge and technical skills acquired through practice and
+       personal experiences. Examples include libraries, frameworks,
+       languages, APIs, programming models and styles, programming
+       pearls, and essays about programming.
+
+  Science (Theoretical): knowledge and technical skills acquired
+       through mathematical formalisms. Examples include formal
+       programming models and proofs.
+
+  Science (Empirical): knowledge and technical skills acquired
+       through experiments and systematic observations. Examples
+       include user studies and programming-related data mining.
+
+  Engineering: knowledge and technical skills acquired through
+       designing and building large systems and through calculated
+       application of principles in building those systems.
+       Examples include measurements of artifactsâ€™ properties,
+       development processes and tools, and quality assurance methods.
+
+Independent of the type of work, the journal accepts submissions covering several areas of expertise, including but not limited to:
+
+ - General-purpose programming
+ - Data mining and machine learning programming, and for programming
+ - Database programming
+ - Distributed systems programming
+ - Graphics and GPU programming
+ - Interpreters, virtual machines, and compilers
+ - Metaprogramming and reflection
+ - Model-based development
+ - Modularity and separation of concerns
+ - Parallel and multi-core programming
+ - Program verification
+ - Programming education
+ - Programming environments
+ - Security programming
+ - Social coding
+ - Testing and debugging
+ - User interface programming
+ - Visual and live programming
+
+All details, including the selection process are described on
+  http://programming-journal.org/cfp/
+
+Details on the submission processed are available at
+  http://programming-journal.org/submission/
+
+Authors of accepted papers will be invited to present at the
+<Programming>â€™20 conference in Porto, Portugal from March 23-26:
+  https://2020.programming-conference.org/
+
+
+## Upcoming Deadlines
+
+We solicit submissions for the following upcoming deadlines:
+
+Submission:           June 1
+First notification:   August 1
+Revised submission:   September 1
+Final notification:   September 7
+Camera-ready:         September 15
+
+Weâ€™ll also solicit submissions for Issue 3, for full details, see:
+  https://programming-journal.org/timeline/
+
+## Standing Review Committee Volume 4
+
+Christophe Scholliers, Ghent University
+Coen De Roover, Vrije Universiteit Brussel
+Craig Anslow, Victoria University of Wellington New Zealand
+Didier Verna, EPITA / LRDE France
+Diego Garbervetsky University of Buenos Aires
+Edd Barrett, King's College London
+Erik Ernst, Google
+Felienne Hermans,  Leiden University
+Francisco Sant'Anna, Rio de Janeiro State University
+Friedrich Steimann, FernuniversitÃ¤t
+Gordana Rakic, University of Novi Sad
+Guido Salvaneschi, TU Darmstadt
+Hidehiko Masuhara, Tokyo Institute of Technology
+Jeremy Gibbons, University of Oxford
+Jonathan Edwards, US
+Jun Kato, AIST Japan
+Luke Church, University of Cambridge
+Matthew Flatt, University of Utah
+Michael L. Van De Vanter, Cal Poly San Luis Obispo
+NicolÃ¡s Cardozo, Universidad de los Andes Colombia
+Stephen Kell, University of Kent
+
+## Editors
+
+Stefan Marr (Editor Volume 4), University of Kent
+Cristina V. Lopes (Editor-in-Chief), University of California, Irvine
+
+
+From bfranke at inf.ed.ac.uk  Tue Apr 23 15:21:04 2019
+From: bfranke at inf.ed.ac.uk (=?UTF-8?Q?Bj=C3=B6rn_Franke?=)
+Date: 23 Apr 2019 15:21:04 +0100
+Subject: [Marionet] =?utf-8?q?Fully_funded_PhD_studentship_in_=E2=80=9CFul?=
+	=?utf-8?q?l-System_Simulation_of_Mobile_GPU_Graphics=E2=80=9D?=
+Message-ID: <B5EECF2D-BA1D-4D5F-B6AE-0CEF7D97AE21@inf.ed.ac.uk>
+
+Fully funded PhD studentship in â€œFull-System Simulation of Mobile GPU Graphicsâ€
+
+
+
+
+One fully funded PhD position to work with Dr BjÃ¶rn Franke in the School of Informatics at the University, on a project titled â€œFull-System Simulation of Mobile GPU Graphicsâ€.
+
+
+
+
+Overview of the Project
+
+
+
+
+The project is concerned with simulation technology targeting mobile GPUs, and especially their graphics related capabilities. Research in this area has been focussing mainly on the GPU compute capabilities (â€œGeneral-purpose GPU â€œGPGPUâ€), for compute kernels written in OpenCL or CUDA. In this project we are focussing on the detailed simulation of 3D graphics functionality of mobile GPUs. Together with industry partner ARM, we will be working on full system simulation of their latest mobile GPU technology studying how to improve up simulation performance while at the same time providing detailed insights into the GPU operation and accurate modelling of its behaviour. If successful, this research has the potential to deliver significant impact within the academic research community as well as to industry.
+
+
+
+
+Candidateâ€™s Profile
+
+
+
+
+- A good Bachelors degree (2.1 or equivalent) in a relevant subject (Informatics, Computer Science, or closely related subject)
+
+- Strong programming skills in C/C++ and assembly
+
+- Proficiency in English (both oral and written)
+
+- Knowledge of one or more among computer architecture/design, computer graphics, and parallel programming is highly desirable.
+
+- Enthusiasm in the entire computer graphics software and hardware stack!
+
+
+
+
+Studentship and Eligibility
+
+
+
+
+The studentship covers:
+
+
+
+
+- Full time PhD tuition fees for a student with UK/EU nationality (Â£4,327 per annum, subject to annual increment).
+
+- A tax free stipend of GBP Â£15,009 per year for 3 years.
+
+- Additional programme costs of Â£1000 per year.
+
+
+
+
+Application Information
+
+
+
+
+Applicants should contact Dr BjÃ¶rn Franke (bfranke at inf.ed.ac.uk
+) immediately.Â 
+
+
+
+
+
+
+Sent with Unibox
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190423/44caa67e/attachment.html>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190423/44caa67e/attachment.ksh>
+
+From d.jacob.1 at research.gla.ac.uk  Wed Apr 24 19:00:27 2019
+From: d.jacob.1 at research.gla.ac.uk (Dejice Jacob (student))
+Date: Wed, 24 Apr 2019 18:00:27 +0000
+Subject: [Marionet] New permanent academic positions opening at Heriot-Watt
+ University, Edinburgh
+Message-ID: <20190424175908.GA2368@debian-macbook.home>
+
+Posted on behalf of Hans-Wolfgang Loidl
+
+Thanks and Regards 
+MaRIONet network admin
+
+----- Begin forwarded message -----
+
+Dear colleagues,
+
+Several Assistant Professor or Associate Professor positions are opening at Heriot-Watt University, Edinburgh,
+with a focus on the following areas: rigorous systems, verification/programming languages, computer security, or data science.
+
+Link for further details, and how to apply:
+https://jobs.hw.ac.uk/OA_HTML/OA.jsp?OAFunc=IRC_VIS_VAC_DISPLAY&p_svid=22112&p_spid=1112032
+<https://t.co/KBqwWOwcGK>
+
+Application deadline: 12th May.
+
+We invite bright researchers with expertise and a strong publication record in one of the following:
+programming languages, semantics, distributed systems, parallel computation, static analysis, type systems,
+proof theory, verification, and formal methods.
+
+If you have any further questions, please do not hesitate to contact me directly.
+
+Cheers
+--
+ Hans-Wolfgang Loidl
+
+Room:   G51
+Tel:    +44 131 451 3421
+Fax:    +44 131 451 3327
+E-Mail: H.W.Loidl at hw.ac.uk
+Skype:  hwloidl
+URL:    http://www.macs.hw.ac.uk/~hwloidl
+
+School of Mathematical and Computer Sciences,
+Heriot-Watt University,
+Riccarton,
+Edinburgh EH14 4AS
+Scotland, U.K.
+
+
+----- End forwarded message -----
+
+
+From tim.lewis at croftedge.com  Mon Apr 29 08:34:44 2019
+From: tim.lewis at croftedge.com (tim.lewis at croftedge.com)
+Date: Mon, 29 Apr 2019 08:34:44 +0100
+Subject: [Marionet] HPC Developers - The 2nd UK OpenMP Users Conference -
+	Program and Registration
+Message-ID: <009901d4fe5e$04042b30$0c0c8190$@croftedge.com>
+
+Hi,
+
+ 
+
+Join us at EPCC in Edinburgh on June 4-5 for the 2nd OpenMP Users
+Conference.  Two days of talks and tutorials aimed at furthering the
+collaboration and knowledge sharing among the UK community of
+high-performance computing specialist using the OpenMP API.
+
+ 
+
+MARioNET and RSE Discounts.  Members can receive a 40% discount if
+registering before Friday 3rd May.  See details below.
+
+ 
+
+This year's program includes the following sessions:
+
+ 
+
+Tutorials - Tuesday June 4
+
+------------------------------------
+
+ 
+
+* Advanced OpenMP: Performance and 5.0 Features - Presented by: Jim Cownie,
+Intel and Michael Klemm, Intel and OpenMP ARB CEO
+
+* A Hands-On-Introduction to OpenMP - Presented by: Dr Mark Bull, EPCC
+
+* Programming Your GPU with OpenMP: A Hands-On Introduction - Presented by:
+Simon McIntosh-Smith, Professor of High Performance Computing, University of
+Bristol
+
+ 
+
+Conference and Panel Discussion - Wednesday June 5
+
+-----------------------------------------------------------------------
+
+ 
+
+The abstract for each talk is available on the website at:
+https://ukopenmpusers.co.uk/ 
+
+ 
+
+* HERO Towards OpenMP 5.0 (Invited Talk)
+
+- Presented by: Alessandro Capotondi (University of Bologna), Andreas Kurth
+(ETH Zurich) and Andrea Marongiu (University of Modena)
+
+ 
+
+* Accelerating the UM and NEMO
+
+- Presented by: Dr Matthew Glover, Met Office
+
+ 
+
+* Lessons from Coarse Grained OpenMP Parallelisation and Code Optimisations
+to Accelerate Quantum Computational Chemistry FORTRAN90 Code Â“FFLUXÂ”
+
+- Presented by: Benjamin Symons and Paul Popelier, University of Manchester.
+Michael Bane, High End Compute
+
+ 
+
+* Shared Memory Parallelisation of a Radial Solver
+
+- Presented by: Sachin Nanavati, Senior Research Software Engineer at
+Cardiff University. Philipp RÃ¼ÃŸmann, Phivos Mavropoulos and Stefan BlÃ¼gel,
+JÃ¼lich Supercomputing Centre.
+
+ 
+
+* Using Cray Tools to Tune OpenMP
+
+- Presented by: John M Levesqu, Dir of Supercomputing Center of Excellence
+at Cray Inc.
+
+ 
+
+* OpenMP Parallelisation of Quantum Computing Simulators
+
+- Presented by: Youssef Moawad, University of Glasgow
+
+ 
+
+* Useful, Easy to Use OpenMP Features You May Have Missed
+
+- Presented by: James Cownie, Principal Engineer, Intel
+
+ 
+
+* OpenMP Panel Session
+
+- Chaired by Simon McIntosh-Smith and James Cownie The panel discussion will
+kick-off with a review of the new features of OpenMP 5.0 from the people who
+wrote the standard. The session will also give delegates plenty of time to
+grill members of the OpenMP Architecture Review Board about any aspect of
+OpenMP and its future development.
+
+ 
+
+Registration:
+
+-------------------------------
+
+Prices for a two-day pass start at Â£90, if registering before Friday 3rd
+May.
+
+ 
+
+* https://ukopenmpusers.co.uk/ 
+
+* MARioNET Discounts.  Members can receive a 40% discount.  Please email
+tim.lewis at ukopenmpusers.co.uk <mailto:tim.lewis at ukopenmpusers.co.uk>  for
+details and to request a Promotional Code.
+
+* General Early Access Discount - Save 20% when booking before Friday 3rd
+May 05, 2019
+
+* RSE and Student Discounts of 40%
+
+ 
+
+The Conference is supported by:
+
+----------------------------------------------------
+
+OpenMP ARB, INTEL, ARM, EPCC, NAG, SCW and MARIONET
+
+ 
+
+ 
+
+Best Regards
+
+ 
+
+Tim Lewis
+
+Event Organiser - UK OpenMP Users Conference EPCC | EDINBURGH | JUNE 4-5,
+2019 https://ukopenmpusers.co.uk/  |  @ukopenmpusers  |
+tim.lewis at ukopenmpusers.co.uk <mailto:tim.lewis at ukopenmpusers.co.uk> 
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190429/ce2f1d3d/attachment.html>
+
+
+
+
+From vijay.nagarajan at ed.ac.uk  Thu Jun 13 10:44:57 2019
+From: vijay.nagarajan at ed.ac.uk (Vijay Nagarajan)
+Date: Thu, 13 Jun 2019 10:44:57 +0100
+Subject: [Marionet] Call for Papers: PPoPP 2020
+Message-ID: <CAMYczZeUjk0=cxM2p1tqo=tc5gj5AP9ayRDdU=RWWa-RaDp5Eg@mail.gmail.com>
+
+/* Apologies if you are receiving this more than once */
+
+Call for Papers
+PPoPP 2020: 25th ACM SIGPLAN Annual Symposium on Principles and Practice of
+Parallel Programming
+San Diego, California, USA. (collocated with HPCA-2020 and CGO-2020)
+Dates: Sat 22 - Wed 26 February 2020.
+Conference URL: https://ppopp20.sigplan.org
+
+Important dates:
+*  Paper registration and abstract submission: July 31, 2019
+*  Full paper submission: August 6, 2019
+*  Author response period: October 28â€“31, 2019
+*  Author Notification: November 19, 2019
+*  Artifact submission to AE committee: November 25, 2019
+*  Artifact notification by AE committee: December 20, 2019
+*  Final paper due: January 2, 2020
+
+All deadlines are at midnight anywhere on earth (AoE), and are firm.
+
+PPoPP is the premier forum for leading work on all aspects of parallel
+programming, including theoretical foundations, techniques, languages,
+compilers, runtime systems, tools, and practical experience. In the
+context of the symposium, â€œparallel programmingâ€ encompasses work on
+concurrent and parallel systems (multicore, multi-threaded,
+heterogeneous, clustered, and distributed systems; grids; data
+centers; clouds; and large scale machines). Given the rise of parallel
+architectures in the consumer market (desktops, laptops, and mobile
+devices) and data centers, PPoPP is particularly interested in work
+that addresses new parallel workloads and issues that arise out of
+extreme-scale applications or cloud platforms, as well as techniques
+and tools that improve the productivity of parallel programming or
+work towards improved synergy with such emerging architectures.
+Specific topics of interest include (but are not limited to):
+
+* Compilers and runtime systems for parallel and heterogeneous systems
+* Concurrent data structures
+* Development, analysis, or management tools
+* Fault tolerance for parallel systems
+* Formal analysis and verification
+* High-performance / scientific computing
+* Libraries
+* Middleware for parallel systems
+* Parallel algorithms
+* Parallel applications and frameworks
+* Parallel programming for deep memory hierarchies including
+nonvolatile memory
+* Parallel programming languages
+* Parallel programming theory and models
+* Parallelism in non-scientific workloads: web, search,
+analytics, cloud, machine learning
+* Performance analysis, debugging and optimization
+* Programming tools for parallel and heterogeneous systems
+* Software engineering for parallel programs
+* Software for heterogeneous architectures
+* Software productivity for parallel programming
+* Synchronization and concurrency control
+
+Paper Submission URL: https://ppopp20.hotcrp.com/
+
+For detailed submission requirements, please see PPOPPâ€™20 website:
+https://ppopp20.sigplan.org.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190613/d5e78431/attachment.html>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190613/d5e78431/attachment.ksh>
+
+
+
+
+
+
+From vijay.nagarajan at ed.ac.uk  Sun Jul 21 17:26:31 2019
+From: vijay.nagarajan at ed.ac.uk (Vijay Nagarajan)
+Date: Sun, 21 Jul 2019 17:26:31 +0100
+Subject: [Marionet] Fully funded PhD position on Protocol Synthesis
+Message-ID: <CAMYczZc8b1EP=t4JNggMM1_enzkE_iPFm87gesq++Tcs2_u3ww@mail.gmail.com>
+
+Concurrent and distributed protocols (e.g. cache coherence protocols) are
+notoriously hard to get right or scale. Can we use program synthesis
+techniques to synthesise correct-by-construction and high-performance
+protocols?
+
+This position is suited for a motivated researcher with strong coding
+skills, a strong undergraduate (or postgraduate) degree, and expertise in
+one or more of the following areas:
+
+-computer architecture
+
+-verification
+
+-programming languages.
+
+-distributed systems
+
+-concurrency
+
+This is a fully funded PhD position with no restrictions on nationality.
+
+Please contact Dr. Vijay Nagarajan (vijay.nagarajan at ed.ac.uk) for more
+information.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190721/261f7e71/attachment.html>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190721/261f7e71/attachment.ksh>
+
+From Rhys.Perry at epsrc.ukri.org  Tue Jul 23 11:29:13 2019
+From: Rhys.Perry at epsrc.ukri.org (Rhys Perry)
+Date: Tue, 23 Jul 2019 10:29:13 +0000
+Subject: [Marionet] EPSRC ICT Strategic Advisory Team Vacancies
+Message-ID: <LO2P123MB22390CA14BAC8B6527E3A925A0C70@LO2P123MB2239.GBRP123.PROD.OUTLOOK.COM>
+
+Dear All,
+
+I would like to bring to your attention that the ICT theme at EPSRC are currently recruiting for vacancies on our Strategic Advisory Team in the following areas of expertise, which may be of interest:
+
+*        Fundamentals of Computing (Academic or Industry/User, number of vacancies: 1)
+
+o   Vacancy includes the EPSRC Research areas of Theoretical Computer Science, Architectures and Operating Systems, Programming Languages and Compilers and Verification and Correctness.
+
+*        Communications (Academic or Industry/User, number of vacancies: 1)
+
+o   This vacancy requires the capability to take a broad overview of the next generation communications landscape. With the ever increasing pervasiveness of communication systems and the growing reliance of wider societal technologies on distributed systems, it is strategically crucial to comprehend the prevalent direction in which this area should further develop.
+
+*        Photonics (Academic or Industry/User, number of vacancies: 1)
+
+o   Vacancy includes the research areas of Optoelectronic devices and circuits, optical devices and subsystems and optical communications. Please note: This vacancy could be filled as a joint appointment across both the ICT and Physical Sciences SAT. When applying could applicants please indicate which Strategic Advisory Team(s) they are interested in using the check-boxes provided.
+
+For more information on the role and application process, please see: https://epsrc.ukri.org/about/governance/recruitment/membershipsab/
+Applications must be received by 16.00 on 23 August 2019. The application form will automatically close at this time (even if an application is being worked on).
+
+Please share this information with colleagues who may be interested.
+
+Kind regards,
+Rhys
+
+Rhys Perry
+Portfolio Manager
+Information and Communication Technologies (ICT) Theme
+Tel: +44 (0)1793 444466
+E-mail: rhys.perry at epsrc.ukri.org<mailto:rhys.perry at epsrc.ukri.org>
+Website: www.epsrc.ukri.org<http://www.epsrc.ukri.org/>
+Polaris House, North Star Avenue, Swindon, SN2 1ET
+
+[EPSRC UKRI logo]
+
+The Engineering and Physical Sciences Research Council is part of UK Research and Innovation. For more information visit www.ukri.org<http://www.ukri.org/>.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190723/87531cc1/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image002.png
+Type: image/png
+Size: 32673 bytes
+Desc: image002.png
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190723/87531cc1/attachment-0001.png>
+
+
+
+
+
+
+From S.Marr at kent.ac.uk  Thu Aug  8 17:20:20 2019
+From: S.Marr at kent.ac.uk (Stefan Marr)
+Date: Thu, 8 Aug 2019 17:20:20 +0100
+Subject: [Marionet] Call for Papers, The Programming Journal, Volume 4,
+	Issue 3
+Message-ID: <68F734D9-833A-4777-B4BA-3901C2F8F432@kent.ac.uk>
+
+========================================================================
+                        The Programming Journal
+
+          The Art, Science, and Engineering of Programming
+
+
+                 Call for Papers for Volume 4, Issue 3
+
+                 http://programming-journal.org/cfp/
+                Follow us on Twitter: @programmingconf
+========================================================================
+
+The Art, Science, and Engineering of Programming was created with the
+goal of placing the wonderful art of programming on the map of scholarly
+works. Many academic journals and conferences exist that publish research
+related to programming, starting with programming languages, software
+engineering, and expanding to the whole Computer Science field. Yet, many
+of us feel that, as the field of Computer Science expanded, programming,
+in itself, has been neglected to a secondary role not worthy of scholarly
+attention. That is a serious gap, as much of the progress in Computer
+Science lies on the basis of computer programs, the people who write them,
+and the concepts and tools available to them to express computational tasks.
+
+The Art, Science, and Engineering of Programming aims at closing this
+gap by focusing primarily on programming: the art itself (programming
+styles, pearls, models, languages), the emerging science of understanding
+what works and what doesnâ€™t work in general and in specific contexts,
+as well as more established engineering and mathematical perspectives.
+
+
+We solicit papers describing work from one of the following perspectives:
+
+  Art: knowledge and technical skills acquired through practice and
+       personal experiences. Examples include libraries, frameworks,
+       languages, APIs, programming models and styles, programming
+       pearls, and essays about programming.
+
+  Science (Theoretical): knowledge and technical skills acquired
+       through mathematical formalisms. Examples include formal
+       programming models and proofs.
+
+  Science (Empirical): knowledge and technical skills acquired
+       through experiments and systematic observations. Examples
+       include user studies and programming-related data mining.
+
+  Engineering: knowledge and technical skills acquired through
+       designing and building large systems and through calculated
+       application of principles in building those systems.
+       Examples include measurements of artifactsâ€™ properties,
+       development processes and tools, and quality assurance methods.
+
+Independent of the type of work, the journal accepts submissions covering
+several areas of expertise, including but not limited to:
+
+ - General-purpose programming
+ - Data mining and machine learning programming, and for programming
+ - Database programming
+ - Distributed systems programming
+ - Graphics and GPU programming
+ - Interpreters, virtual machines, and compilers
+ - Metaprogramming and reflection
+ - Model-based development
+ - Modularity and separation of concerns
+ - Parallel and multi-core programming
+ - Program verification
+ - Programming education
+ - Programming environments
+ - Security programming
+ - Social coding
+ - Testing and debugging
+ - User interface programming
+ - Visual and live programming
+
+All details, including the selection process are described on
+  http://programming-journal.org/cfp/
+
+Details on the submission processed are available at
+  http://programming-journal.org/submission/
+
+Authors of accepted papers will be invited to present at the
+<Programming>â€™20 conference in Porto, Portugal from March 23-26:
+  https://2020.programming-conference.org/
+
+
+## Upcoming Deadlines
+
+We solicit submissions for the following upcoming deadlines:
+
+Submission:           October 1
+First notification:   December 1
+Revised submission:   January 1
+Final notification:   January 7
+Camera-ready:         January 15
+
+## Standing Review Committee Volume 4
+
+Christophe Scholliers, Ghent University
+Coen De Roover, Vrije Universiteit Brussel
+Craig Anslow, Victoria University of Wellington, New Zealand
+Didier Verna, EPITA / LRDE, France
+Diego Garbervetsky, University of Buenos Aires
+Edd Barrett, King's College London
+Erik Ernst, Google
+Felienne Hermans,  Leiden University
+Francisco Sant'Anna, Rio de Janeiro State University
+Friedrich Steimann, University of Hagen
+Gordana Rakic, University of Novi Sad
+Guido Salvaneschi, TU Darmstadt
+Hidehiko Masuhara, Tokyo Institute of Technology
+Jeremy Gibbons, University of Oxford
+Jonathan Edwards, US
+Jun Kato, AIST, Japan
+Luke Church, University of Cambridge
+Matthew Flatt, University of Utah
+Michael L. Van De Vanter, Cal Poly San Luis Obispo
+NicolÃ¡s Cardozo, Universidad de los Andes, Colombia
+Stephen Kell, University of Kent
+
+## Editors
+
+Stefan Marr (Editor Volume 4), University of Kent
+Cristina V. Lopes (Editor-in-Chief), University of California, Irvine
+
+
+-- 
+Stefan Marr
+School of Computing, University of Kent
+https://stefan-marr.de/research/
+
+
+
+
+From Phil.Trinder at glasgow.ac.uk  Fri Aug  9 17:16:32 2019
+From: Phil.Trinder at glasgow.ac.uk (Phil Trinder)
+Date: Fri, 9 Aug 2019 16:16:32 +0000
+Subject: [Marionet] Jobs: Assistant Professor  @ Heriot-Watt Univ
+In-Reply-To: <20190809160135.7e528f32@ran>
+References: <20190809160135.7e528f32@ran>
+Message-ID: <CWLP265MB122074BF00F95716AF016D71C1D60@CWLP265MB1220.GBRP265.PROD.OUTLOOK.COM>
+
+_______________________________________
+From:  Hans-Wolfgang <H.W.Loidl at hw.ac.uk>
+Sent: 09 August 2019 4:01 PM
+To: spls at dcs.gla.ac.uk
+Subject: [Spls] Jobs: Assistant Professor in Computer Science (Teaching Fellow) @ Heriot-Watt Univ
+
+Dear All,
+
+At the Computer Science Dept of Heriot-Watt Univ we are advertising for an Assistant Professor with expertise in computer systems, to cover our teaching areas such as
+computer architecture, hardware-software interface, OS, networking, low-level programming languages, high-performance computing, etc.
+
+Additional expertise in formal methods and verification is desirable and would link well with the research activities of the dependable systems group (DSG)
+in the department.
+
+This is a teaching & scholarship position with a focus on teaching and related administrative duties. Here is the link to the advertisement:
+
+https://www.jobs.ac.uk/job/BTX560/
+
+The closing date for applications is 20th August 2019.
+
+This is a one-year term position that would start as early as September (this is negotiable).
+
+If you have any questions, feel free to contact "Just, Mike" <M.Just at hw.ac.uk> or "Loidl, Hans-Wolfgang" <H.W.Loidl at hw.ac.uk> directly.
+
+Links:
+Dept of Computer Science: https://www.hw.ac.uk/schools/mathematical-computer-sciences/departments/computer-science.htm
+Top level page for our courses: http://www.macs.hw.ac.uk/students/cs/
+DSG group: http://www.macs.hw.ac.uk/~dsg/wp/
+
+Cheers,
+--
+  Hans-Wolfgang Loidl
+
+Room:   G51
+Tel:    +44 131 451 3421
+Fax:    +44 131 451 3327
+E-Mail: H.W.Loidl at hw.ac.uk
+Skype:  hwloidl
+URL:    http://www.macs.hw.ac.uk/~hwloidl
+
+School of Mathematical and
+Computer Sciences,
+Heriot-Watt University,
+Riccarton,
+Edinburgh EH14 4AS
+Scotland, U.K.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190809/eeb60d4a/attachment.html>
+
+From d.jacob.1 at research.gla.ac.uk  Thu Aug 29 16:59:47 2019
+From: d.jacob.1 at research.gla.ac.uk (Dejice Jacob (student))
+Date: Thu, 29 Aug 2019 15:59:47 +0000
+Subject: [Marionet] Manycore Newsletter #7 - Aug 2019
+Message-ID: <20190829160101.GA16816@sulabesi.dcs.gla.ac.uk>
+
+# Manycore Newsletter #7 - Aug 2019
+
+## Events
+
+The UK Manycore Network sponsored a couple of events over the summer months. These included the Scottish Programming Languages and Verification Summer School at Strathclyde University on 5â€“9 August. Topics covered were Probabilistic programming, Agda, Category theory, Session types, Domain specific languages and Parallel programming. Slides, photos and other resources are up at http://www.macs.hw.ac.uk/splv/splv19
+This was the first summer school in the series, but the organisers intend to run future events annually.
+
+The network also sponsored the 2nd UK OpenMP Users Conference at EPCC in Edinburgh on June 4-5. More details about the event are archived at https://ukopenmpusers.co.uk
+
+If you would like to host a manycore themed research workshop, please get in touch with Jeremy.Singer at glasgow.ac.uk soon (i.e. before we run out of event sponsorship money!)
+
+
+## Jobs
+
+### St Andrews 
+... hiring a Post-Doctoral Fellow to work on the EU H2020 TeamPlay project https://www.teamplay-h2020.eu
+If interested please get in touch with Chris Brown cmb21 at st-andrews.ac.uk
+
+### Imperial
+... advertising Four Academic Positions at Lecturer, Senior Lecturer, Reader or Professor Level. Deadline September 2nd 2019.
+For further details see https://www.imperial.ac.uk/jobs/description/ENG00918/four-academic-positions-lecturer-senior-lecturer-reader-or-professor-level
+
+### Cambridge
+... seeking to recruit a new faculty member at the Lecturer or Senior Lecturer level who can contribute to research and teaching in the broad area of Programming Languages. This includes (but is not limited to) Compilation, Program Analysis, Program Transformation, Type Systems, Semantics, Verification, Security, and Concurrency. See http://www.jobs.cam.ac.uk/job/21863/
+
+---
+https://manycore.org.uk
+Follow us on twitter at @UKManycore
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 473 bytes
+Desc: Digital signature
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190829/50388df4/attachment.sig>
+
+
+
+
+
+
+From kath at soton.ac.uk  Mon Sep 23 12:14:32 2019
+From: kath at soton.ac.uk (Kath Kerr)
+Date: Mon, 23 Sep 2019 11:14:32 +0000
+Subject: [Marionet] University of Southampton - Professor in Cyber-Physical
+ Systems Recruiting
+Message-ID: <AM0PR04MB6195F55B144190CF936B1ACB99850@AM0PR04MB6195.eurprd04.prod.outlook.com>
+
+Dear MaRIONet
+
+The University of Southampton is advertising for a Professor in Cyber-Physical Systems, which may be of interest to network members. Please visit our webpage for more details. Applications close on Monday 30th September 2019.
+
+https://jobs.soton.ac.uk/Vacancy.aspx?ref=1170719FP
+
+
+You will join our Cyber-Physical Systems (CPS) research Group, an established and friendly Group of around 50 researchers that provides opportunities to collaborate in a joint School of Electronics and Computer Science. We welcome applications from established academics who currently hold an equivalent position along with those who seek the opportunity to step up to a more senior role where they will have an opportunity to build a world class research team.
+
+
+
+Specific areas that would be advantageous but are not limited to include, computer engineering, formal methods, program verification, programming languages, real-time computing, safety-critical systems, adaptive control, cyber-security, human-systems interaction, and pervasive and ubiquitous computing. We value interdisciplinary working which provides you with the opportunity to work with colleagues across research areas and disciplines.
+
+
+
+With best wishes,
+
+Kath
+
+Kath Kerr
+EPSRC Project Manager
+POETS - EPSRC Programme Grant
+
+School of Electronics & Computer Science
+Faculty of Engineering and Physical Sciences
+University of Southampton
+Room 3205, Zepler Building (B59)
+Highfield Campus
+Southampton SO17 1BJ
+
+02380 592900
+kath at soton.ac.uk<mailto:kath at soton.ac.uk>
+
+[POETS]
+
+https://poets-project.org/
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190923/bd50bcdb/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image002.jpg
+Type: image/jpeg
+Size: 2840 bytes
+Desc: image002.jpg
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190923/bd50bcdb/attachment.jpg>
+
+
+
+
+
+
+From vijay.nagarajan at ed.ac.uk  Mon Oct  7 09:49:27 2019
+From: vijay.nagarajan at ed.ac.uk (Vijay Nagarajan)
+Date: Mon, 7 Oct 2019 09:49:27 +0100
+Subject: [Marionet] PPoPP 2020: Call for Brief Announcements
+Message-ID: <CAMYczZcODpY0E3NMauwSzjvWJWB8Jtvazp3f8t+zdB0Pia8fXQ@mail.gmail.com>
+
+* Call for Brief Announcements
+
+PPoPP 2020: 25th ACM SIGPLAN Annual Symposium on Principles and Practice of
+Parallel Programming
+
+San Diego, California, USA. (collocated with HPCA-2020 and CGO-2020) Dates:
+Sat 22 - Wed 26 February 2020.
+
+Conference URL: https://ppopp20.sigplan.org
+
+Submission URL: https://ppopp20posters.hotcrp.com
+
+** Important dates
+
+* Brief Announcement Submission: November 1, 2019
+* Author Notification: December 2, 2019
+* Final Version Due: January 6, 2020
+
+All deadlines are at midnight anywhere on earth (AoE), and are firm.
+
+** Scope
+
+PPoPP is the premier forum for leading work on all aspects of parallel
+programming, including theoretical foundations, techniques, languages,
+compilers, runtime systems, tools, and practical experience.  PPoPP Brief
+Announcements are expected to discuss thought-provoking research that is
+not yet mature enough for publication as a full paper.  The specific topics
+of interest for PPoPP Brief Announcements include, but are not limited to,
+those listed for the main conference (see
+https://ppopp20.sigplan.org/track/PPoPP-2020 papers#Call-for-Papers).
+
+** Brief Announcement Submission
+
+All submissions must be made electronically through the conference web
+site. Submissions should be no more than 2 pages, including references,
+using the SIGPLAN proceedings template.  Appendices are not allowed, but
+the authors may submit supplementary material, such as proofs or source
+code; all supplementary material must be in PDF or ZIP format. Looking at
+supplementary material is at the discretion of the reviewers.  Accepted
+Brief Announcements will appear in the PPOPP proceedings.  Please note that
+publishing a Brief Announcement does not prevent an author from publishing
+a full manuscript on the same topic at a later time.
+
+Submission is double blind and authors will need to identify any potential
+conflicts of interest with the Brief Announcement Program Committee, as
+defined in the ACM SIGPLAN policy at
+http://www.sigplan.org/Resources/Policies/Review/.  Submissions should not
+reveal the identity of the authors in any way. Authors should leave out
+author names and affiliations from the body of their submission. They
+should also ensure that any references to authors' own related work should
+be in the third person (e.g., not "We build on our previous work ..." but
+rather "We build on the work of ...").  The purpose of this process is to
+help the PC and external reviewers come to an initial judgment about the
+paper without bias, not to make it impossible for them to discover the
+authors if they were to try. Nothing should be done in the name of
+anonymity that weakens the submission or makes the job of reviewing the
+paper more difficult. In particular, important background references should
+not be omitted or anonymized. In addition, authors should feel free to
+disseminate their ideas or draft versions of their paper as they normally
+would. For instance, authors may post drafts of their papers on the web or
+give talks on their research ideas. Authors with further questions on
+double-blind reviewing are encouraged to contact the Program Chair by email.
+
+Submissions should be in PDF and printable on both US Letter and A4 paper.
+Papers may be resubmitted to the submission site multiple times up until
+the deadline, but the last version submitted before the deadline will be
+the version reviewed. Papers that exceed the length requirement, that
+deviate from the expected format, or that are submitted late will be
+rejected.
+
+** Publication Date
+
+The titles of all accepted Brief Announcements are typically announced
+shortly after the author notification date. Note, however, that this is not
+the official publication date. The official publication date is the date
+the proceedings are made available in the ACM Digital Library. ACM will
+make the proceedings available via the Digital Library for one month, up to
+2 weeks prior to the first day of the conference. The official publication
+date affects the deadline for any patent filings related to published work.
+
+** Presentation and Poster Session Details
+
+At least one author of each Brief Announcement must register for and attend
+the conference.  Each accepted Brief Announcement will be expected to give
+a short  presentation of their work (length TBD) during the conference, and
+also to present a poster during the PPoPP research poster session.
+
+** Program Committee
+
+* James Bornholt, UT Austin
+* Dave Dice, Oracle
+* Dimitar Dimitrov, ETH
+* Dana Drachsler-Cohen, Technion
+* Jeff Huang, Texas A&M
+* Ang Li, PNNL
+* Umang Mathur, UIUC
+* Sasa Misailovic, UIUC (co-chair)
+* Bin Ren, WM
+* Tao B Schardl, MIT
+* Mike Spear, Lehigh (co-chair)
+* Robert Utterback, Monmouth State
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20191007/47bccc98/attachment.html>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20191007/47bccc98/attachment.ksh>
+
+
+
+
+
+
+From Jeremy.Singer at glasgow.ac.uk  Tue Nov 12 19:05:26 2019
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Tue, 12 Nov 2019 19:05:26 +0000
+Subject: [Marionet] Manycore Newsletter #8 - Nov 2019
+Message-ID: <alpine.OSX.2.21.1911121902200.40589@saunders.dcs.gla.ac.uk>
+
+# Manycore Newsletter #8 - Nov 2019
+
+## Manycore network funding extended
+
+Brexit wasn't the only thing delayed past 31 Oct ... the UK
+Manycore Network funding from EPSRC was also due to finish on 31
+Oct. However we are delighted to announce we have received an
+extension till 31 March 2020 - which will allow us to run some
+more workshops and publish our final report next year.
+
+## EPSRC calls
+
+There are several highly relevant activities taking place at the
+moment. The Digital Security by Design challenge aims to increase
+the protection of software in the light of increased cyber-attack
+against various class of software vulnerabilities, through
+additional hardware protection capabilities architected around
+the containment of pointers, and the privilege by which regions
+of fine grain data can be accessed. See
+https://epsrc.ukri.org/funding/calls/iscf-digital-security-by-design-research-projects/
+for full details. Info workshop in London on 22 Nov. Outline
+proposal deadline on 7 Jan.
+
+The Trustworthy Autonomous Systems iniative is well
+underway. EPSRC hosted a town-hall style workshop in October. An
+call for outline proposals for a Trustworthy Autonomous Systems
+hub is now live, closing date 12 Dec. See
+https://epsrc.ukri.org/funding/calls/trustworthy-autonomous-systems-hub-outline-call/
+for details. A further funding call is due to be announced soon.
+
+## Research workshops
+
+We supported the Scottish Programming Languages Seminar in
+Glasgow on 30 Oct - see
+https://spls-series.github.io/meetings/2019/october/ for
+details. Over 60 researchers enjoyed a keynote talk from James
+Noble (New Zealand) who described how "programs don't just
+simulate the real world, but rise from the abyss replace it."
+Other hot topics included Session Types, Dependent Types and APL.
+
+We have significant amounts of funding left to support further
+academic workshops. We can pay for keynote speaker travel,
+catering and room hire for events. Please get in touch with
+d.jacob.1 at research.gla.ac.uk to apply for network funding to host
+an event.
+
+
+---
+https://manycore.org.uk
+Follow us on twitter at @UKManycore
+
+
+From Jeremy.Singer at glasgow.ac.uk  Wed Nov 13 10:24:30 2019
+From: Jeremy.Singer at glasgow.ac.uk (Jeremy Singer)
+Date: Wed, 13 Nov 2019 10:24:30 +0000
+Subject: [Marionet] Manycore Newsletter #8 - Nov 2019 - Extra News
+In-Reply-To: <LO2P123MB22397E8D7987032B82232AE0A0760@LO2P123MB2239.GBRP123.PROD.OUTLOOK.COM>
+References: <alpine.OSX.2.21.1911121902200.40589@saunders.dcs.gla.ac.uk>
+ <LO2P123MB22397E8D7987032B82232AE0A0760@LO2P123MB2239.GBRP123.PROD.OUTLOOK.COM>
+Message-ID: <C10BF0A4-81B8-4CD1-BAEF-1E51B8123EA4@glasgow.ac.uk>
+
+Stop Press! Another item for the Manycore Newsletter #8 - this is just in...
+
+Rhys Perry from EPSRC writes...
+
+> Hello,
+> 
+> I am writing to invite you to a joint UK Computing Research Committee and EPSRC workshop on the 6th December in Edinburgh. 
+> 
+> The aims of the workshop are to:
+> *	Develop a strategy to rejuvenate and focus UK Computing Research for the next 5-10 years
+> *	Identify key technical and societal challenges that computing researchers can address in partnership with the EPSRC and lead government departments
+> 
+> The workshop programme will run from 9:45 - 16:00 and will include:
+> *	Talks from researchers from non-computing domains, discussing the challenges they face and identifying opportunities for how the computing research community could help overcome these challenges.
+> *	Formation of exciting, adventurous research ideas which could transform the computing research landscape with a view to development for EPSRC's Big Ideas initiative.
+> *	A presentation on consultations, outlining how you can effectively contribute to getting the voice of the computing research community heard.
+> *	Discussion on regulation - raising awareness and understanding of what regulation means in the computing research community, now and in the future.
+> *	The UKCRC AGM will be incorporated into the event, and will include discussion on the mission of UKCRC as well as an update on work streams.
+> 
+> Non-members of UKCRC and early career researchers are strongly encouraged to attend, as a diverse pool of attendees is desired.
+> This workshop follows on from a workshop organised by UKCRC and EPSRC in September 2019 held at Newcastle University. The report of this workshop will be published shortly on the UKCRC website.
+> 
+> Please use the Eventbrite link to register for the workshop: https://www.eventbrite.co.uk/e/ukcrcepsrc-workshop-tickets-80436607057 
+> 
+> Please can you circulate this information to any colleagues that you think would be interested in attending.
+> 
+> Many thanks,
+> Rhys
+> 
+> Rhys Perry
+> Portfolio Manager
+> Information and Communication Technologies (ICT) Theme
+> Engineering and Physical Sciences Research Council 
+> E-mail: rhys.perry at epsrc.ukri.org 
+> Tel: +44 (0)1793 444466
+
+---
+https://manycore.org.uk
+Follow us on twitter at @UKManycore
+
 

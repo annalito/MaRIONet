@@ -1,0 +1,91 @@
+From vijay.nagarajan at ed.ac.uk  Sun Jul 21 17:26:31 2019
+From: vijay.nagarajan at ed.ac.uk (Vijay Nagarajan)
+Date: Sun, 21 Jul 2019 17:26:31 +0100
+Subject: [Marionet] Fully funded PhD position on Protocol Synthesis
+Message-ID: <CAMYczZc8b1EP=t4JNggMM1_enzkE_iPFm87gesq++Tcs2_u3ww@mail.gmail.com>
+
+Concurrent and distributed protocols (e.g. cache coherence protocols) are
+notoriously hard to get right or scale. Can we use program synthesis
+techniques to synthesise correct-by-construction and high-performance
+protocols?
+
+This position is suited for a motivated researcher with strong coding
+skills, a strong undergraduate (or postgraduate) degree, and expertise in
+one or more of the following areas:
+
+-computer architecture
+
+-verification
+
+-programming languages.
+
+-distributed systems
+
+-concurrency
+
+This is a fully funded PhD position with no restrictions on nationality.
+
+Please contact Dr. Vijay Nagarajan (vijay.nagarajan at ed.ac.uk) for more
+information.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190721/261f7e71/attachment.html>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190721/261f7e71/attachment.ksh>
+
+From Rhys.Perry at epsrc.ukri.org  Tue Jul 23 11:29:13 2019
+From: Rhys.Perry at epsrc.ukri.org (Rhys Perry)
+Date: Tue, 23 Jul 2019 10:29:13 +0000
+Subject: [Marionet] EPSRC ICT Strategic Advisory Team Vacancies
+Message-ID: <LO2P123MB22390CA14BAC8B6527E3A925A0C70@LO2P123MB2239.GBRP123.PROD.OUTLOOK.COM>
+
+Dear All,
+
+I would like to bring to your attention that the ICT theme at EPSRC are currently recruiting for vacancies on our Strategic Advisory Team in the following areas of expertise, which may be of interest:
+
+*        Fundamentals of Computing (Academic or Industry/User, number of vacancies: 1)
+
+o   Vacancy includes the EPSRC Research areas of Theoretical Computer Science, Architectures and Operating Systems, Programming Languages and Compilers and Verification and Correctness.
+
+*        Communications (Academic or Industry/User, number of vacancies: 1)
+
+o   This vacancy requires the capability to take a broad overview of the next generation communications landscape. With the ever increasing pervasiveness of communication systems and the growing reliance of wider societal technologies on distributed systems, it is strategically crucial to comprehend the prevalent direction in which this area should further develop.
+
+*        Photonics (Academic or Industry/User, number of vacancies: 1)
+
+o   Vacancy includes the research areas of Optoelectronic devices and circuits, optical devices and subsystems and optical communications. Please note: This vacancy could be filled as a joint appointment across both the ICT and Physical Sciences SAT. When applying could applicants please indicate which Strategic Advisory Team(s) they are interested in using the check-boxes provided.
+
+For more information on the role and application process, please see: https://epsrc.ukri.org/about/governance/recruitment/membershipsab/
+Applications must be received by 16.00 on 23 August 2019. The application form will automatically close at this time (even if an application is being worked on).
+
+Please share this information with colleagues who may be interested.
+
+Kind regards,
+Rhys
+
+Rhys Perry
+Portfolio Manager
+Information and Communication Technologies (ICT) Theme
+Tel: +44 (0)1793 444466
+E-mail: rhys.perry at epsrc.ukri.org<mailto:rhys.perry at epsrc.ukri.org>
+Website: www.epsrc.ukri.org<http://www.epsrc.ukri.org/>
+Polaris House, North Star Avenue, Swindon, SN2 1ET
+
+[EPSRC UKRI logo]
+
+The Engineering and Physical Sciences Research Council is part of UK Research and Innovation. For more information visit www.ukri.org<http://www.ukri.org/>.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190723/87531cc1/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image002.png
+Type: image/png
+Size: 32673 bytes
+Desc: image002.png
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20190723/87531cc1/attachment-0001.png>
+
+

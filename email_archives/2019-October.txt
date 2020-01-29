@@ -1,0 +1,116 @@
+From vijay.nagarajan at ed.ac.uk  Mon Oct  7 09:49:27 2019
+From: vijay.nagarajan at ed.ac.uk (Vijay Nagarajan)
+Date: Mon, 7 Oct 2019 09:49:27 +0100
+Subject: [Marionet] PPoPP 2020: Call for Brief Announcements
+Message-ID: <CAMYczZcODpY0E3NMauwSzjvWJWB8Jtvazp3f8t+zdB0Pia8fXQ@mail.gmail.com>
+
+* Call for Brief Announcements
+
+PPoPP 2020: 25th ACM SIGPLAN Annual Symposium on Principles and Practice of
+Parallel Programming
+
+San Diego, California, USA. (collocated with HPCA-2020 and CGO-2020) Dates:
+Sat 22 - Wed 26 February 2020.
+
+Conference URL: https://ppopp20.sigplan.org
+
+Submission URL: https://ppopp20posters.hotcrp.com
+
+** Important dates
+
+* Brief Announcement Submission: November 1, 2019
+* Author Notification: December 2, 2019
+* Final Version Due: January 6, 2020
+
+All deadlines are at midnight anywhere on earth (AoE), and are firm.
+
+** Scope
+
+PPoPP is the premier forum for leading work on all aspects of parallel
+programming, including theoretical foundations, techniques, languages,
+compilers, runtime systems, tools, and practical experience.  PPoPP Brief
+Announcements are expected to discuss thought-provoking research that is
+not yet mature enough for publication as a full paper.  The specific topics
+of interest for PPoPP Brief Announcements include, but are not limited to,
+those listed for the main conference (see
+https://ppopp20.sigplan.org/track/PPoPP-2020 papers#Call-for-Papers).
+
+** Brief Announcement Submission
+
+All submissions must be made electronically through the conference web
+site. Submissions should be no more than 2 pages, including references,
+using the SIGPLAN proceedings template.  Appendices are not allowed, but
+the authors may submit supplementary material, such as proofs or source
+code; all supplementary material must be in PDF or ZIP format. Looking at
+supplementary material is at the discretion of the reviewers.  Accepted
+Brief Announcements will appear in the PPOPP proceedings.  Please note that
+publishing a Brief Announcement does not prevent an author from publishing
+a full manuscript on the same topic at a later time.
+
+Submission is double blind and authors will need to identify any potential
+conflicts of interest with the Brief Announcement Program Committee, as
+defined in the ACM SIGPLAN policy at
+http://www.sigplan.org/Resources/Policies/Review/.  Submissions should not
+reveal the identity of the authors in any way. Authors should leave out
+author names and affiliations from the body of their submission. They
+should also ensure that any references to authors' own related work should
+be in the third person (e.g., not "We build on our previous work ..." but
+rather "We build on the work of ...").  The purpose of this process is to
+help the PC and external reviewers come to an initial judgment about the
+paper without bias, not to make it impossible for them to discover the
+authors if they were to try. Nothing should be done in the name of
+anonymity that weakens the submission or makes the job of reviewing the
+paper more difficult. In particular, important background references should
+not be omitted or anonymized. In addition, authors should feel free to
+disseminate their ideas or draft versions of their paper as they normally
+would. For instance, authors may post drafts of their papers on the web or
+give talks on their research ideas. Authors with further questions on
+double-blind reviewing are encouraged to contact the Program Chair by email.
+
+Submissions should be in PDF and printable on both US Letter and A4 paper.
+Papers may be resubmitted to the submission site multiple times up until
+the deadline, but the last version submitted before the deadline will be
+the version reviewed. Papers that exceed the length requirement, that
+deviate from the expected format, or that are submitted late will be
+rejected.
+
+** Publication Date
+
+The titles of all accepted Brief Announcements are typically announced
+shortly after the author notification date. Note, however, that this is not
+the official publication date. The official publication date is the date
+the proceedings are made available in the ACM Digital Library. ACM will
+make the proceedings available via the Digital Library for one month, up to
+2 weeks prior to the first day of the conference. The official publication
+date affects the deadline for any patent filings related to published work.
+
+** Presentation and Poster Session Details
+
+At least one author of each Brief Announcement must register for and attend
+the conference.  Each accepted Brief Announcement will be expected to give
+a short  presentation of their work (length TBD) during the conference, and
+also to present a poster during the PPoPP research poster session.
+
+** Program Committee
+
+* James Bornholt, UT Austin
+* Dave Dice, Oracle
+* Dimitar Dimitrov, ETH
+* Dana Drachsler-Cohen, Technion
+* Jeff Huang, Texas A&M
+* Ang Li, PNNL
+* Umang Mathur, UIUC
+* Sasa Misailovic, UIUC (co-chair)
+* Bin Ren, WM
+* Tao B Schardl, MIT
+* Mike Spear, Lehigh (co-chair)
+* Robert Utterback, Monmouth State
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20191007/47bccc98/attachment.html>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://mr1.dcs.gla.ac.uk/mailman/private/marionet/attachments/20191007/47bccc98/attachment.ksh>
+
+
